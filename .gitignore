@@ -1,5 +1,2 @@
 # Ignore pyenv
 vgsales_env/
-
-# Ignore results csv
-results/
