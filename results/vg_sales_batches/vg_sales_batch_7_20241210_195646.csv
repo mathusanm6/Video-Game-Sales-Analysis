@@ -1,0 +1,784 @@
+Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
+Agatha Christie: The ABC Murders,PC,2016.0,Adventure,Microids,0.0,0.02,0.0,0.0,0.02,66.0,15.0,8.5,144.0,Gravity Europe SAS,T
+Elminage Gothic: Ulm Zakir to Yami no Gishiki,PSP,2012.0,Role-Playing,Starfish,0.0,0.0,0.02,0.0,0.02,,,,,Starfish SD,
+Planetarium Creator Ohira Takayuki Kanshuu: HomeStar Portable - 21st Century Star Navigator,PSP,2006.0,Misc,Sega,0.0,0.0,0.02,0.0,0.02,,,,,,
+Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!!,3DS,2011.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Inti Creates,CERO_A
+Mushishi: Amefuru Sato,DS,2008.0,Simulation,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,,,,,Marvelous Entertainment,CERO_A
+Timmy Time,DS,2011.0,Action,Avanquest,0.0,0.02,0.0,0.0,0.02,,,,,,
+Arcana Famiglia: Vascello Phantasma no Majutsushi,PSP,2012.0,Action,Comfort,0.0,0.0,0.02,0.0,0.02,,,,,Comfort,CERO_B
+The Legend of Heroes: Trails in the Sky Second Chapter,PS3,2013.0,Role-Playing,Falcom Corporation,0.0,0.0,0.02,0.0,0.02,,,,,,
+Airport Simulator,PC,2011.0,Simulation,Unknown,0.0,0.02,0.0,0.0,0.02,,,,,United Independent Entertainment GmbH,
+Winning Post 7: Maximum 2007,PS2,2007.0,Sports,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,Koei,CERO_A
+Strike Witches: Anata to Dekiru Koto - A Little Peaceful Days,PS2,2010.0,Action,Russel,0.0,0.0,0.02,0.0,0.02,,,,,,
+Vitamin R,PSP,2013.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,Rejet,CERO_B
+Angelique Retour,PSV,2015.0,Action,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,Ruby Party,CERO_B
+Gakuen K: Wonderful School Days,PSP,2014.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Ichi Column,CERO_B
+Dragon Ball Z: Buu's Fury / Dragon Ball GT: Transformation,GBA,2006.0,Action,Atari,0.01,0.01,0.0,0.0,0.02,,,,,,
+Guitar Freaks V2 & DrumMania V2,PS2,2006.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Dance! It's Your Stage,PS3,2010.0,Misc,DTP Entertainment,0.0,0.02,0.0,0.0,0.02,,,,,DTP Entertainment,Three
+CV Casting Voice,PS3,2014.0,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Crafts & Meister,
+Pastel Chime Continue,PSP,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,Alicesoft,
+Zwei!!,PSP,2008.0,Role-Playing,Falcom Corporation,0.0,0.0,0.02,0.0,0.02,,,,,Nihon Falcom,
+Ro-Kyu-Bu! Lost Secret,PSP,2013.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02,,,,,,
+Devil Survivor: Over Clock,3DS,2015.0,Strategy,Atlus,0.0,0.0,0.02,0.0,0.02,,,,,,
+Defendin' De Penguin,DS,2008.0,Strategy,Zushi Games,0.02,0.0,0.0,0.0,0.02,,,,,Crave Entertainment,E
+Sega Ages 2500 Series Vol. 32: Phantasy Star Complete Collection,PS2,2008.0,Role-Playing,Sega,0.0,0.0,0.02,0.0,0.02,,,,,,
+Kokoro Connect: Yochi Random,PSP,2012.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Banpresto,CERO_B
+Warship Gunner 2 Portable,PSP,2009.0,Simulation,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,
+Downtown Nekketsu Jidaigek,3DS,2015.0,Action,Arc System Works,0.0,0.0,0.02,0.0,0.02,,,,,,
+Spanish for Everyone!,DS,2007.0,Puzzle,Activision,0.02,0.0,0.0,0.0,0.02,,,,,Activision Publishing,E
+Uchuu Keiji Tamashii: The Space Sheriff Spirits,PS2,2006.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+X-Plane 10 Global,PC,2013.0,Simulation,Aerosoft,0.0,0.02,0.0,0.0,0.02,,,,,,
+Drakensang: The Dark Eye,PC,2009.0,Role-Playing,Eidos Interactive,0.02,0.0,0.0,0.0,0.02,,,,,Radon Labs,Twelve
+WRC 2: FIA World Rally Championship,PC,2011.0,Racing,Ubisoft,0.0,0.02,0.0,0.0,0.02,,,,,Black Bean Games,Three
+StormLover Karen!!,PSP,2011.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
+Steins;Gate: Hiyoku Renri no Darling,PS3,2012.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,NITRO PLUS,T
+Coded Soul: Uke Keigareshi Idea,PSP,2008.0,Role-Playing,Sony Computer Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+AIR,PSP,2007.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02,,,,,Key,CERO_C
+Hana to Otome ni Shukufuku o: Harekaze no Okurimono,PS2,2010.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02,,,,,,
+Otoko Yukaku,PSV,2015.0,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
+Mount & Blade Collection,PC,2012.0,Role-Playing,Paradox Interactive,0.0,0.02,0.0,0.0,0.02,,,,,,
+Mortal Kombat,PC,1994.0,Fighting,Acclaim Entertainment,0.02,0.0,0.0,0.0,0.02,,,,,,
+TV Anime Idolm@ster: Cinderella Girls G4U! Pack Vol.5,PS3,2015.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Virtua Pro Football,PS2,2006.0,Sports,Sega,0.0,0.0,0.02,0.0,0.02,,,,,,
+Date-A-Live Twin Edition: Rio Reincarnation,PSV,2015.0,Action,Compile Heart,0.0,0.0,0.02,0.0,0.02,,,,,,
+Adidas Power Soccer 98,PS,1998.0,Sports,Psygnosis,0.01,0.01,0.0,0.0,0.02,,,,,,E
+Natsuiro High School: Seishun Hakusho,PS4,2015.0,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,D3Publisher,CERO_D
+Yu-Gi-Oh! 5D's Wheelie Breakers (JP sales),Wii,2009.0,Racing,Unknown,0.0,0.0,0.02,0.0,0.02,,,,,,
+Heroes VS,PSP,2013.0,Fighting,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,CERO_A
+Sotsugyou II: Neo Generation Special,3DO,1995.0,Simulation,Imageworks,0.0,0.0,0.02,0.0,0.02,,,,,,
+Tsuki ni Yori Sou Otome no Sahou: Hidamari no Hibi,PSV,2015.0,Adventure,dramatic create,0.0,0.0,0.02,0.0,0.02,,,,,,
+Kazoku Keikaku,PSP,2010.0,Adventure,CyberFront,0.0,0.0,0.02,0.0,0.02,,,,,,
+Resident Evil 5 HD,XOne,2016.0,Action,Capcom,0.02,0.0,0.0,0.0,0.02,,,,,,
+"Transformers: Revenge of the Fallen (XBox 360, PS3, & PC Versions)",PC,2009.0,Shooter,Activision,0.02,0.0,0.0,0.0,0.02,,,,,,
+UFO: Trilogy,PC,2007.0,Strategy,Unknown,0.0,0.02,0.0,0.0,0.02,,,,,Cenega Publishing,
+Amatsumi Sora ni! Kumo no Hatate ni,PSV,2015.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02,,,,,,
+Dark Tales: Edgar Allan Poe's The Premature Burial,PC,2012.0,Puzzle,Focus Multimedia,0.0,0.02,0.0,0.0,0.02,,,,,,
+Aoishiro,PS2,2008.0,Adventure,Success,0.0,0.0,0.02,0.0,0.02,,,,,,
+Mount & Blade: Warband,PC,2010.0,Role-Playing,Paradox Interactive,0.01,0.01,0.0,0.0,0.02,,,,,Paradox Interactive,Sixteen
+PC Engine Best Collection: Tengai Makyou Collection,PSP,2008.0,Role-Playing,Hudson Soft,0.0,0.0,0.02,0.0,0.02,,,,,Hudson Soft,CERO_B
+You Don't Know Jack,PC,1995.0,Misc,Vivendi Games,0.02,0.0,0.0,0.0,0.02,,,,,Jellyvision,T
+Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome,PSP,2010.0,Misc,Karin Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,Karin Entertainment,CERO_B
+Dreamer Series: Horse Trainer,DS,2008.0,Simulation,DreamCatcher Interactive,0.02,0.0,0.0,0.0,0.02,,,tbd,,,
+Katekyoo Hitman Reborn! Dream Hyper Battle!,PS2,2007.0,Fighting,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,,,,,,
+Muchi Muchi Pork & Pink Sweets,X360,2011.0,Shooter,Cave,0.0,0.0,0.02,0.0,0.02,,,,,,
+Trapped Dead,PC,2011.0,Strategy,Iceberg Interactive,0.0,0.02,0.0,0.0,0.02,50.0,14.0,4.7,57.0,Headup Games,
+Meiji Toukyou Renka,PSP,2013.0,Adventure,Broccoli,0.0,0.0,0.02,0.0,0.02,,,,,HuneX,CERO_C
+Mushihimesama,X360,2012.0,Action,Cave,0.0,0.0,0.02,0.0,0.02,,,,,,
+Higurashi no Naku Koro ni: Jan,PSP,2009.0,Misc,AQ Interactive,0.0,0.0,0.02,0.0,0.02,,,,,AQ Interactive,
+Ratchet & Clank Collection,PSV,2014.0,Action,Sony Computer Entertainment,0.0,0.01,0.0,0.0,0.02,,,,,Sony Computer Entertainment,E10
+Elvandia Story,PS2,2007.0,Role-Playing,Spike,0.0,0.0,0.02,0.0,0.02,,,,,Spike,
+Winning Post 8 2016,PS4,2016.0,Simulation,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,CERO_A
+Soukoku no Kusabi: Hiiro no Kakera 3 - Ashita e no Tobira,PSP,2012.0,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,,
+Triggerheart Excelica Enhanced,PS2,2009.0,Shooter,Alchemist,0.0,0.0,0.02,0.0,0.02,,,,,,
+Puzzle Star Sweep,PS,1997.0,Puzzle,Midas Interactive Entertainment,0.01,0.01,0.0,0.0,0.02,,,,,Axela,E
+Battle Spirits: Kiseki no Hasha,PSP,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Bandai,
+The Conveni 4,PS2,2006.0,Simulation,Hamster Corporation,0.0,0.0,0.02,0.0,0.02,,,,,,
+Kamen Rider: Battride War II,WiiU,2014.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Eighting,CERO_B
+Niko Puchi Girls Runway,3DS,2015.0,Misc,Happinet,0.0,0.0,0.02,0.0,0.02,,,,,,
+Seitokai no Ichizon: DS-suru Seitokai,DS,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02,,,,,,
+Disney Infinity,PSV,2013.0,Action,Disney Interactive Studios,0.01,0.0,0.0,0.0,0.02,,,,,Avalanche Software,E10
+Teenage Mutant Ninja Turtles Double Pack,GBA,2006.0,Action,Konami Digital Entertainment,0.01,0.0,0.0,0.0,0.02,,,,,Hudson Soft,Seven
+Prism Ark: Awake,PS2,2008.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,,
+TV Anime Idolm@ster: Cinderella Girls G4U! Pack Vol.8,PS3,2016.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Rozen Maiden: Duellwalzer,PS2,2006.0,Adventure,Taito,0.0,0.0,0.02,0.0,0.02,,,,,,
+Rugby 06,XB,2006.0,Sports,Electronic Arts,0.01,0.0,0.0,0.0,0.02,76.0,18.0,tbd,,EA Canada,E
+Winter Blast: 9 Snow & Ice Games,Wii,2010.0,Sports,Destineer,0.02,0.0,0.0,0.0,0.02,,,,,,E
+Coven and Labyrinth of Refrain,PSV,2016.0,Action,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02,,,,,Nippon Ichi Software,M
+Natsuiro High School: Seishun Hakusho,PS3,2015.0,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,D3Publisher,CERO_D
+Uppers,PSV,2016.0,Action,Marvelous Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,Bullets Co. Ltd.,Sixteen
+Shrek / Shark Tale Game Boy Advance Video,GBA,2006.0,Misc,Hasbro Interactive,0.01,0.0,0.0,0.0,0.02,,,,,,
+Lovely x Cation 1 & 2,PSV,2015.0,Action,5pb,0.0,0.0,0.02,0.0,0.02,,,,,5pb.,
+Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai All-Star Special,PS3,2015.0,Action,Arc System Works,0.0,0.0,0.02,0.0,0.02,,,,,,
+Ginga Fukei Densetsu: Sapphire,TG16,1995.0,Shooter,Hudson Soft,0.0,0.0,0.02,0.0,0.02,,,,,,
+Katekyoo Hitman Reborn!! Let's Ansatsu!? Nerawareta 10 Daime!,PS2,2007.0,Action,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,,,,,,
+Guitar Freaks V3 & DrumMania V3,PS2,2007.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+The Crow: City of Angels,PS,1997.0,Action,Acclaim Entertainment,0.01,0.01,0.0,0.0,0.02,,,,,Acclaim Entertainment,M
+Military History: Commander - Europe at War,PSP,2009.0,Strategy,Slitherine Software,0.0,0.01,0.0,0.01,0.02,,,,,Slitherine Software UK Ltd.,E10
+Snow Portable,PSP,2007.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02,,,,,,
+Poyo Poyo Kansatsu Nikki,3DS,2012.0,Action,IE Institute,0.0,0.0,0.02,0.0,0.02,,,,,,
+Jinsei Game DS,DS,2006.0,Misc,Atlus,0.0,0.0,0.02,0.0,0.02,,,,,,
+Guitar Freaks & DrumMania: Masterpiece Gold,PS2,2007.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+7 Roses: A Darkness Rises,PC,2015.0,Misc,Avanquest Software,0.0,0.02,0.0,0.0,0.02,,,,,,
+Nil Admirari no Tenbin: Teito Genwaku Toukidan,PSV,2016.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,,
+Miyako,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Sanctuary,CERO_B
+Motto NUGA-CEL!,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,,
+Yu-Gi-Oh! GX: The Beginning of Destiny (JP sales),PS2,2007.0,Strategy,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Super Dodge Ball,NG,1995.0,Sports,Technos Japan Corporation,0.0,0.0,0.02,0.0,0.02,,,,,,
+11eyes: CrossOver,PSP,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,,
+Gon: BakuBakuBakuBaku Adventure,3DS,2012.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Bandai Namco Entertainment,CERO_A
+Style Book: Junior City,DS,2006.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Earth Seeker,Wii,2011.0,Role-Playing,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02,,,,,Enterbrain,
+"Warhammer 40,000: Dawn of War: Soulstorm",PC,2008.0,Strategy,THQ,0.0,0.02,0.0,0.0,0.02,,,,,Relic Entertainment,Sixteen
+IGT Slots: Lucky Larry's Lobstermania,PC,2011.0,Simulation,Masque Publishing,0.02,0.0,0.0,0.0,0.02,,,tbd,,,
+Atlantic Quest,PC,2011.0,Puzzle,Avanquest,0.0,0.02,0.0,0.0,0.02,,,,,,
+Bakumatsu Rock: Ultra Soul,PSV,2014.0,Misc,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,,,,,Marvelous AQL,
+Tantei Opera: Milky Holmes,PSP,2010.0,Adventure,Unknown,0.0,0.0,0.02,0.0,0.02,,,,,,
+PopCap Hits!,X360,2011.0,Misc,PopCap Games,0.0,0.02,0.0,0.0,0.02,,,,,,
+Entaku no Seito: The Eternal Legend,PSP,2012.0,Role-Playing,Kadokawa Games,0.0,0.0,0.02,0.0,0.02,,,,,Kadokawa Games,
+New Atelier Rorona: Hajimari no Monogatari,3DS,2015.0,Action,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,
+Sega Ages 2500 Series Vol. 29: Monster World Complete Collection,PS2,2007.0,Role-Playing,Sega,0.0,0.0,0.02,0.0,0.02,,,,,,
+Cabela's Alaskan Adventure,PS2,2006.0,Sports,Unknown,0.01,0.01,0.0,0.0,0.02,,,,,FUN Labs,T
+Metal Fight Beyblade Portable: Chouzetsu Tensei Vulcan Horses,PSP,2010.0,Action,Takara Tomy,0.0,0.0,0.02,0.0,0.02,,,,,,
+Elf Bowling 1 & 2,DS,2005.0,Sports,Ignition Entertainment,0.02,0.0,0.0,0.0,0.02,,,,,Ignition Entertainment,T
+"Moshi, Kono Sekai ni Kami-sama ga Iru to suru Naraba.",PSV,2016.0,Adventure,,0.0,0.0,0.02,0.0,0.02,,,,,Rejet,CERO_D
+Germany's Next Topmodel 2011,Wii,2011.0,Simulation,7G//AMES,0.0,0.02,0.0,0.0,0.02,,,,,,
+Heavy Fire: Afghanistan,PC,2011.0,Shooter,Mastiff,0.02,0.0,0.0,0.0,0.02,,,3.2,5.0,Teyon,T
+Arabians Lost: The Engagement on Desert,PS2,2007.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02,,,,,QuinRose,CERO_B
+Densha de Go! Tokubetsu-hen: Fukkatsu Shouwa no Yamatesen,DS,2010.0,Simulation,Square Enix,0.0,0.0,0.02,0.0,0.02,,,,,,
+SD Gundam Sangokuden Brave Battle Warriors: Shin Mirisha Taisen,DS,2010.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Gakken DS: Shin TOEIC Test Kanzen Kouryaku,DS,2007.0,Misc,Gakken,0.0,0.0,0.02,0.0,0.02,,,,,,
+Summon Night Granthese: Horobi no Ken to Yakusoku no Kishi,PS2,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Starry ? Sky: After Summer,PSP,2013.0,Misc,Asgard,0.0,0.0,0.02,0.0,0.02,,,,,Honeybee,CERO_C
+Thomas & Friends: Hero of the Rails,Wii,2010.0,Misc,Unknown,0.0,0.01,0.0,0.0,0.02,,,,,,E
+Empire Deluxe,PC,1992.0,Strategy,New World Computing,0.02,0.0,0.0,0.0,0.02,,,,,,
+Gallop Racer Inbreed,PS2,2006.0,Sports,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,Tecmo,CERO_A
+Ketsui: Kizuna Jigoku Tachi Extra,X360,2010.0,Shooter,5pb,0.0,0.0,0.02,0.0,0.02,,,,,5pb.,
+The King of Fighters Collection: The Orochi Saga (JP sales),PS2,2006.0,Fighting,Ignition Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Suzumiya Haruhi-Chan no Mahjong,PSP,2011.0,Misc,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02,,,,,Namco Bandai Games,CERO_A
+Tsuki no Hikari: Shizumeru Kane no Satsujin,PS2,2002.0,Adventure,Victor Interactive,0.0,0.0,0.02,0.0,0.02,,,,,,
+Writing and Speaking Beautiful Japanese DS,DS,2007.0,Misc,Unknown,0.0,0.0,0.02,0.0,0.02,,,,,,
+Sega Ages 2500 Series Vol. 26: Dynamite Deka,PS2,2006.0,Action,Sega,0.0,0.0,0.02,0.0,0.02,,,,,,
+Koisuru Otome to Shugo no Tate Portable,PSP,2010.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02,,,,,,
+PachiPara 3D: Ooumi Monogatari 2 - Pachi Pro Fuuunroku Hana,3DS,2012.0,Action,Irem Software Engineering,0.0,0.0,0.02,0.0,0.02,,,,,Irem,CERO_C
+"Shounen Onmyouji: Tsubasa Yoima, Ten e Kaere",PS2,2007.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02,,,,,,
+Bakumatsu Renka: Karyuu Kenshi-den,PS2,2007.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
+Grisaia no Rakuen: Le Eden de la Grisaia,PSV,2014.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02,,,,,,
+Nodame Cantabile: Tanoshii Ongaku no Jikan Desu,DS,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Bandai Namco Games,CERO_A
+Princess Frontier Portable,PSP,2011.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02,,,,,,
+Touch Detective (JP sales),DS,2006.0,Adventure,505 Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Mary King's Riding School,DS,2008.0,Simulation,Ghostlight,0.0,0.02,0.0,0.0,0.02,,,,,Coyote Console,
+Voodoo Chronicles: First Sign,PC,2011.0,Adventure,ValuSoft,0.02,0.0,0.0,0.0,0.02,,,,,Sanuk Games,T
+Rising Zan: The Samurai Gunman,PS,1998.0,Action,Agetec,0.01,0.01,0.0,0.0,0.02,,,,,,
+Prince of Stride,PSV,2015.0,Adventure,Kadokawa Games,0.0,0.0,0.02,0.0,0.02,,,,,Kadokawa,CERO_B
+Robopon 2: Cross Version,GBA,2001.0,Role-Playing,Hudson Entertainment,0.01,0.0,0.0,0.0,0.02,,,,,Hudson Soft,E
+Mai-Otome Hime: Otome Butou Shi,PS2,2006.0,Fighting,Sunrise Interactive,0.0,0.0,0.02,0.0,0.02,,,,,,
+Kimikare: New Semester,PSP,2012.0,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,,
+Katekyoo Hitman Reborn! Kindan no Yami no Delta,PS2,2008.0,Action,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,,,,,,
+Haneru no Tobira Wii: Girigirissu,Wii,2007.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Elminage II: Sousei no Megami to Unmei no Daichi,PSP,2009.0,Role-Playing,Starfish,0.0,0.0,0.02,0.0,0.02,,,,,Starfish SD,
+Aqua Panic!,DS,2009.0,Puzzle,Neko Entertainment,0.01,0.01,0.0,0.0,0.02,,,,,EKO Software,E
+Blazing Souls,PS2,2006.0,Role-Playing,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Idea Factory,Twelve
+Seinaru Kana: Orichalcum no Na no Motoni,PSP,2012.0,Action,CyberFront,0.0,0.0,0.02,0.0,0.02,,,,,,
+Tail of the Sun,PS,1996.0,Role-Playing,ArtDink,0.01,0.01,0.0,0.0,0.02,,,,,Artdink,E
+Revolution: 25th Anniversary Collection,PC,2016.0,Adventure,Koch Media,0.0,0.02,0.0,0.0,0.02,,,tbd,,Revolution Software,
+Ozzy & Drix,GBA,2003.0,Platform,Midway Games,0.01,0.0,0.0,0.0,0.02,,,,,,E
+Nobunaga no Yabou: Soutensoku with Power-Up Kit,PSP,2011.0,Strategy,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,
+Yamasa Digi World SP: Moeyo! Kung Fu Shukujo,PS2,2006.0,Misc,Yamasa Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Wizardry Twin Pack,PS3,2011.0,Role-Playing,Acquire,0.0,0.0,0.02,0.0,0.02,,,,,,
+Rabbids Invasion: The Interactive TV Show,PS4,2014.0,Misc,Ubisoft,0.0,0.01,0.0,0.0,0.02,,,,,,
+Gadget Racers (PAL),PS2,2002.0,Racing,Zoo Digital Publishing,0.0,0.0,0.02,0.0,0.02,,,,,,
+Moe Star: Moeru Toudai Eigojuku,DS,2008.0,Misc,Mirai Shounen,0.0,0.0,0.02,0.0,0.02,,,,,,
+The Cube,Wii,2012.0,Action,Funbox Media,0.0,0.02,0.0,0.0,0.02,,,,,,
+Freestyle Metal X,GC,2003.0,Racing,Midway Games,0.01,0.0,0.0,0.0,0.02,,,,,Deibus Studios,T
+Tegami Bachi: Kokoro Tsumugu Mono e,PSP,2010.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Spirits & Spells,GC,2003.0,Platform,Wanadoo,0.01,0.0,0.0,0.0,0.02,,,,,,
+Antiphona no Seikahime: Tenshi no Gakufu Op.A,PSP,2009.0,Role-Playing,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02,,,,,Nippon Ichi Software,GRAC_ALL
+TV Anime Idolm@ster: Cinderella Girls G4U! Pack Vol.2,PS3,2015.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Command & Conquer 3: Kane's Wrath,PC,2008.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.02,,,,,EA Los Angeles,Sixteen
+Eyeshield 21: Portable Edition,PSP,2006.0,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,Konami,
+Taishou Moebius Line Vitable,PSV,2016.0,Adventure,dramatic create,0.0,0.0,0.02,0.0,0.02,,,,,,
+Robotics;Notes,PSV,2014.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,5pb.,CERO_C
+Kabushiki Baibai Trainer: Kabutore! Next,DS,2007.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Machi: Unmei no Kousaten,PSP,2006.0,Adventure,ChunSoft,0.0,0.0,0.02,0.0,0.02,,,,,Chunsoft,CERO_D
+Machi-ing Maker 4,PS3,2011.0,Strategy,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,Media Factory,
+World Class Rugby 2: Kokunai Gekitou Hen '93,SNES,1994.0,Sports,Misawa,0.0,0.0,0.02,0.0,0.02,,,,,,
+Ketsui Death Label,DS,2008.0,Shooter,Arika,0.0,0.0,0.02,0.0,0.02,,,,,CAVE Interactive,
+This War of Mine,PS4,2016.0,Action,Deep Silver,0.0,0.01,0.0,0.0,0.02,,,,,11 bit studios,Eighteen
+Clover no Kuni no Alice: Wonderful Wonder World,PSP,2011.0,Adventure,Quinrose,0.0,0.0,0.02,0.0,0.02,,,,,QuinRose,CERO_B
+Abunai: Koi no Sousa Shitsu,PSV,2015.0,Action,Asgard,0.0,0.0,0.02,0.0,0.02,,,,,,
+Shonen Jump's Yu-Gi-Oh! GX Card Almanac,DS,2006.0,Misc,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Hisshou Pachinko*Pachi-Slot Kouryaku Series Vol. 9: CR Fever Captain Harlock,PS2,2007.0,Misc,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
+Planetarian: Chiisana Hoshi no Yume,PSP,2009.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02,,,,,Sekai Project,T
+GA - Geijutsuka Art Design Class: Slapstick Wonder Land,PSP,2010.0,Adventure,Russel,0.0,0.0,0.02,0.0,0.02,,,,,,
+Roommate Asami: Okusama wa Joshikousei,PS2,2002.0,Adventure,Datam Polystar,0.0,0.0,0.02,0.0,0.02,,,,,,
+Cabbage Patch Kids: The Patch Puppy Rescue,GBA,2007.0,Misc,D3Publisher,0.01,0.0,0.0,0.0,0.02,,,,,,
+Ultraman Star Chronicles,PSP,2013.0,Strategy,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Bandai Namco Games,
+Amagoushi no Yakata,PS2,2007.0,Adventure,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02,,,,,FOG Inc.,
+TV Anime Idolm@ster: Cinderella Girls G4U! Pack Vol.3,PS3,2015.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Ginga Tetsudou 999 DS,DS,2010.0,Adventure,Culture Brain,0.0,0.0,0.02,0.0,0.02,,,,,,
+Koihime Enbu,PS4,2016.0,Fighting,Yeti,0.0,0.0,0.02,0.0,0.02,,,,,,
+Suzunone Seven: Rebirth Knot,PS2,2010.0,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02,,,,,,
+"Hanayaka Kana, Ware ga Ichizoku: Tasogare Polarstar",PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,,
+Zoids Dash,DS,2006.0,Role-Playing,Tomy Corporation,0.0,0.0,0.02,0.0,0.02,,,,,,
+Vitamin X Evolution Plus,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,HuneX,CERO_B
+Dynasty Warriors: Eiketsuden,PS4,2016.0,Action,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,Koei Tecmo America Corporation,T
+MuvLuv Double Pack,PSV,2016.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,,
+Nano Diver,PSP,2011.0,Action,Takara Tomy,0.0,0.0,0.02,0.0,0.02,,,,,Takara Tomy,
+Mary King's Riding School 2,Wii,2009.0,Simulation,Midas Interactive Entertainment,0.0,0.02,0.0,0.0,0.02,,,,,,Three
+Elkrone no Atelier: Dear for Otomate,PSP,2012.0,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Otomate,CERO_B
+Painkiller: Hell & Damnation,X360,2013.0,Shooter,Nordic Games,0.0,0.01,0.0,0.0,0.02,,,,,The Farm 51,Eighteen
+Memories Off: Yubikiri no Kioku,X360,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,5pb.,CERO_B
+Otometeki Koi Kakumei * Love Revo!! DS,DS,2008.0,Adventure,GungHo,0.0,0.0,0.02,0.0,0.02,,,,,HuneX,CERO_B
+TV Anime Idolm@ster: Cinderella Girls G4U! Pack Vol.4,PS3,2015.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Clock Zero: Shuuen no Ichibyou - ExTime,PSV,2015.0,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Otomate,CERO_B
+Cross + Channel,PSP,2010.0,Adventure,CyberFront,0.0,0.0,0.02,0.0,0.02,,,,,FlyingShine,CERO_D
+Shin Hayarigami 2,PSV,2016.0,Adventure,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02,,,,,Nippon Ichi Software,
+Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen!,DS,2010.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Root Infinity Rexx,PSV,2015.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Otomate,CERO_C
+Zero no Tsukaima: Muma ga Tsumugu Yokaze no Nocturne,PS2,2007.0,Adventure,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,,,,,,
+Memories Off: Yubikiri no Kikou,PSP,2011.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,,
+Hurry Up Hedgehog!,DS,2009.0,Racing,O-Games,0.02,0.0,0.0,0.0,0.02,,,,,Oxygen Games,E10
+L.G.S: Shinsetsu Houshinengi,PSP,2012.0,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,,
+Discworld II: Mortality Bytes!,PS,1996.0,Adventure,Psygnosis,0.01,0.01,0.0,0.0,0.02,,,,,,
+Uchi no 3 Shimai DS,DS,2008.0,Misc,Culture Brain,0.0,0.0,0.02,0.0,0.02,,,,,,
+Soul Eater: Monotone Princess,Wii,2008.0,Action,Square Enix,0.0,0.0,0.02,0.0,0.02,,,,,Square Enix,CERO_A
+Strike Witches: Shirogane no Tsubasa,X360,2010.0,Strategy,CyberFront,0.0,0.0,0.02,0.0,0.02,,,,,,
+Kaleidoeve,PSV,2015.0,Adventure,HuneX,0.0,0.0,0.02,0.0,0.02,,,,,estciel,CERO_C
+Big Idea's VeggieTales: LarryBoy and the Bad Apple,GBA,2006.0,Action,Crave Entertainment,0.01,0.0,0.0,0.0,0.02,,,,,,
+Metal Fight Beyblade: Choujou Kessen! Big Bang Bladers,DS,2010.0,Action,Hudson Soft,0.0,0.0,0.02,0.0,0.02,,,,,,
+Moujuutsukai to Oujisama,PS2,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,,
+Bomberman 2,DS,2008.0,Puzzle,Hudson Soft,0.0,0.01,0.0,0.0,0.02,,,,,Hudson Soft,Seven
+Shinseiki GPX Cyber Formula: Road To The INFINITY 4,PS2,2007.0,Racing,Sunrise Interactive,0.0,0.0,0.02,0.0,0.02,,,,,,
+Dunamis 15,X360,2011.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,5pb.,CERO_D
+Sansuu Puzzle de Migaku: Gakken Otona no Shikou Sense,DS,2007.0,Misc,Gakken,0.0,0.0,0.02,0.0,0.02,,,,,,
+Yoake Yori Ruriiro na Portable,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02,,,,,,
+Storm Lover 2nd V,PSV,2016.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,VRIDGE,CERO_B
+Reine des Fleurs,PSV,2015.0,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Idea Factory,CERO_C
+Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen,Wii,2007.0,Simulation,Taito,0.0,0.0,0.02,0.0,0.02,,,,,Taito,
+Namco Museum 50th Anniversary (JP sales),PS2,2005.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Mana Khemia 2: Ochita Gakuen to Renkinjutsushi Tachi Portable+,PSP,2009.0,Role-Playing,Gust,0.0,0.0,0.02,0.0,0.02,,,,,,
+Irritating Stick,PS,1998.0,Action,Saurus,0.01,0.01,0.0,0.0,0.02,,,,,Saurus,E
+Chou!! Super Nep League DS,DS,2008.0,Sports,Jaleco,0.0,0.0,0.02,0.0,0.02,,,,,,
+Rugby League Live 3,PS3,2015.0,Action,Tru Blu Entertainment,0.0,0.01,0.0,0.0,0.02,,,tbd,,Big Ant Studios,E
+Simple 2000 Series Vol. 105: The Maid Fuku to Kikanjuu,PS2,2006.0,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,D3Publisher,CERO_B
+Kimi ni Todoke: Sodateru Omoi,DS,2009.0,Adventure,Banpresto,0.0,0.0,0.02,0.0,0.02,,,,,Banpresto,CERO_A
+Elven Legacy Collection,PC,2010.0,Strategy,Paradox Interactive,0.0,0.01,0.0,0.0,0.02,,,tbd,,1C:Ino-Co,
+Hands On! Tangrams,DS,2009.0,Puzzle,Storm City Games,0.02,0.0,0.0,0.0,0.02,,,,,Storm City Games,E
+Brave Story: Boku no Kioku to Negai,DS,2006.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Bandai Namco Holdings,
+Zombie Hunters 2,PS2,2006.0,Action,Essential Games,0.0,0.0,0.02,0.0,0.02,,,,,D3 Publisher,Eighteen
+Memories Off #5: Encore,PS2,2007.0,Adventure,CyberFront,0.0,0.0,0.02,0.0,0.02,,,,,5pb.,
+Custom Drive,PSP,2012.0,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,VRIDGE,CERO_B
+LEGO Star Wars: The Video Game,PC,2005.0,Action,Eidos Interactive,0.0,0.01,0.0,0.0,0.02,,,,,Aspyr Media,Three
+Tsuyo Kiss 2 Gakki: Swift Love,PS2,2009.0,Adventure,Revolution (Japan),0.0,0.0,0.02,0.0,0.02,,,,,Candy Soft,
+Cookie & Cream,DS,2007.0,Platform,505 Games,0.01,0.0,0.0,0.0,0.02,,,,,FromSoftware,E
+Winning Post 7 2013,PSV,2013.0,Sports,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,CERO_A
+Psychedelica of the Black Butterfly,PSV,2015.0,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Otomate,T
+Busou Renkin: Youkoso Papillon Park e,PS2,2007.0,Action,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02,,,,,Marvelous Entertainment,
+Ore wa Shoujo Mangaka,PSP,2012.0,Action,Giza10,0.0,0.0,0.02,0.0,0.02,,,,,,
+Emergency 2012,DS,2010.0,Simulation,Rondomedia,0.0,0.01,0.0,0.0,0.02,,,,,ValuSoft,T
+Puyo Puyo Tetris,WiiU,2014.0,Puzzle,Sega,0.0,0.0,0.02,0.0,0.02,,,,,Sega,Three
+Exhibition Volume 6,XB,2004.0,Misc,Microsoft Game Studios,0.01,0.0,0.0,0.0,0.02,,,,,,
+Oshiri Kajiri Mushi no Rhythm Lesson DS: Kawai Ongaku Kyoushitsu Kanshuu,DS,2008.0,Misc,Sega,0.0,0.0,0.02,0.0,0.02,,,,,,
+Kuma no Pooh-San: 100 Acre no Mori no Cooking Book,DS,2011.0,Misc,Disney Interactive Studios,0.0,0.0,0.02,0.0,0.02,,,,,,
+Collar x Malice,PSV,2016.0,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Otomate,Sixteen
+The Dark Hills of Cherai,PC,2009.0,Puzzle,Unknown,0.0,0.01,0.0,0.0,0.02,,,tbd,,ChaYoWo Games,
+Dream C Club: GoGo ,PS3,2014.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,D3Publisher,
+Usavichi: Game no Jikan,DS,2011.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Summer Challenge: Athletics Tournament,Wii,2011.0,Sports,PQube,0.0,0.01,0.0,0.0,0.02,,,,,PQube,
+Battle Spirits: Hero's Soul,PSP,2010.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Pachi-Slot Higrashi no Naku Koro ni Matsuri,PS2,2010.0,Misc,Alchemist,0.0,0.0,0.02,0.0,0.02,,,,,,
+Otona no Renai Shousetsu: Harlequin Selection,DS,2010.0,Misc,Nintendo,0.0,0.0,0.02,0.0,0.02,,,,,,
+White Album 2: Shiawase no Mukougawa,PSV,2013.0,Adventure,Aqua Plus,0.0,0.0,0.02,0.0,0.02,,,,,Aquaplus,CERO_D
+W.L.O. Sekai Renai Kikousen,X360,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,,
+New Interpretation Stranger of Sword City,PSV,2016.0,Role-Playing,Experience Inc.,0.0,0.0,0.02,0.0,0.02,,,,,,
+Final Fantasy XI: All-In-One Pack 2006,X360,2006.0,Role-Playing,Square Enix,0.0,0.0,0.02,0.0,0.02,,,,,,
+Pippa Funnell: Ranch Rescue,Wii,2007.0,Adventure,Ubisoft,0.0,0.01,0.0,0.0,0.02,,,,,,
+Joint Operations: Combined Arms,PC,2009.0,Shooter,NovaLogic,0.01,0.0,0.0,0.0,0.02,,,,,NovaLogic,T
+Kadenz fermata//Akkord:fortissimo,PSV,2014.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,La'Cryma,T
+Poupee Girl DS 2: Elegant Mint / Sweet Pink Style,DS,2010.0,Misc,Alvion,0.0,0.0,0.02,0.0,0.02,,,,,,
+Dancing on Ice,DS,2010.0,Sports,Ghostlight,0.0,0.01,0.0,0.0,0.02,,,,,Ghostlight Ltd.,Three
+Winning Post 7: Maximum 2007,PS3,2007.0,Sports,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,Koei,CERO_A
+Professional Farmer 2016,PS4,2015.0,Action,Namco Bandai Games,0.0,0.01,0.0,0.0,0.02,,,,,,
+Sarah: Keeper of the Unicorn,DS,2009.0,Adventure,DreamCatcher Interactive,0.01,0.0,0.0,0.0,0.02,,,tbd,,,
+Storm Lover 2nd,PSP,2013.0,Misc,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,VRIDGE,CERO_B
+Dragon's Dogma Online: Season 2,PS4,2016.0,Action,Capcom,0.0,0.0,0.02,0.0,0.02,,,,,,
+Gaist Crusher God,3DS,2014.0,Action,Capcom,0.0,0.0,0.02,0.0,0.02,,,,,Capcom,CERO_A
+Arcana Famiglia 2,PSP,2013.0,Adventure,Comfort,0.0,0.0,0.02,0.0,0.02,,,,,HuneX,CERO_B
+Shinkyoku Soukai Polyphonica,PS2,2007.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02,,,,,,
+PDC World Championship Darts 2008,DS,2008.0,Sports,Unknown,0.01,0.0,0.0,0.0,0.02,,,,,Oxygen Interactive,E10
+PDC World Championship Darts 2008,DS,2008.0,Sports,Unknown,0.01,0.0,0.0,0.0,0.02,,,,,Oxygen Interactive,E10
+Kiss Bell,PSV,2014.0,Adventure,Giga,0.0,0.0,0.02,0.0,0.02,,,,,ENTERGRAM,CERO_C
+San Goku Shi DS 2,DS,2007.0,Strategy,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,
+Strongest Tokyo University Shogi DS,DS,1985.0,Action,Mycom,0.0,0.0,0.02,0.0,0.02,,,,,,
+Shin Sangoku Musou Online: Souten Ranbu,PS3,2010.0,Action,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,
+Thunder Force VI,PS2,2008.0,Shooter,Sega,0.0,0.0,0.02,0.0,0.02,,,,,Sega,CERO_A
+Full House Kiss 2,PS2,2006.0,Adventure,Capcom,0.0,0.0,0.02,0.0,0.02,,,,,Tenky Co.,CERO_B
+Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Misao + Maguro Densetsu Portable,PSP,2010.0,Misc,Paon,0.0,0.0,0.02,0.0,0.02,,,,,,
+PachiPara 3D,3DS,2011.0,Misc,Irem Software Engineering,0.0,0.0,0.02,0.0,0.02,,,,,,
+Earth Defense Force 2017 (old JP sales),X360,2006.0,Shooter,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
+I Doll U,PSV,2015.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Otomate,CERO_C
+Sengoku Hime: Senran ni Mau Otometachi,PS2,2009.0,Adventure,Yeti,0.0,0.0,0.02,0.0,0.02,,,,,,
+GTI Club: Supermini Festa!,Wii,2010.0,Racing,Konami Digital Entertainment,0.01,0.0,0.0,0.0,0.02,,,,,,E
+Paranormal Pursuit: The Gifted One,PC,2015.0,Action,Alawar Entertainment,0.0,0.01,0.0,0.0,0.02,,,tbd,,Logris Games,
+Command & Conquer Collection,PC,2003.0,Strategy,Electronic Arts,0.01,0.0,0.0,0.0,0.02,,,,,,
+Marvel Superheroes 3D: Grandmaster's Challenge,Wii,2010.0,Action,Neko Entertainment,0.0,0.01,0.0,0.0,0.02,,,,,,
+Achtung Panzer: Kharkov 1943,PC,2010.0,Strategy,Mamba Games,0.0,0.01,0.0,0.0,0.02,70.0,6.0,8.3,20.0,Paradox Interactive,USK_16
+Sora no Otoshimono Forte: Dreamy Season,DS,2011.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02,,,,,Kadokawa Shoten,
+Romance of the Three Kingdoms XII,WiiU,2012.0,Strategy,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,CERO_A
+Hiiro no Kakera Portable,PSP,2008.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Otomate,CERO_B
+Yuu Yuu Hakusho DS: Ankoku Bujutsukai Hen,DS,2006.0,Action,Takara Tomy,0.0,0.0,0.02,0.0,0.02,,,,,,
+Wand of Fortune R,PSV,2016.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Design Factory,T
+God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4,PS4,2016.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5,PS4,2016.0,Misc,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+"Nogizaka Haruka no Himitsu Cosplay, Hajime Mashita",PS2,2008.0,Adventure,ASCII Media Works,0.0,0.0,0.02,0.0,0.02,,,,,,
+Harukanaru Toki no Naka de 6,PSP,2015.0,Action,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,Koei Tecmo,CERO_C
+Triggerheart Exelica,DC,2007.0,Shooter,Warashi,0.0,0.0,0.02,0.0,0.02,,,,,Warashi,CERO_A
+Jet Impulse,DS,2007.0,Simulation,Nintendo,0.0,0.0,0.02,0.0,0.02,,,,,Genki,CERO_A
+Games Explosion!,GBA,2006.0,Action,THQ,0.01,0.0,0.0,0.0,0.02,,,,,THQ,E
+Saenai Kanojo no Sodatekata: Blessing Flowers,PSV,2015.0,Action,5pb,0.0,0.0,0.02,0.0,0.02,,,,,,
+Berserk and the Band of the Hawk,PSV,2016.0,Action,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,Koei Tecmo Games,Eighteen
+Tennis no Oji-Sama: Card Hunter,PS2,2007.0,Strategy,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Night Wizard the Video Game: Denial of the World,PS2,2008.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,,
+Portable Island: Tenohira Resort,PSP,2006.0,Simulation,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+Sengoku Efuda Yuugi: Hototogisu Ran,PSP,2008.0,Misc,Irem Software Engineering,0.0,0.0,0.02,0.0,0.02,,,,,,
+Tokyo Friend Park II DS,DS,2006.0,Misc,Rocket Company,0.0,0.0,0.02,0.0,0.02,,,,,,
+Adventure Time: The Secret of the Nameless ,3DS,2014.0,Adventure,Little Orbit,0.01,0.0,0.0,0.0,0.02,,,,,Little Orbit,Seven
+Shin Hisui no Shizuku: Hiiro no Kakera 2 Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Otomate,CERO_B
+Sid Meier's Civilization Revolution 2+,PSV,2015.0,Strategy,Take-Two Interactive,0.0,0.0,0.02,0.0,0.02,,,,,Firaxis Games,E10
+Moe Moe 2-ji Taisen (Ryoku) * Deluxe,PSP,2008.0,Adventure,System Soft,0.0,0.0,0.02,0.0,0.02,,,,,,
+Dragon Tales: Dragon Adventures,GBA,2003.0,Platform,NewKidCo,0.01,0.0,0.0,0.0,0.02,,,,,,
+Violet no Atelier: Gramnad no Renkinjutsushi 2 - Gunjou no Omoide,PSP,2011.0,Role-Playing,Gust,0.0,0.0,0.02,0.0,0.02,,,,,,
+Elminage II DS Remix: Sousei no Megami to Unmai no Daichi,DS,2010.0,Role-Playing,Starfish,0.0,0.0,0.02,0.0,0.02,,,,,,
+Gaku ? Ou: The Royal Seven Stars,PSP,2012.0,Role-Playing,Alchemist,0.0,0.0,0.02,0.0,0.02,,,,,,
+Rayman 10th Anniversary,GBA,2005.0,Platform,Ubisoft,0.01,0.0,0.0,0.0,0.02,,,,,,
+Race Driver: Create & Race,DS,2007.0,Racing,Codemasters,0.01,0.0,0.0,0.0,0.02,,,,,,
+Storm Lover Kai!!,PSP,2012.0,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,VRIDGE,CERO_B
+Minna to Issho,PSV,2011.0,Misc,Sony Computer Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,"Sony Computer Entertainment, Inc. (SCEI)",E10
+Nurarihyon no Mago: Hyakki Ryouran Taisen,PS3,2011.0,Fighting,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,Arc System Works,CERO_A
+Enkaku Sousa: Sana e no 23 Hiai,PSP,2009.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,,
+Pac-Man Championship Edition 2 + Arcade Game Series,XOne,2016.0,Action,Namco Bandai Games,0.01,0.0,0.0,0.0,0.02,,,,,,E
+Command & Conquer 4: Tiberian Twilight,PC,2010.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.02,,,,,Electronic Arts,Sixteen
+Katekyoo Hitman Reborn! DS: Mafia Daishuugou Bongole Festival,DS,2008.0,Action,Takara Tomy,0.0,0.0,0.02,0.0,0.02,,,,,Takara Tomy,
+Grisaia no Meikyuu: Le Labyrinthe de la Grisaia,PSV,2014.0,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02,,,,,,
+Oyaku de Asoberu DS Ehon: Ukkari Penelope,DS,2008.0,Simulation,Tecmo Koei,0.0,0.0,0.02,0.0,0.02,,,,,,
+Iron Soldier 3,PS,1999.0,Simulation,Telegames,0.01,0.01,0.0,0.0,0.02,,,,,,
+Tiger & Bunny: Hero's Day,PSP,2013.0,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
+Pachinko Kaou: Misora Hibari,PS2,2007.0,Misc,Hackberry,0.0,0.0,0.02,0.0,0.02,,,,,,
+Accel World: Kasoku no Chouten,PS3,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,Banpresto,
+Poupee Girl DS,DS,2009.0,Misc,Alvion,0.0,0.0,0.02,0.0,0.02,,,,,,
+Choro Q,PS2,2003.0,Racing,Zoo Digital Publishing,0.01,0.01,0.0,0.0,0.02,,,,,E-Game,CERO_A
+Narcissus: Moshimo Ashita ga Runara,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.02,0.0,0.02,,,,,,
+Girl Friend Beta: Kimi to Sugosu Natsuyasumi,PSV,2015.0,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02,,,,,,
+"Sharin no Kuni, Himawari no Shoujo",X360,2010.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,,
+Simple DS Series Vol. 42: The Haioku Byoutou,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
+So-Ra-No-Wo-To: Otome no Gojuusou,PSP,2010.0,Adventure,Compile Heart,0.0,0.0,0.02,0.0,0.02,,,,,,
+Dance! It's Your Stage,Wii,2010.0,Misc,DTP Entertainment,0.0,0.01,0.0,0.0,0.02,,,,,DTP Entertainment,Three
+Yume Neko DS,DS,2008.0,Simulation,Sega,0.0,0.0,0.02,0.0,0.02,,,,,Sega Corporation,
+Germany's Next Topmodel 2011,DS,2011.0,Simulation,7G//AMES,0.0,0.01,0.0,0.0,0.02,,,,,,
+Dream C Club,PS3,2012.0,Simulation,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,Tamsoft,CERO_D
+Memories Off 6: Next Relation,PS2,2009.0,Adventure,5pb,0.0,0.0,0.02,0.0,0.02,,,,,MAGES.,CERO_B
+Meiji Toukyou Renka: Twilight Kiss,PSP,2015.0,Action,Broccoli,0.0,0.0,0.02,0.0,0.02,,,,,,
+Scared Rider Xechs,PS2,2010.0,Adventure,RED Entertainment,0.0,0.0,0.02,0.0,0.02,,,,,Red Entertainment,CERO_B
+4 Play Collection - Dark Mysteries,PC,2014.0,Misc,Avanquest Software,0.0,0.01,0.0,0.0,0.02,,,,,,
+Vitamin X: Detective B6,PSP,2012.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,HuneX,CERO_B
+Misshitsu no Sacrifice,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02,,,,,,
+Ouran Koukou Host Bu,PS2,2007.0,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02,,,,,Design Factory,CERO_B
+Lotus Challenge,GC,2004.0,Racing,Ignition Entertainment,0.01,0.0,0.0,0.0,0.02,,,,,Kuju Entertainment,E
+Football Manager 2007,X360,2006.0,Sports,Sega,0.0,0.01,0.0,0.0,0.01,,,,,Sports Interactive,E
+Dragon Zakura DS,DS,2007.0,Misc,Electronic Arts,0.0,0.0,0.01,0.0,0.01,,,,,Electronic Arts,
+Chameleon: To Dye For!,DS,2006.0,Puzzle,505 Games,0.01,0.0,0.0,0.0,0.01,,,,,505 Games,E
+Sora no Otoshimono: DokiDoki Summer Vacation,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,,,,,,
+Shinseiki Evangelion: Battle Orchestra Portable,PSP,2009.0,Fighting,Broccoli,0.0,0.0,0.01,0.0,0.01,,,,,,
+Donkey Kong Jungle Beat,Wii,2008.0,Platform,Nintendo,0.0,0.01,0.0,0.0,0.01,,,,,Nintendo,E10
+DokuSui: DokiDoki Suikoden,PSP,2011.0,Role-Playing,Irem Software Engineering,0.0,0.0,0.01,0.0,0.01,,,,,,
+Bomberman (jp sales),PSP,2006.0,Puzzle,Konami Digital Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Blazblue: Continuum Shift Extend,PSP,2012.0,Fighting,Arc System Works,0.0,0.0,0.01,0.0,0.01,,,,,Arc System Works,Twelve
+S.Y.K: Shinsetsu Saiyuuki,PS2,2009.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_B
+Black Cat,PS2,2006.0,Action,Capcom,0.0,0.0,0.01,0.0,0.01,,,,,,
+Smart Kid's Mega Game Mix,DS,2009.0,Misc,UFO Interactive,0.01,0.0,0.0,0.0,0.01,,,tbd,,,
+Wiffle Ball Advance,DS,2007.0,Sports,Zoo Digital Publishing,0.01,0.0,0.0,0.0,0.01,,,,,,
+Red Stone DS: Akaki Ishi ni Michibikareshi Monotachi,DS,2011.0,Role-Playing,Unknown,0.0,0.0,0.01,0.0,0.01,,,,,GameOn,CERO_B
+Wand of Fortune: Mirai e no Prologue Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Secret Game Portable,PSP,2010.0,Adventure,Yeti,0.0,0.0,0.01,0.0,0.01,,,,,,
+Sengoku Hime: Senran ni Mau Otometachi,PSP,2009.0,Adventure,Yeti,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kimi no Yuusha,DS,2008.0,Role-Playing,SNK Playmore,0.0,0.0,0.01,0.0,0.01,,,,,,
+Tom Clancy's  Ghost Recon Advanced Warfighter (weekly JP sales),X360,2006.0,Shooter,Ubisoft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Period Cube: Torikago no Amadeus,PSV,2016.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,M
+Nobunaga no Yabou Online: Houou no Shou,PS3,2012.0,Strategy,Ackkstudios,0.0,0.0,0.01,0.0,0.01,,,,,,
+Cosmetic Paradise: Make no Kiseki,DS,2008.0,Misc,Global A Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Legoland,PC,1999.0,Action,LEGO Media,0.0,0.01,0.0,0.0,0.01,,,,,,
+Nobunaga no Yabou DS,DS,2006.0,Strategy,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,
+Wand of Fortune Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_B
+Sousaku Alice to Oujisama!,3DS,2015.0,Simulation,Happinet,0.0,0.0,0.01,0.0,0.01,,,,,Happinet Corporation,CERO_A
+Rengoku II: The Stairway to H.E.A.V.E.N. (jp sales),PSP,2006.0,Action,Konami Digital Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Brave: The Video Game,Wii,2012.0,Action,Disney Interactive Studios,0.0,0.01,0.0,0.0,0.01,,,,,Behaviour Interactive,E10
+Simple DS Series Vol. 14: The Jidousha Kyoushuujo DS,DS,2007.0,Misc,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,Vingt et un Systems,
+Postman Pat: Special Delivery Service,DS,2009.0,Misc,GSP,0.0,0.01,0.0,0.0,0.01,,,,,,
+Himawari: Pebble in the Sky Portable,PSP,2010.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,,,,,,
+WRC 5: FIA World Rally Championship,XOne,2015.0,Sports,Bigben Interactive,0.0,0.01,0.0,0.0,0.01,,,,,Kylotonn Games,Three
+Katekyoo Hitman Reborn Nerae!? Ring x Bongole Returns,PS2,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01,,,,,,
+NiGHTS into dreams...,PS2,2008.0,Platform,Sega,0.0,0.0,0.01,0.0,0.01,,,,,Sega,E
+Kono Aozora ni Yakusoku o: Tenohira no Rakuen,PSP,2009.0,Adventure,TGL,0.0,0.0,0.01,0.0,0.01,,,,,,
+Shinobi Koutsutsu,PSP,2014.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kaitou Rousseau,DS,2006.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Namco,CERO_A
+GunParade Orchestra: Ao no Shou,PS2,2006.0,Adventure,Sony Computer Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,Alfa System,
+Totally Spies! Totally Party,PS2,2008.0,Misc,Ubisoft,0.01,0.01,0.0,0.0,0.01,,,,,Valcon Games,E
+Total War Attila: Tyrants & Kings,PC,2016.0,Strategy,Koch Media,0.0,0.01,0.0,0.0,0.01,,,,,,
+Wizardry XTH: Unlimited Students,PS2,2006.0,Role-Playing,Michaelsoft,0.0,0.0,0.01,0.0,0.01,,,,,Michaelsoft Inc.,
+Instant Brain,X360,2011.0,Adventure,Cave,0.0,0.0,0.01,0.0,0.01,,,,,CAVE Interactive,
+Coronation Street: The Mystery of the Missing Hotpot Recipe,PC,2011.0,Adventure,Avanquest,0.0,0.01,0.0,0.0,0.01,,,,,,
+Abunai: Koi no Sousa Shitsu,PSP,2012.0,Action,Quinrose,0.0,0.0,0.01,0.0,0.01,,,,,,
+Magic Encyclopedia: Moonlight,DS,2010.0,Misc,Foreign Media Games,0.0,0.01,0.0,0.0,0.01,,,,,,
+SoulLink Extension,PS2,2006.0,Adventure,Interchannel,0.0,0.0,0.01,0.0,0.01,,,,,,
+Winning Post 7 Maximum 2008,PS2,2008.0,Sports,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei,CERO_A
+Samurai Shodown Anthology (JP sales),PS2,2008.0,Fighting,Ignition Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Sangoku Koi Senki: Otome no Heihou!,PS2,2011.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,,
+"Pachi-Slot Teiou: Golgo 13 Las Vegas (JP sales, but wrong system)",PS2,2002.0,Misc,Media Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kaitou Joker: Toki o Koeru Kaitou to Ushinawareta Houseki,3DS,2015.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Super Robot Taisen XO,X360,2006.0,Strategy,Banpresto,0.0,0.0,0.01,0.0,0.01,,,,,Banpresto,CERO_A
+Raven's Cry,PS4,2015.0,Role-Playing,TopWare Interactive,0.0,0.01,0.0,0.0,0.01,,,,,,
+Pachitte Chonmage Tatsujin 16: Pachinko Hissatsu Shigotojin III,PS2,2010.0,Misc,Hackberry,0.0,0.0,0.01,0.0,0.01,,,,,,
+SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,XB,2005.0,Adventure,Activision,0.01,0.0,0.0,0.0,0.01,,,,,,E
+Shitsuji ga Aruji o Erabu Toki,PSV,2016.0,Adventure,Unknown,0.0,0.0,0.01,0.0,0.01,,,,,TGL,CERO_C
+War for the Overworld,PC,2015.0,Strategy,Unknown,0.0,0.01,0.0,0.0,0.01,65.0,14.0,7.7,90.0,Brightrock Games,
+Best Of Tests,DS,2008.0,Puzzle,Conspiracy Entertainment,0.01,0.0,0.0,0.0,0.01,,,,,,E
+Infinite Stratos 2: Love and Purge,PSV,2015.0,Action,5pb,0.0,0.0,0.01,0.0,0.01,,,,,5pb.,
+Umihara Kawase Jun: Second Edition Kanzenban,DS,2009.0,Puzzle,Genterprise,0.0,0.0,0.01,0.0,0.01,,,,,,
+50 Classic Games,3DS,2012.0,Misc,Avanquest Software,0.0,0.01,0.0,0.0,0.01,,,,,Maximum Games,E
+Psycho-Pass,XOne,2014.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,,
+Destiny Links,DS,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Namco Bandai Games,CERO_A
+Sakura Sakura: Haru Urara,PSP,2010.0,Adventure,GN Software,0.0,0.0,0.01,0.0,0.01,,,,,,
+Uta no * Prince-Sama: Sweet Serenade,PSP,2011.0,Adventure,Broccoli,0.0,0.0,0.01,0.0,0.01,,,,,Nippon Ichi Software,CERO_C
+Higurashi no Naku Koro ni Iki,PS3,2015.0,Action,Kaga Create,0.0,0.0,0.01,0.0,0.01,,,,,,
+The Legend of Heroes: Trails in the Sky Third Chapter,PS3,2013.0,Role-Playing,Falcom Corporation,0.0,0.0,0.01,0.0,0.01,,,,,,
+Rewrite,PSV,2014.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,PROTOTYPE,CERO_C
+Major Dream: Major Wii Nagero! Gyroball!!,Wii,2008.0,Sports,Takara Tomy,0.0,0.0,0.01,0.0,0.01,,,,,,
+"Iza, Shutsujin! Koisen",PSP,2011.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01,,,,,"GignoSystem Japan, Inc.",CERO_C
+Hiiro no Kakera: Shin Tamayori Hime Denshou,PS2,2009.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Design Factory,CERO_B
+Datenshi no Amai Yuuwaku x Kaikan Phrase,DS,2010.0,Adventure,FuRyu,0.0,0.0,0.01,0.0,0.01,,,,,FuRyu,CERO_B
+Bakumatsu Koihana: Shinsengumi DS,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,,
+Digger Simulator,PC,2011.0,Simulation,Excalibur Publishing,0.0,0.01,0.0,0.0,0.01,,,,,ETS Entwicklerteam Slaby,Three
+Miyako: Awayuki no Utage,PSP,2012.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Sanctuary,CERO_B
+Football Manager Live,PC,2009.0,Sports,Sega,0.0,0.01,0.0,0.0,0.01,82.0,23.0,3.1,45.0,Sports Interactive,
+Marginal #4: Idol of Supernova,PSV,2014.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Idea Factory,CERO_B
+Tobidase! Kagaku-kun Chikyuu Daitanken! Nazo no Chinkai Seibutsu ni Idome!,DS,2011.0,Misc,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kana: Imouto,PSP,2010.0,Adventure,CyberFront,0.0,0.0,0.01,0.0,0.01,,,,,Regista,
+Rock N' Roll Racing,SNES,1993.0,Racing,Interplay,0.0,0.0,0.01,0.0,0.01,,,,,Interplay Entertainment,E
+Football Academy,DS,2009.0,Sports,Electronic Arts,0.0,0.01,0.0,0.0,0.01,,,,,,
+Norn + Nonette: Last Era,PSV,2015.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Nodame Cantabile,PS2,2007.0,Misc,Banpresto,0.0,0.0,0.01,0.0,0.01,,,,,Metro,CERO_A
+Hitotsu Tobashi Renai V,PSV,2015.0,Adventure,Kaga Create,0.0,0.0,0.01,0.0,0.01,,,,,,CERO_D
+Blitzkrieg 2 Anthology,PC,2008.0,Strategy,Ascaron Entertainment GmbH,0.0,0.01,0.0,0.0,0.01,,,tbd,,"1C, Various, 1C Company",
+DoDonPachi Saidaioujou,X360,2013.0,Shooter,Cave,0.0,0.0,0.01,0.0,0.01,,,,,CAVE Interactive,
+Last Escort: Club Katze,PS2,2010.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,"Mobile & Game Studio, Inc.",CERO_D
+Fuuraiki 3,PSV,2015.0,Action,Unknown,0.0,0.0,0.01,0.0,0.01,,,,,Nippon Ichi Software,
+Phantasy Star Online 2 Episode 4: Deluxe Package,PSV,2017.0,Role-Playing,Sega,0.0,0.0,0.01,0.0,0.01,,,,,,
+1/2 Summer +,PSP,2013.0,Adventure,Kaga Create,0.0,0.0,0.01,0.0,0.01,,,,,,
+Winning Post 7 Maximum 2008,PS3,2008.0,Sports,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei,CERO_A
+SBK09 Superbike World Championship,PS3,2009.0,Racing,Black Bean Games,0.0,0.01,0.0,0.0,0.01,,,,,Black Bean Games,Three
+Tears to Tiara: Kakan no Daichi Portable,PSP,2010.0,Adventure,Aqua Plus,0.0,0.0,0.01,0.0,0.01,,,,,,
+Tantei Jinguuji Saburo DS: Fuserareta Shinjitsu,DS,2009.0,Adventure,Arc System Works,0.0,0.0,0.01,0.0,0.01,,,,,WorkJam,
+Ninja Gaiden Sigma 2,PSV,2013.0,Action,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,M
+Big Hero 6: Battle in the Bay,3DS,2014.0,Action,GameMill Entertainment,0.0,0.01,0.0,0.0,0.01,,,,,1st Playable Productions,E10
+Dr. Slump & Arale-Chan,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,bitstep,CERO_A
+Umineko no Naku Koro ni Portable 1,PSP,2011.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01,,,,,Alchemist,CERO_D
+Festa!! Hyper Girls Party,PS2,2006.0,Adventure,KID,0.0,0.0,0.01,0.0,0.01,,,,,,
+Geten no Hana: Yume Akari,PSP,2014.0,Misc,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei Tecmo,CERO_B
+Kikiite Hajimaru: Eigo Kaiwa Training - KikiTore,DS,2008.0,Misc,Benesse,0.0,0.0,0.01,0.0,0.01,,,,,,
+Vanark,PS,1999.0,Shooter,Jaleco,0.01,0.01,0.0,0.0,0.01,,,,,Asmik Ace,T
+Game Book DS: Sword World 2.0,DS,2009.0,Role-Playing,Broccoli,0.0,0.0,0.01,0.0,0.01,,,,,,
+Fernbus Simulator,PC,2016.0,Simulation,Aerosoft,0.0,0.01,0.0,0.0,0.01,,,tbd,,TML-Studios,USK_0
+NHL 16,PS3,2015.0,Sports,Electronic Arts,0.0,0.01,0.0,0.0,0.01,,,,,"EA Sports, EA Canada",E10
+Pet Shop Monogatari DS 2,DS,2010.0,Simulation,Taito,0.0,0.0,0.01,0.0,0.01,,,,,Taito,CERO_A
+Chokkan! Asonde Relaxuma,DS,2008.0,Action,Rocket Company,0.0,0.0,0.01,0.0,0.01,,,,,,
+Hot Wheels: Stunt Track Challenge / World Race,GBA,2006.0,Racing,"Destination Software, Inc",0.01,0.0,0.0,0.0,0.01,,,,,,
+Minna no Conveni,DS,2010.0,Simulation,Taito,0.0,0.0,0.01,0.0,0.01,,,,,,
+Accel World: Kasoku no Chouten,PSP,2013.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Banpresto,
+SoulCalibur Legends (JP sales),Wii,2007.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Izumo 2,PS2,2006.0,Adventure,GN Software,0.0,0.0,0.01,0.0,0.01,,,,,,
+Entaku no Seito: Students of Round,X360,2011.0,Role-Playing,ChunSoft,0.0,0.0,0.01,0.0,0.01,,,,,,
+PC Engine Best Collention: Ginga Ojousama Densetsu Collection,PSP,2008.0,Adventure,Hudson Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Isshoni Gohan. Portable,PSP,2013.0,Adventure,Boost On,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_C
+King of Fighters 2002: Unlimited Match Tougeki Ver.,PS2,2010.0,Fighting,SNK Playmore,0.0,0.0,0.01,0.0,0.01,,,,,,
+Hanayamata: Yosakoi Live,PSV,2014.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Namco Bandai Games Asia,CERO_A
+Rosario to Vampire: Tanabata no Miss Youkai Gakuen,DS,2008.0,Adventure,Capcom,0.0,0.0,0.01,0.0,0.01,,,,,Capcom,
+Wallace & Gromit: Curse of the Were-Rabbit,XB,2005.0,Adventure,Konami Digital Entertainment,0.01,0.0,0.0,0.0,0.01,,,,,Konami,E
+Ouka Sengoku Portable,PSP,2012.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01,,,,,,
+Tactics Layer: Ritina Guard Senki,DS,2009.0,Strategy,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,D3 Publisher,CERO_C
+Hyakka Yakou,PSV,2015.0,Action,Unknown,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_C
+San-X Character Channel: All-Star Daishuugou!,DS,2008.0,Action,MTO,0.0,0.0,0.01,0.0,0.01,,,,,,
+Fuun Shinsengumi Bakumatsuden Portable,PSP,2009.0,Action,From Software,0.01,0.0,0.0,0.0,0.01,,,,,,
+Sega Golf Club: Miyazato San Kyoudai Naizou,PS3,2006.0,Sports,Sega,0.0,0.0,0.01,0.0,0.01,,,,,Sega Corporation,CERO_A
+Rozen Maiden: Gebetgarten,PS2,2007.0,Fighting,Taito,0.0,0.0,0.01,0.0,0.01,,,,,Tamsoft,CERO_A
+Sangoku Koi Senki: Omoide Gaeshi - CS Edition,PSV,2016.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,,
+Princess Arthur,PSP,2013.0,Misc,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_C
+Brain Exercise With Dr. Kawashima,PC,2009.0,Puzzle,Namco Bandai Games,0.0,0.01,0.0,0.0,0.01,,,,,Namco Bandai Games,Three
+Sakura-Sou no Pet na Kanojo,PSP,2013.0,Adventure,Kadokawa Games,0.0,0.0,0.01,0.0,0.01,,,,,Netchubiyori,CERO_C
+Fatal Fury: Battle Archives Volume 2 (JP sales),PS2,2007.0,Fighting,SNK Playmore,0.0,0.0,0.01,0.0,0.01,,,,,,
+Toro to Morimori,PS3,2009.0,Misc,Sony Computer Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,Sony Computer Entertainment,CERO_A
+Tantei Jinguuji Saburo: Hai to Diamond,PSP,2009.0,Adventure,Arc System Works,0.0,0.0,0.01,0.0,0.01,,,,,WorkJam,
+Truck Racer,Wii,2009.0,Racing,Nordic Games,0.0,0.01,0.0,0.0,0.01,,,,,Nordic Softsales AB,
+K-1 Grand Prix,PS,1999.0,Fighting,Jaleco,0.01,0.01,0.0,0.0,0.01,,,,,,
+Simple 2000 Series Vol. 120: The Saigo no Nippon Tsuwamono,PS2,2007.0,Strategy,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,,
+Casper,GBA,2002.0,Adventure,Microids,0.01,0.0,0.0,0.0,0.01,,,,,Microids,E
+AKB1/48: Idol to Guam de Koishitara...,X360,2011.0,Misc,,0.0,0.0,0.01,0.0,0.01,,,,,,
+Adventure Time: The Secret of the Nameless ,X360,2014.0,Adventure,Little Orbit,0.01,0.0,0.0,0.0,0.01,,,,,Little Orbit,Seven
+Football Manager 2005,PC,2004.0,Sports,Sega,0.0,0.01,0.0,0.0,0.01,,,,,Sega,E
+Hakuoki: Reimeiroku DS,DS,2012.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_C
+Turbo Trainz,Wii,2012.0,Racing,Mastertronic,0.0,0.01,0.0,0.0,0.01,,,,,,E
+Ro-Kyu-Bu! Secret Photo Op,PSV,2014.0,Adventure,Kadokawa Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Duel Love: Koisuru Otome wa Shouri no Megami,DS,2008.0,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Namco Bandai Games,CERO_C
+Super Robot Monkey Team: Game Boy Advance Video Volume 1,GBA,2005.0,Misc,,0.01,0.0,0.0,0.0,0.01,,,,,,
+Tomoyo After: It's a Wonderful Life CS Edition,PS2,2007.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,Key,T
+Bunmei Kaika: Aoiza Ibunroku Saien,PSP,2012.0,Action,FuRyu,0.0,0.0,0.01,0.0,0.01,,,,,HuneX,CERO_B
+Aa Megami-samaa,PS2,2007.0,Adventure,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01,,,,,,
+Bakumatsu Rock,PSP,2014.0,Action,Marvelous Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,Marvelous AQL,
+Far East of Eden II: Manji Maru,DS,2006.0,Role-Playing,Hudson Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Family Jockey,Wii,2008.0,Sports,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Nyaruko-San: Nafushigatai Game no You na Mono,PSV,2013.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,,
+Agatha Christie's The ABC Murders,XOne,2016.0,Adventure,Microids,0.01,0.0,0.0,0.0,0.01,66.0,7.0,7.5,8.0,Microids,T
+Samurai Warriors: Sanada Maru,PSV,2016.0,Action,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei Tecmo America Corporation,CERO_B
+Sengoku Basara 2 Heroes,Wii,2007.0,Action,Capcom,0.0,0.0,0.01,0.0,0.01,,,,,Capcom,
+Soshite Kono Uchuu ni Kirameku Kimi no Shi XXX,PS2,2007.0,Adventure,Datam Polystar,0.0,0.0,0.01,0.0,0.01,,,,,,
+Victory Spike,PS,1996.0,Sports,Imagineer,0.0,0.0,0.01,0.0,0.01,,,,,,
+MXGP 2,PC,2016.0,Racing,Milestone S.r.l.,0.0,0.01,0.0,0.0,0.01,,,,,,
+Densetsu no Yuusha no Densetsu: Legendary Saga,PSP,2010.0,Role-Playing,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,,,,,,
+Hi Hi Puffy AmiYumi: The Genie & the Amp,DS,2006.0,Action,D3Publisher,0.01,0.0,0.0,0.0,0.01,,,,,D3 Publisher,E10
+Zero no Tsukaima: Maigo no Period to Ikusen no Symphony,PS2,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01,,,,,,
+Order Up!!,3DS,2011.0,Action,Funbox Media,0.0,0.01,0.0,0.0,0.01,,,,,SuperVillain Studios,E
+Dance with Devils,PSV,2016.0,Action,,0.0,0.0,0.01,0.0,0.01,,,,,Rejet,CERO_C
+Battle Worlds: Kronos,PC,2016.0,Strategy,Nordic Games,0.0,0.01,0.0,0.0,0.01,71.0,15.0,7.1,71.0,KING Art,
+Hiiro no Kakera: Shin Tamayori Hime Denshou Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Builder's Block,PS,1999.0,Strategy,EON Digital Entertainment,0.01,0.0,0.0,0.0,0.01,,,,,,
+Seisou no Amazones,3DS,2013.0,Role-Playing,Arc System Works,0.0,0.0,0.01,0.0,0.01,,,,,Arc System Works,CERO_D
+Mahjong Taikai IV,PS3,2006.0,Misc,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,
+Farming Simulator 15 Expansion Pack,PC,2015.0,Action,Focus Home Interactive,0.0,0.01,0.0,0.0,0.01,,,,,,
+Chou Ezaru wa Akai Hana: Koi wa Tsuki ni Shirube Kareru,PSV,2016.0,Action,dramatic create,0.0,0.0,0.01,0.0,0.01,,,,,,
+Agarest Senki: Re-appearance,PS3,2009.0,Role-Playing,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Military History: Commander - Europe at War,DS,2009.0,Strategy,Slitherine Software,0.0,0.01,0.0,0.0,0.01,,,,,Slitherine Software UK Ltd.,E10
+Ultraman Fighting Evolution 0,PSP,2006.0,Fighting,Banpresto,0.0,0.0,0.01,0.0,0.01,,,,,Banpresto,
+Gokuhou!! Mecha Mote Iinchou: Girls Motekawa Box,DS,2009.0,Simulation,Konami Digital Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Jinsei Game Q DS: Shouwa no Dekigoto,DS,2007.0,Misc,Takara Tomy,0.0,0.0,0.01,0.0,0.01,,,,,,
+Strider (2014),PS3,2014.0,Platform,Capcom,0.0,0.0,0.01,0.0,0.01,,,,,,
+Doraemon Wii: Himitsu Douguou Ketteisen!,Wii,2007.0,Misc,Sega,0.0,0.0,0.01,0.0,0.01,,,,,,
+Goku Makaimura Kai,PSP,2007.0,Platform,Capcom,0.0,0.0,0.01,0.0,0.01,,,,,Capcom,
+No Fate! Only the Power of Will,X360,2010.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01,,,,,Alchemist,
+Captain Morgane and the Golden Turtle,Wii,2012.0,Adventure,Reef Entertainment,0.0,0.01,0.0,0.0,0.01,,,tbd,,Reef Entertainment,Twelve
+Makai Senki Disgaea 3 Append Disc: Raspberyl-hen Hajime Mashita,PS3,2009.0,Role-Playing,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01,,,,,,
+PDC World Championship Darts 2009,Wii,2009.0,Sports,Oxygen Interactive,0.0,0.01,0.0,0.0,0.01,,,,,Oxygen Games,Three
+Crows: Burning Edge,PS4,2016.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Bandai Namco Entertainment,
+Simple DS Series Vol. 41: The Bakudan Shori-Han,DS,2008.0,Action,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kurogane Kaikitan,PSV,2015.0,Adventure,Minato Station,0.0,0.0,0.01,0.0,0.01,,,,,,CERO_C
+Naxat Soft Reachmania Vol. 1: CR Galaxy Angel,PS2,2008.0,Misc,Naxat Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+"Hanayaka Kana, Ware ga Ichizoku",PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Mamoru-kun wa Norowarete Shimatta!,X360,2009.0,Shooter,G.Rev,0.0,0.0,0.01,0.0,0.01,,,,,,
+Myself; Yourself,PS2,2007.0,Adventure,Yeti,0.0,0.0,0.01,0.0,0.01,,,,,,
+Sengoku Hime 2 Arashi: Hyakubana Senran Tatsukaze no Gotoku,PSP,2010.0,Strategy,System Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Chaos;Head Noah,PSV,2014.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,5pb.,CERO_Z
+Curse of the Amsterdam Diamond,DS,2012.0,Puzzle,Easy Interactive,0.0,0.01,0.0,0.0,0.01,,,,,,
+Starry ? Sky: After Autumn,PSP,2011.0,Misc,Aqua Plus,0.0,0.0,0.01,0.0,0.01,,,,,,
+Dragon Quest X: All in One Package,WiiU,2015.0,Role-Playing,Square Enix,0.0,0.0,0.01,0.0,0.01,,,,,,
+Slide Adventure: Mag Kid,DS,2007.0,Action,Nintendo,0.0,0.0,0.01,0.0,0.01,,,,,Nintendo,CERO_A
+Jan Sangoku Musou,PS2,2006.0,Misc,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei,
+Brothers Conflict: Precious Baby,PSV,2017.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kono Aozora ni Yakusoku o: Melody of the Sun and Sea,PS2,2007.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01,,,,,,
+Fatal Fury: Battle Archives Volume 1 (JP sales),PS2,2006.0,Fighting,Ignition Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Rakushou! Pachi-Slot Sengen 6: Rio 2 Cruising Vanadis,PS2,2009.0,Misc,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kamaitachi no Yoru 2: Tokubetsu Hen,PSP,2006.0,Adventure,ChunSoft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Durarara!! Relay,PSV,2015.0,Action,Kadokawa Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Root Double: Before Crime After Days,X360,2012.0,Action,Yeti,0.0,0.0,0.01,0.0,0.01,,,,,,
+ef - a fairy tale of the two.,PS2,2010.0,Adventure,Comfort,0.0,0.0,0.01,0.0,0.01,,,,,Minori,CERO_D
+Sonic & All-Stars Racing Transformed,PC,2013.0,Racing,Sega,0.0,0.01,0.0,0.0,0.01,,,,,Sega,E10
+FairlyLife: MiracleDays,PSP,2010.0,Adventure,Piacci,0.0,0.0,0.01,0.0,0.01,,,,,,
+Death Connection Portable,PSP,2011.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_C
+Rainbow Islands: Revolution,PSP,2005.0,Action,Rising Star Games,0.01,0.0,0.0,0.0,0.01,,,,,,
+Rakushou! Pachi-Slot Sengen 4,PS2,2006.0,Misc,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,
+Chaos;Child,PS4,2015.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,5pb.,CERO_Z
+Moe Moe 2-Ji Daisenryaku 2,PSP,2010.0,Strategy,System Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Tsuyo Kiss 3 Portable,PSP,2012.0,Action,NetRevo,0.0,0.0,0.01,0.0,0.01,,,,,,
+Championship Manager 2010,PC,2009.0,Sports,Eidos Interactive,0.0,0.01,0.0,0.0,0.01,,,,,Beautiful Game Studios,Three
+Dynasty Warriors: Eiketsuden,PSV,2016.0,Action,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei Tecmo America Corporation,T
+Happy Dance Collection,Wii,2008.0,Misc,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Namco Bandai Games,
+Army Men: Air Combat - The Elite Missions,GC,2003.0,Shooter,3DO,0.01,0.0,0.0,0.0,0.01,,,,,The 3DO Company,T
+Binary Star,PSV,2014.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Design Factory,CERO_C
+Musou Tourou,PSP,2009.0,Strategy,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01,,,,,,
+Gakuen Hetalia,DS,2012.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_B
+Really? Really! DS,DS,2009.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,,,,,,
+Daiya no Kuni no Alice: Wonderful Mirror World,PSP,2013.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01,,,,,,
+Touch Detective 3: Does Funghi Dream of Bananas?,3DS,2014.0,Adventure,Success,0.0,0.0,0.01,0.0,0.01,,,,,Success Corporation,CERO_A
+Jam Sessions: Sing and Play Guitar (jp sales),DS,2007.0,Misc,Ubisoft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Cities: Skylines Snowfall,PC,2016.0,Simulation,Paradox Development,0.0,0.01,0.0,0.0,0.01,72.0,16.0,7.1,20.0,Colossal Order,E
+RalliSport Challenge(JP sales),XB,2002.0,Racing,Microsoft Game Studios,0.0,0.0,0.01,0.0,0.01,,,,,,
+Ultraman Fighting Evolution 3,PS2,2004.0,Fighting,Banpresto,0.0,0.0,0.01,0.0,0.01,,,,,"Banpresto Co., Ltd.",
+Rondo of Swords (jp sales),DS,2007.0,Role-Playing,Success,0.0,0.0,0.01,0.0,0.01,,,,,,
+Element Hunter,DS,2009.0,Role-Playing,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+R.B.I. Baseball 2016,PS4,2016.0,Sports,MLB.com,0.01,0.0,0.0,0.0,0.01,,,,,MLB.com,E
+Shinseiki Evangelion: Koutetsu no Girlfriend Tokubetsu-Hen Portable,PSP,2009.0,Adventure,CyberFront,0.0,0.0,0.01,0.0,0.01,,,,,,
+Nakayoshi All-Stars: Mezase Gakuen Idol,DS,2008.0,Misc,Creative Core,0.0,0.0,0.01,0.0,0.01,,,,,Creative Core,CERO_A
+Kamigami no Asobi InFinite,PSV,2016.0,Adventure,Broccoli,0.0,0.0,0.01,0.0,0.01,,,,,Nippon Ichi Software,CERO_D
+Fullmetal Alchemist: Prince of the Dawn,Wii,2009.0,Adventure,Square Enix,0.0,0.0,0.01,0.0,0.01,,,,,Square Enix,
+H2O+: Footprints in the Sand,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,,,,,Makura,
+Fashionable Puppy: Oshare na Koinu DS,DS,2007.0,Simulation,MTO,0.0,0.0,0.01,0.0,0.01,,,,,,
+Sekirei: Mirai Kara no Okurimono,PS2,2009.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01,,,,,,
+The Humans: Meet the Ancestors!,DS,2009.0,Puzzle,Deep Silver,0.01,0.0,0.0,0.0,0.01,,,,,,E
+Jambo! Safari Animal Rescue,DS,2009.0,Simulation,Sega,0.01,0.0,0.0,0.0,0.01,,,,,Sega of America,E
+Dungeons & Dragons: Neverwinter Nights - Complete,PC,2011.0,Misc,Atari,0.01,0.0,0.0,0.0,0.01,,,,,,
+Idol Janshi Suchie-Pai IV,PS2,2007.0,Misc,Jaleco,0.0,0.0,0.01,0.0,0.01,,,,,,
+Natsuzora no Monologue,PSP,2013.0,Adventure,Otomate,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_B
+Kenka Banchou Portable,PSP,2009.0,Action,Spike,0.0,0.0,0.01,0.0,0.01,,,,,,
+The Train Giant,PC,2012.0,Strategy,Ascaron Entertainment,0.0,0.01,0.0,0.0,0.01,,,,,UIG Entertainment,
+Monster Jam,PC,2007.0,Racing,Activision,0.01,0.0,0.0,0.0,0.01,,,5.8,5.0,Torus Games,E
+Ishin Renka: Ryouma Gaiden,PSP,2010.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,,
+Act of Aggression,PC,2015.0,Strategy,Focus Home Interactive,0.0,0.01,0.0,0.0,0.01,71.0,37.0,7.1,93.0,Eugen Systems,T
+Shirahana no Ori: Hiiro no Kakera 4 - Shiki no Uta,PSP,2013.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Design Factory,
+Fallout Anthology,PC,2015.0,Action,Bethesda Softworks,0.0,0.01,0.0,0.0,0.01,,,8.3,12.0,Bethesda Softworks,
+Hakuouki: Shinsengumi Kitan,PS3,2010.0,Adventure,Unknown,0.01,0.0,0.0,0.0,0.01,,,,,,
+Fate/kaleid liner Prisma Illya,3DS,2014.0,Action,Kadokawa Games,0.0,0.0,0.01,0.0,0.01,,,,,Kadokawa Games,CERO_B
+Wand of Fortune,PS2,2009.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_B
+Arabians Lost: The Engagement on Desert,PSP,2012.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01,,,,,QuinRose,CERO_B
+Minds and Mystery: 5 Game Pack,PC,2014.0,Action,Focus Multimedia,0.0,0.01,0.0,0.0,0.01,,,,,,
+S.Y.K: Shinsetsu Saiyuuki Portable,PSP,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Idea Factory,CERO_B
+Meru Purana,PS,1996.0,Strategy,Gust,0.0,0.0,0.01,0.0,0.01,,,,,Gust,GRAC_ALL
+Gobliiins 4,PC,2009.0,Adventure,Kalypso Media,0.0,0.01,0.0,0.0,0.01,54.0,13.0,,,Société Pollene,Three
+Akatsuki no Amaneka to Aoi Kyojin,PSP,2010.0,Strategy,CyberFront,0.0,0.0,0.01,0.0,0.01,,,,,CyberFront,
+Chaos;Child,PS3,2015.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,5pb.,CERO_Z
+Sakura-Sou no Pet na Kanojo,PSV,2013.0,Adventure,Kadokawa Games,0.0,0.0,0.01,0.0,0.01,,,,,Netchubiyori,CERO_C
+Wand of Fortune: Mirai e no Prologue,PS2,2010.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Nova Usagi no Game de Ryuugaku!? DS,DS,2007.0,Misc,Konami Digital Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Heart no Kuni no Alice,PSP,2009.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,QuinRose,CERO_C
+San-X: Chara Sagashi Land,DS,2007.0,Action,MTO,0.0,0.0,0.01,0.0,0.01,,,,,,
+Petz: Hamsterz Life 2,GBA,2007.0,Misc,Ubisoft,0.01,0.0,0.0,0.0,0.01,,,,,,E
+Command & Conquer Renegade,PC,2002.0,Shooter,Electronic Arts,0.0,0.01,0.0,0.0,0.01,,,,,Westwood Studios,T
+Memories Off,PSP,2008.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,5pb.,
+Tenchu San Portable,PSP,2009.0,Action,From Software,0.0,0.0,0.01,0.0,0.01,,,,,FromSoftware,GRAC_Eighteen
+Pippa Funnell 2: Farm Adventures,DS,2007.0,Simulation,Ubisoft,0.0,0.01,0.0,0.0,0.01,,,,,,
+Ride,X360,2015.0,Racing,Milestone S.r.l.,0.0,0.01,0.0,0.0,0.01,,,,,Milestone S.r.l,E
+Vitamin X,PS2,2007.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,HuneX,CERO_B
+Saint Seiya Omega: Ultimate Cosmo,PSP,2012.0,Fighting,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,PS4,2016.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+"Sakigake!! Otokojuku - Nihon yo, Kore ga Otoko Dearu!",PS3,2014.0,Fighting,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Root Letter,PS4,2016.0,Adventure,PQube,0.0,0.0,0.01,0.0,0.01,69.0,13.0,7.5,11.0,Kadokawa,M
+River City Ransom SP,3DS,2016.0,Action,Arc System Works,0.0,0.0,0.01,0.0,0.01,,,,,,
+Shin Hayarigami 2,PS4,2016.0,Adventure,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01,,,,,Nippon Ichi Software,
+Teenage Mutant Ninja Turtles (3DS),3DS,2013.0,Action,Activision,0.01,0.0,0.0,0.0,0.01,,,,,,
+Time Leap,X360,2009.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,Frontwing,CERO_C
+The Godfather (JP sales),X360,2006.0,Action,Electronic Arts,0.0,0.0,0.01,0.0,0.01,,,,,,
+th!nk Logic Trainer,Wii,2009.0,Puzzle,Conspiracy Entertainment,0.01,0.0,0.0,0.0,0.01,,,,,,
+Colin McRae Rally 04,PC,2004.0,Racing,Codemasters,0.0,0.01,0.0,0.0,0.01,87.0,6.0,7.2,44.0,Codemasters,E
+"Tennis no Oji-Sama: Doubles no Oji-Sama - Boys, Be Glorious!",DS,2009.0,Sports,Konami Digital Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Uchida Yasuou Mystery: Meitantei Senken Mitsuhiko Series: Fukutoshin Renzoku Satsujin Jiken,DS,2009.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,,
+Routes PE,PS2,2007.0,Adventure,Aqua Plus,0.0,0.0,0.01,0.0,0.01,,,,,,
+Railfan,PS3,2006.0,Simulation,Ongakukan,0.0,0.0,0.01,0.0,0.01,,,,,Taito,
+SoniPro,3DS,2014.0,Adventure,imageepoch Inc.,0.0,0.0,0.01,0.0,0.01,,,,,Imageepoch,CERO_C
+Akatsuki no Goei Trinity,PSP,2012.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,AKABEiSOFT3,
+Golden Time: Vivid Memories,PSV,2014.0,Adventure,ASCII Media Works,0.0,0.0,0.01,0.0,0.01,,,,,,CERO_C
+Shinseiki Evangelion: Koutetsu no Girlfriend 2nd Portable,PSP,2009.0,Adventure,CyberFront,0.0,0.0,0.01,0.0,0.01,,,,,,
+Tenjin Ranman: Happy GO Lucky!!,PSP,2010.0,Adventure,Russel,0.0,0.0,0.01,0.0,0.01,,,,,,
+Getsuei Gakuen: kou,PSV,2013.0,Adventure,Arc System Works,0.0,0.0,0.01,0.0,0.01,,,,,Arc System Works,
+Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm,PSV,2016.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,Daisy2,CERO_D
+Hotel Giant DS,DS,2008.0,Simulation,Nobilis,0.0,0.01,0.0,0.0,0.01,,,,,,E
+Shin Sangoku Musou 4 Special,X360,2005.0,Action,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,
+Bullet Soul: Tama Tamashii,X360,2011.0,Shooter,5pb,0.0,0.0,0.01,0.0,0.01,,,,,,
+G1 Jockey 4 2007,PS2,2007.0,Sports,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,
+"Element Girl: Love, Fashion and Friends",DS,2008.0,Adventure,DTP Entertainment,0.0,0.01,0.0,0.0,0.01,,,,,,
+Heart no Kuni no Alice: Wonderful Twin World,PSP,2014.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01,,,,,QuinRose,CERO_D
+Junjou Romanchika: Koi no Doki Doki Daisakusen,PS2,2008.0,Adventure,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01,,,,,,
+Shin Koihime Musou: Otome Taisen * Sangokushi Engi,PS3,2014.0,Adventure,Views,0.0,0.0,0.01,0.0,0.01,,,,,,
+Farming Simulator 2014,PSV,2014.0,Simulation,Focus Home Interactive,0.01,0.0,0.0,0.0,0.01,,,,,,
+"Horse Life 4: My Horse, My Friend, My Champion",3DS,2015.0,Action,Unknown,0.0,0.01,0.0,0.0,0.01,,,,,,
+Heart no Kuni no Alice,PS2,2008.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,QuinRose,CERO_C
+Shijyou Saikyou no Deshi Kenichi: Gekitou! Ragnarok Hachikengou,PS2,2007.0,Fighting,Capcom,0.0,0.0,0.01,0.0,0.01,,,,,,
+Juggler DS,DS,2008.0,Misc,Commseed,0.0,0.0,0.01,0.0,0.01,,,,,,
+Naruto Shippuden: Ultimate Ninja Storm Collection,PS3,2016.0,Action,Namco Bandai Games,0.0,0.01,0.0,0.0,0.01,,,,,,
+Katekyoo Hitman Reborn! Kindan no Yami no Delta,Wii,2008.0,Action,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01,,,,,,
+Transformers: Prime,Wii,2012.0,Action,Activision,0.0,0.01,0.0,0.0,0.01,,,,,NOW Production,E10
+Amnesia Later,PSV,2014.0,Misc,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_C
+Razor Freestyle Scooter,GBA,2001.0,Sports,Ubisoft,0.01,0.0,0.0,0.0,0.01,,,,,Crave Entertainment,E
+Vitamin Y,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,D3 Publisher,CERO_B
+Magicians Academy,PS2,2007.0,Role-Playing,Enterbrain,0.0,0.0,0.01,0.0,0.01,,,,,Enterbrain,CERO_A
+Memories Off #5: Togireta Film,PSP,2009.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,,
+Exstetra,3DS,2013.0,Role-Playing,FuRyu,0.0,0.0,0.01,0.0,0.01,,,,,Studio Saizensen,CERO_B
+Lucian Bee's: Resurrection Supernova,PS2,2009.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,HuneX,CERO_B
+The Amazing Spider-Man (DS & Mobile Versions),PSP,2009.0,Action,Eidos Interactive,0.0,0.01,0.0,0.0,0.01,,,,,,
+Captain Rainbow,Wii,2008.0,Adventure,Nintendo,0.0,0.0,0.01,0.0,0.01,,,,,Nintendo,CERO_B
+DoDonPachi Daifukkatsu: Black Label,X360,2011.0,Shooter,Cave,0.0,0.0,0.01,0.0,0.01,,,,,,
+"Shinobi, Koi Utsutsu: Setsugetsuka Koi Emaki",PSV,2015.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Ishin no Arashi: Shippuu Ryuumeden,DS,2010.0,Strategy,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,
+Dengeki Gakuen RPG: Cross of Venus Special,DS,2011.0,Role-Playing,ASCII Media Works,0.0,0.0,0.01,0.0,0.01,,,,,ASCII Media Works,
+Muv-Luv Alternative,PS3,2012.0,Simulation,5pb,0.0,0.0,0.01,0.0,0.01,,,,,âge,M
+Irotoridori no Sekai: World's End Re-Birth,PSV,2015.0,Action,HuneX,0.0,0.0,0.01,0.0,0.01,,,,,,
+Taishou x Alice: All in One,PSV,2016.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,Primula,Sixteen
+Farming 2017 - The Simulation,PS4,2016.0,Simulation,UIG Entertainment,0.0,0.01,0.0,0.0,0.01,,,,,,
+Koi Sentai Love & Peace the P.S.P: Power Zenkai! Special Youso Tenkomori de Portable Ka Daisakusen de Aru!,PSP,2012.0,Action,Broccoli,0.0,0.0,0.01,0.0,0.01,,,,,,
+Case Closed: One Truth Prevails,Wii,2007.0,Adventure,Nobilis,0.0,0.0,0.01,0.0,0.01,,,,,,
+Slotter Mania P: Tetsuya Shinjuku vs Ueno ,PSP,2010.0,Misc,Dorart,0.0,0.0,0.01,0.0,0.01,,,,,,
+Bomberman,Wii,2008.0,Puzzle,Hudson Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,Hudson Soft,E
+Hitman (2016),XOne,2016.0,Action,Square Enix,0.0,0.01,0.0,0.0,0.01,,,,,,
+Who Wants to be a Millionaire: 2nd Edition,DS,2008.0,Misc,Ubisoft,0.0,0.01,0.0,0.0,0.01,,,,,,
+Daito Giken Koushiki Pachi-Slot Simulator: 24 - Twenty-Four,PS2,2008.0,Misc,Paon,0.0,0.0,0.01,0.0,0.01,,,,,,
+Rabbids Invasion: The Interactive TV Show,XOne,2014.0,Misc,Ubisoft,0.0,0.01,0.0,0.0,0.01,,,,,Ubisoft Entertainment,E10
+Unending Bloody Call,PSP,2012.0,Action,Asgard,0.0,0.0,0.01,0.0,0.01,,,,,Icing Candy,CERO_C
+Shutsugeki! Otometachi no Senjou 2: Ikusabana no Kizuna,PSP,2011.0,Strategy,System Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Snood 2: On Vacation,GBA,2005.0,Puzzle,Zoo Digital Publishing,0.01,0.0,0.0,0.0,0.01,,,,,Gravity-I,E
+The Land Before Time: Into the Mysterious Beyond,GBA,2006.0,Platform,Game Factory,0.01,0.0,0.0,0.0,0.01,,,,,,E
+"Transformers: War for Cybertron (XBox 360, PS3, & PC Versions)",PC,2010.0,Shooter,Activision,0.01,0.0,0.0,0.0,0.01,,,,,,
+Satomi Hakkenden: Hachi Tamanoki,PSP,2014.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01,,,,,,
+Shinigami to Shoujo,PSP,2011.0,Adventure,Takuyo,0.0,0.0,0.01,0.0,0.01,,,,,Takuyo,CERO_B
+Naraku no Shiro,PS2,2008.0,Adventure,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01,,,,,Nippon Ichi Software,
+Mystereet,PS2,2006.0,Adventure,Yeti,0.0,0.0,0.01,0.0,0.01,,,,,,
+Samurai Shodown: Warrios Rage,PS,1999.0,Fighting,SNK,0.01,0.0,0.0,0.0,0.01,,,,,,
+Mario & Luigi: Paper Jam & Mario Kart 7 Double Pack,3DS,2015.0,Misc,Nintendo,0.0,0.0,0.01,0.0,0.01,,,,,,
+Romeo Vs. Juliet,PSP,2013.0,Adventure,Quinrose,0.0,0.0,0.01,0.0,0.01,,,,,QuinRose,CERO_D
+Kiniro no Corda 3,3DS,2015.0,Adventure,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei Tecmo,CERO_B
+Palais de Reine,PS2,2007.0,Strategy,Interchannel-Holon,0.0,0.0,0.01,0.0,0.01,,,,,Kogado Studio,CERO_B
+Bakumatsu Rock: Ultra Soul,PSP,2014.0,Misc,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01,,,,,Marvelous AQL,
+National Geographic Panda (JP sales),DS,2008.0,Simulation,Ubisoft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Codename: Panzers Complete Collection,PC,2016.0,Strategy,Nordic Games,0.0,0.01,0.0,0.0,0.01,,,,,,
+Knights in the Nightmare: DHE Series Special Pack,DS,2008.0,Role-Playing,Sting,0.0,0.0,0.01,0.0,0.01,,,,,,
+DJ Max Technika Tune,PSV,2012.0,Misc,CyberFront,0.0,0.0,0.01,0.0,0.01,,,,,Pentavision,T
+World Snooker Championship 2007,X360,2007.0,Sports,Sega,0.0,0.01,0.0,0.0,0.01,,,,,Sega,Three
+Norn + Nonette: Act Tune,PSV,2016.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Crossroad Crisis,PS,2000.0,Puzzle,Success,0.01,0.0,0.0,0.0,0.01,,,,,,
+Tengai Makyo: Dai Yon no Mokushiroku,PSP,2006.0,Role-Playing,Hudson Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Akatsuki no Goei Trinity,PS3,2012.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,AKABEiSOFT3,
+Shirogane no Soleil: Contract to the Future - Mirai e no Keiyaku,PS2,2008.0,Adventure,Russel,0.0,0.0,0.01,0.0,0.01,,,,,,
+The Amazing Spider-Man 2 (2014),PC,2014.0,Action,Activision,0.0,0.01,0.0,0.0,0.01,,,,,Activision,USK_12
+Style Book: Cinnamoroll,DS,2006.0,Misc,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Bandai,CERO_A
+The Treasures of Mystery Island 3 Pack - Save Mystery Island!,PC,2011.0,Puzzle,Unknown,0.01,0.0,0.0,0.0,0.01,,,,,,
+Blazer Drive,DS,2008.0,Role-Playing,Sega,0.0,0.0,0.01,0.0,0.01,,,,,Sega Corporation,CERO_B
+Onigokko! Portable,PSP,2013.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01,,,,,,
+WSC REAL 09: World Snooker Championship,PS3,2009.0,Sports,Deep Silver,0.0,0.01,0.0,0.0,0.01,,,,,Koch Media,E
+Hoshizora no Comic Garden,DS,2008.0,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01,,,,,D3 Publisher,CERO_B
+Hirameki Action: Chibikko Wagyan no Daiki na Bouken,DS,2009.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,Namco Bandai Games,CERO_A
+Eve: Burst Error R,PSV,2016.0,Action,Red Flagship,0.0,0.0,0.01,0.0,0.01,,,,,El Dia,CERO_D
+ZombiU,XOne,2016.0,Action,Ubisoft,0.0,0.01,0.0,0.0,0.01,,,,,,
+Time Travelers,PSP,2012.0,Adventure,Level 5,0.0,0.0,0.01,0.0,0.01,,,,,LEVEL-5,CERO_C
+Mushi Bugyou,3DS,2013.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Real Crimes: The Unicorn Killer,DS,2011.0,Puzzle,Unknown,0.0,0.01,0.0,0.0,0.01,,,,,,
+The Rise of the Argonauts,PC,2008.0,Role-Playing,Codemasters,0.0,0.01,0.0,0.0,0.01,,,,,Codemasters,Sixteen
+Nintendogs and Cats Golden Retriever and New Friends,3DS,2011.0,Action,Nintendo,0.0,0.01,0.0,0.0,0.01,,,,,Nintendo,E
+Summer Athletics,PC,2008.0,Sports,DTP Entertainment,0.0,0.01,0.0,0.0,0.01,,,tbd,,DTP Entertainment,E
+Imagine Figure Skater (JP sales),DS,2007.0,Sports,Ubisoft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Dramatical Murder Re:code,PSV,2014.0,Adventure,Nitroplus,0.0,0.0,0.01,0.0,0.01,,,,,NITRO PLUS,CERO_C
+Driving Simulator 2011,PC,2011.0,Racing,,0.0,0.01,0.0,0.0,0.01,,,,,,
+Hyakki Yagyou Kaidan Romance,PSP,2012.0,Action,Quinrose,0.0,0.0,0.01,0.0,0.01,,,,,,
+Prison Architect,XOne,2016.0,Action,Introversion Software,0.01,0.0,0.0,0.0,0.01,74.0,13.0,6.7,7.0,"Introversion, Double Eleven",M
+Hakuoki: Reimeiroku - Omouhase Kara,PSV,2015.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,,
+Mahou Sensei Negima!? Neo-Pactio Fight!!,Wii,2007.0,Fighting,Marvelous Interactive,0.0,0.0,0.01,0.0,0.01,,,,,Marvelous Entertainment,CERO_B
+Sweet Honey Coming,PS2,2009.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,,,,,,
+Psychic Detective,PS,1995.0,Adventure,Electronic Arts,0.01,0.0,0.0,0.0,0.01,,,,,,
+Hanasaku Manimani,PSV,2014.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,MAGES.,CERO_C
+Fujiko F. Fujio Characters: Great Assembly! Slightly Fantastic Slapstick Party,3DS,2014.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,
+Sugar + Spice! Anoko no Suteki na Nanimokamo,PS2,2008.0,Adventure,Alchemist,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kanokon: Esuii,PS2,2008.0,Adventure,5pb,0.0,0.0,0.01,0.0,0.01,,,,,,
+Tsukigime Ranko's Longest Day,PS3,2014.0,Action,Namco Bandai Games,0.0,0.01,0.0,0.0,0.01,,,,,Crispy's!,M
+Original Frisbee Disc Sports: Ultimate & Golf,DS,2007.0,Action,"Destination Software, Inc",0.01,0.0,0.0,0.0,0.01,,,,,Destination Software,E
+G1 Jockey 4 2008,PS3,2008.0,Sports,Tecmo Koei,0.0,0.0,0.0,0.0,0.01,,,,,,
+Aikatsu Stars! My Special Appeal,3DS,2016.0,Action,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01,,,,,,CERO_A
+XI Coliseum,PSP,2006.0,Puzzle,Sony Computer Entertainment,0.0,0.0,0.01,0.0,0.01,,,,,,
+Kyoukai no Shirayuki,PSV,2016.0,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,CERO_C
+Grisaia no Kajitsu: La Fruit de la Grisaia,PSP,2013.0,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01,,,,,PROTOTYPE,CERO_D
+Scarlett: Nichijou no Kyoukaisen,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,,,,,nekoneko soft,CERO_B
+7'scarlet,PSV,2016.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Idea Factory,Twelve
+Help Wanted: 50 Wacky Jobs (jp sales),Wii,2008.0,Simulation,Hudson Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Yattaman Wii: BikkuriDokkiri Machine de Mou Race da Koron,Wii,2008.0,Racing,Takara Tomy,0.0,0.0,0.01,0.0,0.01,,,,,,
+Neo Angelique Special,PSP,2008.0,Adventure,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei,CERO_B
+Real Rode,PS2,2008.0,Adventure,Kadokawa Shoten,0.0,0.0,0.01,0.0,0.01,,,,,HuneX,CERO_B
+Pony Friends 2,PC,2009.0,Simulation,Eidos Interactive,0.0,0.01,0.0,0.0,0.01,,,,,Tantalus Interactive,E
+Dynasty Warriors: Eiketsuden,PS3,2016.0,Action,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei Tecmo America Corporation,T
+PGA European Tour,N64,2000.0,Sports,Infogrames,0.01,0.0,0.0,0.0,0.01,,,,,Infogrames,E
+Carmageddon 64,N64,1999.0,Action,Virgin Interactive,0.01,0.0,0.0,0.0,0.01,,,,,Software Creations,USK_18
+The Longest 5 Minutes,PSV,2016.0,Action,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01,,,,,,
+Mezase!! Tsuri Master DS,DS,2009.0,Sports,Hudson Soft,0.0,0.0,0.01,0.0,0.01,,,,,,
+Eiyuu Densetsu: Sora no Kiseki Material Collection Portable,PSP,2007.0,Role-Playing,Falcom Corporation,0.0,0.0,0.01,0.0,0.01,,,,,,
+Strawberry Nauts,PSV,2016.0,Adventure,Unknown,0.0,0.0,0.01,0.0,0.01,,,,,ENTERGRAM,CERO_D
+15 Days,PC,2009.0,Adventure,DTP Entertainment,0.0,0.01,0.0,0.0,0.01,63.0,6.0,5.8,8.0,THQ Nordic,Sixteen
+Aiyoku no Eustia,PSV,2014.0,Misc,dramatic create,0.0,0.0,0.01,0.0,0.01,,,,,August,CERO_D
+Woody Woodpecker in Crazy Castle 5,GBA,2002.0,Platform,Kemco,0.01,0.0,0.0,0.0,0.01,,,,,,
+SCORE International Baja 1000: The Official Game,PS2,2008.0,Racing,Activision,0.0,0.0,0.0,0.0,0.01,,,,,,
+Samurai Warriors: Sanada Maru,PS3,2016.0,Action,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,Koei Tecmo America Corporation,CERO_B
+LMA Manager 2007,X360,2006.0,Sports,Codemasters,0.0,0.01,0.0,0.0,0.01,,,,,,Three
+Haitaka no Psychedelica,PSV,2016.0,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01,,,,,Otomate,T
+Spirits & Spells,GBA,2003.0,Platform,Wanadoo,0.01,0.0,0.0,0.0,0.01,,,,,Magic Pockets,E
+Winning Post 8 2016,PSV,2016.0,Simulation,Tecmo Koei,0.0,0.0,0.01,0.0,0.01,,,,,,CERO_A
