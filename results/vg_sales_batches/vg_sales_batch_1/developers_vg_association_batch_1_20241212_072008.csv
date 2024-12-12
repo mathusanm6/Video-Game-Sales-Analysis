@@ -1,0 +1,2575 @@
+Index,Developer,Video_Game_Name
+0,Nintendo,Wii Sports
+1,Nintendo EAD Software Development Group No.2,Wii Sports
+2,Playtronic,Super Mario Bros.
+3,Nintendo,Super Mario Bros.
+4,Nintendo R&D4,Super Mario Bros.
+5,Nintendo,Mario Kart Wii
+6,Nintendo EAD,Mario Kart Wii
+7,Nintendo,Wii Sports Resort
+8,Nintendo EAD Software Development Group No.2,Wii Sports Resort
+9,Nintendo,Tetris
+10,Gradiente,Tetris
+11,Playtronic,Tetris
+12,ELORG,Tetris
+13,Mani,Tetris
+14,Nintendo EAD,New Super Mario Bros.
+15,Nintendo,New Super Mario Bros.
+16,iQue,New Super Mario Bros.
+17,Nintendo,Wii Play
+18,Nintendo EAD Software Development Group No.2,Wii Play
+19,Nintendo,New Super Mario Bros. Wii
+20,Nintendo EAD,New Super Mario Bros. Wii
+21,Nintendo,Nintendogs
+22,Nintendo EAD Software Development Group No.1,Mario Kart DS
+23,Nintendo,Mario Kart DS
+24,Nintendo,Wii Fit
+25,Nintendo EAD Software Development Group No.5,Wii Fit
+26,Microsoft Game Studios,Kinect Adventures!
+27,Good Science Studio,Kinect Adventures!
+28,Nintendo,Wii Fit Plus
+29,Nintendo EAD Software Development Group No.5,Wii Fit Plus
+30,Rockstar North,Grand Theft Auto V
+31,Rockstar Games,Grand Theft Auto V
+32,Take-Two Interactive,Grand Theft Auto V
+33,Rockstar Toronto,Grand Theft Auto V
+34,Rockstar North,Grand Theft Auto: San Andreas
+35,Take-Two Interactive,Grand Theft Auto: San Andreas
+36,Rockstar Games,Grand Theft Auto: San Andreas
+37,TransGaming Inc.,Grand Theft Auto: San Andreas
+38,Nintendo,Brain Age: Train Your Brain in Minutes a Day
+39,Nintendo SPD Production Group No. 2,Brain Age: Train Your Brain in Minutes a Day
+40,Nintendo R&D1,Super Mario Land
+41,Nintendo,Super Mario Land
+42,Playtronic,Super Mario Land
+43,Mani,Super Mario Land
+44,Rockstar North,Grand Theft Auto V
+45,Rockstar Games,Grand Theft Auto V
+46,Take-Two Interactive,Grand Theft Auto V
+47,Rockstar Toronto,Grand Theft Auto V
+48,Rockstar Games,Grand Theft Auto: Vice City
+49,Rockstar North,Grand Theft Auto: Vice City
+50,Rockstar Vienna,Grand Theft Auto: Vice City
+51,Take-Two Interactive,Grand Theft Auto: Vice City
+52,TransGaming Inc.,Grand Theft Auto: Vice City
+53,Nintendo,Brain Age 2: More Training in Minutes a Day
+54,Nintendo SPD Software Development Group,Brain Age 2: More Training in Minutes a Day
+55,Nintendo SPD Production Group No. 2,Brain Age 2: More Training in Minutes a Day
+56,Polyphony Digital,Gran Turismo 3: A-Spec
+57,Sony Computer Entertainment,Gran Turismo 3: A-Spec
+58,Raven Software,Call of Duty: Modern Warfare 3
+59,Sledgehammer Games,Call of Duty: Modern Warfare 3
+60,Infinity Ward,Call of Duty: Modern Warfare 3
+61,Activision,Call of Duty: Modern Warfare 3
+62,Nintendo,Pokémon Yellow: Special Pikachu Edition
+63,Game Freak,Pokémon Yellow: Special Pikachu Edition
+64,Gradiente,Pokémon Yellow: Special Pikachu Edition
+65,Activision,Call of Duty: Black Ops 3
+66,Treyarch,Call of Duty: Black Ops 3
+67,Aspyr Media,Call of Duty: Black Ops 3
+68,Activision,Call of Duty: Black Ops
+69,Square Enix,Call of Duty: Black Ops
+70,Treyarch,Call of Duty: Black Ops
+71,Aspyr Media,Call of Duty: Black Ops
+72,Treyarch,Call of Duty: Black Ops II
+73,Activision,Call of Duty: Black Ops II
+74,Square Enix,Call of Duty: Black Ops II
+75,Treyarch,Call of Duty: Black Ops II
+76,Activision,Call of Duty: Black Ops II
+77,Square Enix,Call of Duty: Black Ops II
+78,Infinity Ward,Call of Duty: Modern Warfare 2
+79,SPOV,Call of Duty: Modern Warfare 2
+80,The Ant Farm,Call of Duty: Modern Warfare 2
+81,Earbash Inc.,Call of Duty: Modern Warfare 2
+82,Shadows in Darkness,Call of Duty: Modern Warfare 2
+83,Vykarian,Call of Duty: Modern Warfare 2
+84,PCB Productions,Call of Duty: Modern Warfare 2
+85,SIDE UK Ltd,Call of Duty: Modern Warfare 2
+86,87eleven,Call of Duty: Modern Warfare 2
+87,Xloc. inc,Call of Duty: Modern Warfare 2
+88,Blade Games World,Call of Duty: Modern Warfare 2
+89,"Ignited Minds, LLC",Call of Duty: Modern Warfare 2
+90,Hamagami/Carroll Inc.,Call of Duty: Modern Warfare 2
+91,Activision,Call of Duty: Modern Warfare 2
+92,Raven Software,Call of Duty: Modern Warfare 3
+93,Sledgehammer Games,Call of Duty: Modern Warfare 3
+94,Infinity Ward,Call of Duty: Modern Warfare 3
+95,Activision,Call of Duty: Modern Warfare 3
+96,DMA Design,Grand Theft Auto III
+97,Rockstar Games,Grand Theft Auto III
+98,Rockstar Vienna,Grand Theft Auto III
+99,Take-Two Interactive,Grand Theft Auto III
+100,TransGaming Inc.,Grand Theft Auto III
+101,Nintendo,Super Smash Bros. Brawl
+102,Game Arts,Super Smash Bros. Brawl
+103,Sora,Super Smash Bros. Brawl
+104,Monolith Soft,Super Smash Bros. Brawl
+105,HAL Laboratory,Super Smash Bros. Brawl
+106,Paon,Super Smash Bros. Brawl
+107,Intelligent Systems,Super Smash Bros. Brawl
+108,Nintendo EAD Software Development Group No.1,Mario Kart 7
+109,Nintendo,Mario Kart 7
+110,iQue,Mario Kart 7
+111,Activision,Call of Duty: Black Ops
+112,Square Enix,Call of Duty: Black Ops
+113,Treyarch,Call of Duty: Black Ops
+114,Aspyr Media,Call of Duty: Black Ops
+115,Rockstar North,Grand Theft Auto V
+116,Rockstar Games,Grand Theft Auto V
+117,Take-Two Interactive,Grand Theft Auto V
+118,Rockstar Toronto,Grand Theft Auto V
+119,Nintendo,Animal Crossing: Wild World
+120,Nintendo EAD,Animal Crossing: Wild World
+121,Bungie,Halo 3
+122,Microsoft Game Studios,Halo 3
+123,Nintendo,Super Mario 64
+124,Nintendo EAD,Super Mario 64
+125,Playtronic,Super Mario 64
+126,Gradiente,Super Mario 64
+127,Polyphony Digital,Gran Turismo 4
+128,"Sony Computer Entertainment, Inc. (SCEI)",Gran Turismo 4
+129,Nintendo EAD,Super Mario Galaxy
+130,Nintendo,Super Mario Galaxy
+131,Nintendo R&D1,Super Mario Land 2: 6 Golden Coins
+132,Nintendo,Super Mario Land 2: 6 Golden Coins
+133,Playtronic,Super Mario Land 2: 6 Golden Coins
+134,Rockstar North,Grand Theft Auto IV
+135,Rockstar Toronto,Grand Theft Auto IV
+136,Rockstar Games,Grand Theft Auto IV
+137,Take-Two Interactive,Grand Theft Auto IV
+138,Polyphony Digital,Gran Turismo
+139,Cyberhead,Gran Turismo
+140,Sony Computer Entertainment,Gran Turismo
+141,Nintendo EAD,Super Mario 3D Land
+142,Brownie Brown,Super Mario 3D Land
+143,Nintendo,Super Mario 3D Land
+144,iQue,Super Mario 3D Land
+145,Polyphony Digital,Gran Turismo 5
+146,Sony Computer Entertainment,Gran Turismo 5
+147,Infinity Ward,Call of Duty: Modern Warfare 2
+148,SPOV,Call of Duty: Modern Warfare 2
+149,The Ant Farm,Call of Duty: Modern Warfare 2
+150,Earbash Inc.,Call of Duty: Modern Warfare 2
+151,Shadows in Darkness,Call of Duty: Modern Warfare 2
+152,Vykarian,Call of Duty: Modern Warfare 2
+153,PCB Productions,Call of Duty: Modern Warfare 2
+154,SIDE UK Ltd,Call of Duty: Modern Warfare 2
+155,87eleven,Call of Duty: Modern Warfare 2
+156,Xloc. inc,Call of Duty: Modern Warfare 2
+157,Blade Games World,Call of Duty: Modern Warfare 2
+158,"Ignited Minds, LLC",Call of Duty: Modern Warfare 2
+159,Hamagami/Carroll Inc.,Call of Duty: Modern Warfare 2
+160,Activision,Call of Duty: Modern Warfare 2
+161,Nintendo EAD,Super Mario All-Stars
+162,Nintendo,Super Mario All-Stars
+163,Playtronic,Super Mario All-Stars
+164,Hyundai,Super Mario All-Stars
+165,Rockstar North,Grand Theft Auto IV
+166,Rockstar Toronto,Grand Theft Auto IV
+167,Rockstar Games,Grand Theft Auto IV
+168,Take-Two Interactive,Grand Theft Auto IV
+169,Nintendo EAD,Super Mario 64
+170,Nintendo,Super Mario 64
+171,iQue,Super Mario 64
+172,Neversoft Entertainment,Call of Duty: Ghosts
+173,Activision,Call of Duty: Ghosts
+174,Infinity Ward,Call of Duty: Ghosts
+175,Raven Software,Call of Duty: Ghosts
+176,Treyarch,Call of Duty: Ghosts
+177,Certain Affinity,Call of Duty: Ghosts
+178,Ubisoft Paris,Just Dance 3
+179,Ubisoft Entertainment,Just Dance 3
+180,Nintendo,New Super Mario Bros. 2
+181,Nintendo EAD,New Super Mario Bros. 2
+182,Nintendo SPD,New Super Mario Bros. 2
+183,Nintendo,Mario Kart 64
+184,Nintendo EAD,Mario Kart 64
+185,iQue,Mario Kart 64
+186,Bungie,Halo: Reach
+187,Microsoft Game Studios,Halo: Reach
+188,343 Industries,Halo: Reach
+189,Sony Computer Entertainment,Final Fantasy VII
+190,Square Product Development Division 1,Final Fantasy VII
+191,Square Enix,Final Fantasy VII
+192,Square,Final Fantasy VII
+193,343 Industries,Halo 4
+194,Microsoft Studios,Halo 4
+195,Polyphony Digital,Gran Turismo 2
+196,Sony Computer Entertainment,Gran Turismo 2
+197,Ubisoft Paris,Just Dance 2
+198,Ubisoft Milan,Just Dance 2
+199,Ubisoft Entertainment,Just Dance 2
+200,Neversoft Entertainment,Call of Duty: Ghosts
+201,Activision,Call of Duty: Ghosts
+202,Infinity Ward,Call of Duty: Ghosts
+203,Raven Software,Call of Duty: Ghosts
+204,Treyarch,Call of Duty: Ghosts
+205,Certain Affinity,Call of Duty: Ghosts
+206,Infinity Ward,Call of Duty 4: Modern Warfare
+207,Activision,Call of Duty 4: Modern Warfare
+208,Rare,Donkey Kong Country
+209,Nintendo,Donkey Kong Country
+210,Playtronic,Donkey Kong Country
+211,Gradiente,Donkey Kong Country
+212,Hyundai,Donkey Kong Country
+213,4J Studios,Minecraft
+214,Nintendo,Animal Crossing: New Leaf
+215,Nintendo EAD Software Development Group No.2,Animal Crossing: New Leaf
+216,Hudson Soft,Mario Party DS
+217,Nintendo,Mario Party DS
+218,Bethesda Game Studios,The Elder Scrolls V: Skyrim
+219,Bethesda Softworks,The Elder Scrolls V: Skyrim
+220,Nintendo,Super Mario Kart
+221,Nintendo EAD,Super Mario Kart
+222,Gradiente,Super Mario Kart
+223,Playtronic,Super Mario Kart
+224,Hyundai,Super Mario Kart
+225,EA Canada,FIFA 16
+226,EA Sports,FIFA 16
+227,Bungie,Halo 2
+228,Microsoft Game Studios,Halo 2
+229,Pi Studios,Halo 2
+230,Nintendo,Wii Party
+231,NDCube,Wii Party
+232,Nintendo,Mario Party 8
+233,Hudson Soft,Mario Party 8
+234,CAProductions,Mario Party 8
+235,Nintendo SPD,Mario Party 8
+236,EA Canada,FIFA Soccer 13
+237,Electronic Arts,FIFA Soccer 13
+238,Nintendo,GoldenEye 007
+239,Rare,GoldenEye 007
+240,Gradiente,GoldenEye 007
+241,Square Electronic Arts,Final Fantasy X
+242,Square,Final Fantasy X
+243,Square Product Development Division 1,Final Fantasy X
+244,TransGaming Technologies,The Sims 3
+245,Edge of Reality,The Sims 3
+246,The Sims Studio,The Sims 3
+247,Electronic Arts,The Sims 3
+248,Sega,Mario & Sonic at the Olympic Games
+249,Sega Sports R&D,Mario & Sonic at the Olympic Games
+250,Nintendo,Mario & Sonic at the Olympic Games
+251,Square Electronic Arts,Final Fantasy VIII
+252,Square Enix,Final Fantasy VIII
+253,Square Product Development Division 1,Final Fantasy VIII
+254,Square,Final Fantasy VIII
+255,Polyvox,Pac-Man
+256,ME-TA Elektronik Endüstri ve Ticaret,Pac-Man
+257,Atari,Pac-Man
+258,Namco,Pac-Man
+259,Nintendo,Pokémon Platinum Version
+260,Game Freak,Pokémon Platinum Version
+261,Take-Two Interactive,Grand Theft Auto: Liberty City Stories
+262,Rockstar Leeds,Grand Theft Auto: Liberty City Stories
+263,Rockstar North,Grand Theft Auto: Liberty City Stories
+264,Rockstar Games,Grand Theft Auto: Liberty City Stories
+265,Activision,Call of Duty: Advanced Warfare
+266,Sledgehammer Games,Call of Duty: Advanced Warfare
+267,Raven Software,Call of Duty: Advanced Warfare
+268,High Moon Studios,Call of Duty: Advanced Warfare
+269,Square Enix,Call of Duty: Advanced Warfare
+270,Nintendo EAD,The Legend of Zelda: Ocarina of Time
+271,Nintendo,The Legend of Zelda: Ocarina of Time
+272,Gradiente,The Legend of Zelda: Ocarina of Time
+273,iQue,The Legend of Zelda: Ocarina of Time
+274,EA Sports,FIFA 17
+275,EA Vancouver,FIFA 17
+276,EA Romania,FIFA 17
+277,Universal Interactive Studios,Crash Bandicoot 2: Cortex Strikes Back
+278,Naughty Dog,Crash Bandicoot 2: Cortex Strikes Back
+279,Sony Computer Entertainment,Crash Bandicoot 2: Cortex Strikes Back
+280,Nintendo,Super Mario Galaxy 2
+281,Nintendo EAD,Super Mario Galaxy 2
+282,Nintendo,Super Mario Bros. 2
+283,Nintendo R&D4,Super Mario Bros. 2
+284,Playtronic,Super Mario Bros. 2
+285,Activision,Call of Duty: Black Ops 3
+286,Treyarch,Call of Duty: Black Ops 3
+287,Aspyr Media,Call of Duty: Black Ops 3
+288,Treyarch,Call of Duty: World at War
+289,Arkane Studios,Call of Duty: World at War
+290,Exakt Entertainment,Call of Duty: World at War
+291,Activision,Call of Duty: World at War
+292,EA Digital Illusions CE,Battlefield 3
+293,Electronic Arts,Battlefield 3
+294,EA Black Box,Need for Speed Underground
+295,Electronic Arts,Need for Speed Underground
+296,Konami,Just Dance
+297,EA Digital Illusions CE,Battlefield 3
+298,Electronic Arts,Battlefield 3
+299,Bethesda Game Studios,Fallout 4
+300,Bethesda Softworks,Fallout 4
+301,Sony Computer Entertainment,Tekken 3
+302,Namco,Tekken 3
+303,Nintendo,The Legend of Zelda: Twilight Princess
+304,Nintendo EAD Software Development Group No.3,The Legend of Zelda: Twilight Princess
+305,Imagica DigitalScape,The Legend of Zelda: Twilight Princess
+306,Universal Interactive Studios,Crash Bandicoot 3: Warped
+307,Sony Computer Entertainment,Crash Bandicoot 3: Warped
+308,Naughty Dog,Crash Bandicoot 3: Warped
+309,Nintendo,Mario Kart 8
+310,Nintendo EAD Software Development Group No.1,Mario Kart 8
+311,Retro Studios,Mario Kart 8
+312,Nintendo,Super Smash Bros. Melee
+313,HAL Laboratory,Super Smash Bros. Melee
+314,Gradiente,Super Smash Bros. Melee
+315,Nintendo EAD,Mario Kart: Double Dash!!
+316,Nintendo,Mario Kart: Double Dash!!
+317,EA Black Box,Need for Speed Underground 2
+318,Electronic Arts,Need for Speed Underground 2
+319,Electronic Arts,Medal of Honor: Frontline
+320,EA Los Angeles,Medal of Honor: Frontline
+321,Naughty Dog,Crash Bandicoot
+322,Universal Interactive Studios,Crash Bandicoot
+323,Sony Computer Entertainment,Crash Bandicoot
+324,Ubisoft Paris,Just Dance 4
+325,Ubisoft Reflections,Just Dance 4
+326,Ubisoft Bucharest,Just Dance 4
+327,Ubisoft Pune,Just Dance 4
+328,Ubisoft Milan,Just Dance 4
+329,Microsoft Game Studios,Gears of War 2
+330,People Can Fly,Gears of War 2
+331,Epic Games,Gears of War 2
+332,Naughty Dog,Uncharted 3: Drake's Deception
+333,Sony Computer Entertainment,Uncharted 3: Drake's Deception
+334,505 Games,Zumba Fitness
+335,Majesco Entertainment,Zumba Fitness
+336,Pipeworks Software,Zumba Fitness
+337,Infinity Ward,Call of Duty 4: Modern Warfare
+338,Activision,Call of Duty 4: Modern Warfare
+339,Naughty Dog,Uncharted 2: Among Thieves
+340,Sony Computer Entertainment,Uncharted 2: Among Thieves
+341,EA Canada,FIFA 12
+342,Electronic Arts,FIFA 12
+343,Rockstar Games,Red Dead Redemption
+344,Rockstar North,Red Dead Redemption
+345,Rockstar San Diego,Red Dead Redemption
+346,Take-Two Interactive,Red Dead Redemption
+347,EA Sports,FIFA 14
+348,EA Canada,FIFA 14
+349,Ubisoft Montreal,Assassin's Creed III
+350,Ubisoft Singapore,Assassin's Creed III
+351,Ubisoft Annecy,Assassin's Creed III
+352,Ubisoft Bucharest,Assassin's Creed III
+353,Ubisoft Kyiv,Assassin's Creed III
+354,Ubisoft Québec,Assassin's Creed III
+355,Ubisoft Entertainment,Assassin's Creed III
+356,Retro Studios,Donkey Kong Country Returns
+357,Nintendo,Donkey Kong Country Returns
+358,Microsoft Game Studios,Halo: Combat Evolved
+359,Bungie,Halo: Combat Evolved
+360,MacSoft Games,Halo: Combat Evolved
+361,Gearbox Software,Halo: Combat Evolved
+362,Westlake Interactive,Halo: Combat Evolved
+363,Bethesda Game Studios,The Elder Scrolls V: Skyrim
+364,Bethesda Softworks,The Elder Scrolls V: Skyrim
+365,Nintendo,Pokémon Emerald Version
+366,Game Freak,Pokémon Emerald Version
+367,Disney Interactive Studios,Kingdom Hearts
+368,Square Electronic Arts,Kingdom Hearts
+369,Sony Computer Entertainment,Kingdom Hearts
+370,Square,Kingdom Hearts
+371,Square Enix,Kingdom Hearts
+372,Square Product Development Division 1,Kingdom Hearts
+373,Bungie,Halo 3: ODST
+374,Microsoft Game Studios,Halo 3: ODST
+375,Rockstar Games,Red Dead Redemption
+376,Rockstar North,Red Dead Redemption
+377,Rockstar San Diego,Red Dead Redemption
+378,Take-Two Interactive,Red Dead Redemption
+379,Nintendo EAD,Super Mario Sunshine
+380,Nintendo,Super Mario Sunshine
+381,Gradiente,Super Mario Sunshine
+382,Capcom,Street Fighter II: The World Warrior
+383,Playtronic,Street Fighter II: The World Warrior
+384,Blizzard Entertainment,World of Warcraft
+385,GT Interactive Software,Driver
+386,Reflections Interactive,Driver
+387,Gameloft,Driver
+388,Crawfish Interactive,Driver
+389,Infogrames,Driver
+390,MacSoft Games,Driver
+391,Microsoft Game Studios,Gears of War 3
+392,Epic Games,Gears of War 3
+393,Microsoft Studios,Kinect Sports
+394,Rare,Kinect Sports
+395,Microsoft Game Studios,Gears of War
+396,Epic Games,Gears of War
+397,EA Canada,FIFA 15
+398,EA Sports,FIFA 15
+399,Konami Computer Entertainment Japan,Metal Gear Solid 2: Sons of Liberty
+400,Konami,Metal Gear Solid 2: Sons of Liberty
+401,Sonic Team,Sonic the Hedgehog 2
+402,Sega Technical Institute,Sonic the Hedgehog 2
+403,Sega,Sonic the Hedgehog 2
+404,Tec Toy,Sonic the Hedgehog 2
+405,Konami Computer Entertainment Japan,Metal Gear Solid
+406,Konami,Metal Gear Solid
+407,Kojima Productions,Metal Gear Solid 4: Guns of the Patriots
+408,Konami,Metal Gear Solid 4: Guns of the Patriots
+409,Square Enix,Final Fantasy XII
+410,Square Enix Product Development Division 4,Final Fantasy XII
+411,Naughty Dog,The Last of Us
+412,Sony Computer Entertainment,The Last of Us
+413,Media Molecule,LittleBigPlanet
+414,Sony Computer Entertainment,LittleBigPlanet
+415,Sourcenext,Resident Evil 2
+416,Capcom Production Studio 3,Resident Evil 2
+417,Nintendo,Resident Evil 2
+418,Virgin Interactive Entertainment,Resident Evil 2
+419,Capcom Planning Room 2,Resident Evil 2
+420,Capcom,Resident Evil 2
+421,LEVEL-5,Dragon Quest IX: Sentinels of the Starry Skies
+422,Nintendo,Dragon Quest IX: Sentinels of the Starry Skies
+423,Square Enix,Dragon Quest IX: Sentinels of the Starry Skies
+424,Square Enix Product Development Division 9,Dragon Quest IX: Sentinels of the Starry Skies
+425,Armor Project,Dragon Quest IX: Sentinels of the Starry Skies
+426,Bird Studio,Dragon Quest IX: Sentinels of the Starry Skies
+427,Namco,Tekken 2
+428,Sony Computer Entertainment,Tekken 2
+429,Namco Bandai Games,Tekken 2
+430,Bungie,Destiny
+431,Activision,Destiny
+432,ND Games,Destiny
+433,Feral Interactive,LEGO Star Wars: The Complete Saga
+434,Robosoft Technologies,LEGO Star Wars: The Complete Saga
+435,WB Games,LEGO Star Wars: The Complete Saga
+436,LucasArts,LEGO Star Wars: The Complete Saga
+437,TT Fusion,LEGO Star Wars: The Complete Saga
+438,Traveller's Tales,LEGO Star Wars: The Complete Saga
+439,Office Create,Cooking Mama
+440,Majesco Entertainment,Cooking Mama
+441,505 Games,Cooking Mama
+442,Taito,Cooking Mama
+443,Nintendo,Tetris
+444,Nintendo,Super Smash Bros.
+445,HAL Laboratory,Super Smash Bros.
+446,Gradiente,Super Smash Bros.
+447,iQue,Super Smash Bros.
+448,Ubisoft Montreal,Assassin's Creed II
+449,Ubisoft Entertainment,Assassin's Creed II
+450,Ubisoft Singapore,Assassin's Creed II
+451,Ubisoft Montreal,Assassin's Creed
+452,Ubisoft Entertainment,Assassin's Creed
+453,Turn 10 Studios,Forza Motorsport 3
+454,Microsoft Game Studios,Forza Motorsport 3
+455,Nintendo R&D2,Super Mario Advance
+456,Nintendo,Super Mario Advance
+457,Gradiente,Super Mario Advance
+458,iQue,Super Mario Advance
+459,Capcom,Monster Hunter Freedom Unite
+460,Capcom Production Studio 1,Monster Hunter Freedom Unite
+461,Rocksteady Studios,Batman: Arkham City
+462,WB Games,Batman: Arkham City
+463,DC Entertainment,Batman: Arkham City
+464,Rockstar North,Grand Theft Auto V
+465,Rockstar Games,Grand Theft Auto V
+466,Take-Two Interactive,Grand Theft Auto V
+467,Rockstar Toronto,Grand Theft Auto V
+468,Nintendo,Mario Kart: Super Circuit
+469,Gradiente,Mario Kart: Super Circuit
+470,iQue,Mario Kart: Super Circuit
+471,Intelligent Systems,Mario Kart: Super Circuit
+472,Gradiente,Super Mario World
+473,iQue,Super Mario World
+474,Nintendo,Super Mario World
+475,Nintendo R&D2,Super Mario World
+476,HAL Laboratory,Pokemon Stadium
+477,Nintendo,Pokemon Stadium
+478,Gradiente,Pokemon Stadium
+479,Traveller's Tales,Crash Bandicoot: The Wrath of Cortex
+480,Universal Interactive Studios,Crash Bandicoot: The Wrath of Cortex
+481,Konami,Crash Bandicoot: The Wrath of Cortex
+482,Eurocom Entertainment Software,Crash Bandicoot: The Wrath of Cortex
+483,Treyarch,Call of Duty: World at War
+484,Arkane Studios,Call of Duty: World at War
+485,Exakt Entertainment,Call of Duty: World at War
+486,Activision,Call of Duty: World at War
+487,Naughty Dog,Uncharted 4: A Thief's End
+488,Sony Interactive Entertainment,Uncharted 4: A Thief's End
+489,Square Enix Business Division 1,Final Fantasy XIII
+490,Square Enix,Final Fantasy XIII
+491,Square Enix Product Development Division 1,Final Fantasy XIII
+492,Square Electronic Arts,Final Fantasy IX
+493,Square Product Development Division 1,Final Fantasy IX
+494,Square Enix,Final Fantasy IX
+495,Square,Final Fantasy IX
+496,Square USA,Final Fantasy IX
+497,Ubisoft Montreal,Assassin's Creed III
+498,Ubisoft Singapore,Assassin's Creed III
+499,Ubisoft Annecy,Assassin's Creed III
+500,Ubisoft Bucharest,Assassin's Creed III
+501,Ubisoft Kyiv,Assassin's Creed III
+502,Ubisoft Québec,Assassin's Creed III
+503,Ubisoft Entertainment,Assassin's Creed III
+504,Square Enix,Final Fantasy X-2
+505,Square,Final Fantasy X-2
+506,Square Product Development Division 1,Final Fantasy X-2
+507,Nintendo,Donkey Kong 64
+508,Rare,Donkey Kong 64
+509,Gradiente,Donkey Kong 64
+510,Activision,Call of Duty: Advanced Warfare
+511,Sledgehammer Games,Call of Duty: Advanced Warfare
+512,Raven Software,Call of Duty: Advanced Warfare
+513,High Moon Studios,Call of Duty: Advanced Warfare
+514,Square Enix,Call of Duty: Advanced Warfare
+515,4J Studios,Minecraft
+516,Ubisoft Montreal,Assassin's Creed II
+517,Ubisoft Entertainment,Assassin's Creed II
+518,Ubisoft Singapore,Assassin's Creed II
+519,Eidos Interactive,Tomb Raider II
+520,Core Design,Tomb Raider II
+521,EA Orlando,Madden NFL 2004
+522,EA Sports,Madden NFL 2004
+523,Nintendo SPD Production Group No. 1,Tomodachi Life
+524,Nintendo,Tomodachi Life
+525,Nintendo EAD,New Super Mario Bros. U
+526,Nintendo,New Super Mario Bros. U
+527,LEVEL-5,Dragon Quest VIII: Journey of the Cursed King
+528,Square Enix,Dragon Quest VIII: Journey of the Cursed King
+529,Square Enix Product Development Division 9,Dragon Quest VIII: Journey of the Cursed King
+530,Bird Studio,Dragon Quest VIII: Journey of the Cursed King
+531,Armor Project,Dragon Quest VIII: Journey of the Cursed King
+532,Nintendo R&D2,Super Mario Bros. 3
+533,Nintendo,Super Mario Bros. 3
+534,Nintendo,Professor Layton and the Curious Village
+535,LEVEL-5,Professor Layton and the Curious Village
+536,Matrix Software,Professor Layton and the Curious Village
+537,Nintendo,Super Mario Land 3: Wario Land
+538,Nintendo R&D1,Super Mario Land 3: Wario Land
+539,Playtronic,Super Mario Land 3: Wario Land
+540,Mani,Super Mario Land 3: Wario Land
+541,EA Canada,FIFA Soccer 13
+542,Electronic Arts,FIFA Soccer 13
+543,Rare,Donkey Kong Country 2: Diddy's Kong Quest
+544,Nintendo,Donkey Kong Country 2: Diddy's Kong Quest
+545,Gradiente,Donkey Kong Country 2: Diddy's Kong Quest
+546,Playtronic,Donkey Kong Country 2: Diddy's Kong Quest
+547,Hyundai,Donkey Kong Country 2: Diddy's Kong Quest
+548,Blizzard Entertainment,Diablo III
+549,Square Enix,Diablo III
+550,EA Los Angeles,Medal of Honor: Rising Sun
+551,Electronic Arts,Medal of Honor: Rising Sun
+552,HAL Laboratory,Kirby's Dream Land
+553,Nintendo,Kirby's Dream Land
+554,Playtronic,Kirby's Dream Land
+555,Microsoft Corporation,Microsoft Flight Simulator
+556,Harmonix Music Systems,Guitar Hero II
+557,Activision,Guitar Hero II
+558,RedOctane,Guitar Hero II
+559,Lionhead Studios,Fable III
+560,Microsoft Game Studios,Fable III
+561,Nintendo,Mario & Sonic at the Olympic Games
+562,Sega,Mario & Sonic at the Olympic Games
+563,Sega Sports R&D,Mario & Sonic at the Olympic Games
+564,Mercenary Technology,Resident Evil 5
+565,Capcom,Resident Evil 5
+566,K2,Resident Evil 5
+567,Nintendo,The Legend of Zelda: Phantom Hourglass
+568,Nintendo EAD Software Development Group No.3,The Legend of Zelda: Phantom Hourglass
+569,EA Canada,FIFA Soccer 11
+570,Electronic Arts,FIFA Soccer 11
+571,Virgin Interactive Entertainment,Resident Evil
+572,Westwood Studios,Resident Evil
+573,Capcom,Resident Evil
+574,Capcom Planning Room 2,Resident Evil
+575,GOG.com,Resident Evil
+576,Rockstar Leeds,Grand Theft Auto: Vice City Stories
+577,Rockstar North,Grand Theft Auto: Vice City Stories
+578,Rockstar Games,Grand Theft Auto: Vice City Stories
+579,Take-Two Interactive,Grand Theft Auto: Vice City Stories
+580,Neversoft Entertainment,Tony Hawk's Pro Skater
+581,Crave Entertainment,Tony Hawk's Pro Skater
+582,Nokia,Tony Hawk's Pro Skater
+583,Treyarch,Tony Hawk's Pro Skater
+584,Activision,Tony Hawk's Pro Skater
+585,Warzone 2100 Project,Warzone 2100
+586,Sony Computer Entertainment,Spyro the Dragon
+587,Insomniac Games,Spyro the Dragon
+588,Universal Interactive Studios,Spyro the Dragon
+589,Sony Interactive Entertainment,Spyro the Dragon
+590,Neversoft Entertainment,Guitar Hero III: Legends of Rock
+591,Budcat Creations,Guitar Hero III: Legends of Rock
+592,Vicarious Visions,Guitar Hero III: Legends of Rock
+593,Activision,Guitar Hero III: Legends of Rock
+594,Nintendo,Link's Crossbow Training
+595,Nintendo EAD Software Development Group No.3,Link's Crossbow Training
+596,Bethesda Game Studios,Fallout 3
+597,Bethesda Softworks,Fallout 3
+598,Naughty Dog,Uncharted: Drake's Fortune
+599,Sony Computer Entertainment,Uncharted: Drake's Fortune
+600,Budcat Creations,Madden NFL 06
+601,EA Orlando,Madden NFL 06
+602,EA Sports,Madden NFL 06
+603,Nintendo,Diddy Kong Racing
+604,Rare,Diddy Kong Racing
+605,Gradiente,Diddy Kong Racing
+606,Capcom,Monster Hunter Freedom 3
+607,Nintendo,Dr. Mario
+608,Playtronic,Dr. Mario
+609,Blizzard Entertainment,StarCraft II: Wings of Liberty
+610,Ubisoft Montreal,Assassin's Creed
+611,Ubisoft Entertainment,Assassin's Creed
+612,SCE Santa Monica Studio,God of War III
+613,Sony Computer Entertainment,God of War III
+614,Sony Computer Entertainment,Crash Team Racing
+615,Naughty Dog,Crash Team Racing
+616,Traveller's Tales,LEGO Star Wars: The Complete Saga
+617,LucasArts,LEGO Star Wars: The Complete Saga
+618,Reflections Interactive,Driver 2
+619,Infogrames,Driver 2
+620,Rocksteady Studios,Batman: Arkham City
+621,WB Games,Batman: Arkham City
+622,DC Entertainment,Batman: Arkham City
+623,Naughty Dog,The Last of Us
+624,Sony Computer Entertainment,The Last of Us
+625,Vivendi Universal Games,The Simpsons: Hit & Run
+626,Radical Entertainment,The Simpsons: Hit & Run
+627,Treyarch,Tony Hawk's Pro Skater 2
+628,Gray Matter Interactive,Tony Hawk's Pro Skater 2
+629,Aspyr Media,Tony Hawk's Pro Skater 2
+630,Westlake Interactive,Tony Hawk's Pro Skater 2
+631,Neversoft Entertainment,Tony Hawk's Pro Skater 2
+632,Activision,Tony Hawk's Pro Skater 2
+633,Hypnos Entertainment,The Lord of the Rings: The Two Towers
+634,Stormfront Studios,The Lord of the Rings: The Two Towers
+635,Electronic Arts,The Lord of the Rings: The Two Towers
+636,Square Enix,Tomb Raider
+637,Sony Computer Entertainment,Tomb Raider
+638,Eidos Interactive,Tomb Raider
+639,Core Design,Tomb Raider
+640,Nintendo,Animal Crossing: City Folk
+641,Nintendo EAD Software Development Group No.2,Animal Crossing: City Folk
+642,Naughty Dog,Uncharted: The Nathan Drake Collection
+643,Bluepoint Games,Uncharted: The Nathan Drake Collection
+644,Sony Computer Entertainment,Uncharted: The Nathan Drake Collection
+645,Nintendo,The Legend of Zelda: The Wind Waker
+646,Nintendo EAD Software Development Group No.3,The Legend of Zelda: The Wind Waker
+647,Neversoft Entertainment,Guitar Hero III: Legends of Rock
+648,Budcat Creations,Guitar Hero III: Legends of Rock
+649,Vicarious Visions,Guitar Hero III: Legends of Rock
+650,Activision,Guitar Hero III: Legends of Rock
+651,Nintendo,Luigi's Mansion: Dark Moon
+652,Next Level Games,Luigi's Mansion: Dark Moon
+653,Nintendo SPD,Luigi's Mansion: Dark Moon
+654,Turn 10 Studios,Forza Motorsport 4
+655,Microsoft Game Studios,Forza Motorsport 4
+656,Nintendo,Mario & Sonic at the Olympic Winter Games
+657,Sega Sports R&D,Mario & Sonic at the Olympic Winter Games
+658,Sega,Mario & Sonic at the Olympic Winter Games
+659,Budcat Creations,Madden NFL 2005
+660,EA Sports,Madden NFL 2005
+661,EA Orlando,Madden NFL 2005
+662,Neversoft Entertainment,Guitar Hero III: Legends of Rock
+663,Budcat Creations,Guitar Hero III: Legends of Rock
+664,Vicarious Visions,Guitar Hero III: Legends of Rock
+665,Activision,Guitar Hero III: Legends of Rock
+666,EA Orlando,Madden NFL 07
+667,EA Sports,Madden NFL 07
+668,343 Industries,Halo 5: Guardians
+669,Microsoft Studios,Halo 5: Guardians
+670,Heartbeat,Dragon Quest VII: Warriors of Eden
+671,Enix Corporation,Dragon Quest VII: Warriors of Eden
+672,ArtePiazza,Dragon Quest VII: Warriors of Eden
+673,Bird Studio,Dragon Quest VII: Warriors of Eden
+674,Armor Project,Dragon Quest VII: Warriors of Eden
+675,Infinity Ward,Call of Duty: Infinite Warfare
+676,Activision,Call of Duty: Infinite Warfare
+677,Capcom,God of War
+678,Sony Computer Entertainment,God of War
+679,SCE Santa Monica Studio,God of War
+680,Nintendo EAD Software Development Group No.2,Splatoon
+681,Nintendo,Splatoon
+682,Nintendo EAD Software Development Group No.2,Nintendo Land
+683,Nintendo,Nintendo Land
+684,Gearbox Software,Tony Hawk's Pro Skater 3
+685,Activision,Tony Hawk's Pro Skater 3
+686,Neversoft Entertainment,Tony Hawk's Pro Skater 3
+687,Aspyr Media,Tony Hawk's Pro Skater 3
+688,Beenox,Tony Hawk's Pro Skater 3
+689,Konami,Winning Eleven: Pro Evolution Soccer 2007
+690,Bethesda Game Studios,The Elder Scrolls IV: Oblivion
+691,2K Games,The Elder Scrolls IV: Oblivion
+692,4J Studios,The Elder Scrolls IV: Oblivion
+693,Bethesda Softworks,The Elder Scrolls IV: Oblivion
+694,Ubisoft Entertainment,The Elder Scrolls IV: Oblivion
+695,EA Redwood Shores,Need for Speed: Most Wanted
+696,EA Black Box,Need for Speed: Most Wanted
+697,Electronic Arts,Need for Speed: Most Wanted
+698,Ubisoft Montpellier,Michael Jackson: The Experience
+699,Ubisoft Shanghai,Michael Jackson: The Experience
+700,Ubisoft Sao Paulo,Michael Jackson: The Experience
+701,Ubisoft Milan,Michael Jackson: The Experience
+702,Ubisoft Paris,Michael Jackson: The Experience
+703,Triumph Studios,Michael Jackson: The Experience
+704,Activision,Call of Duty: Advanced Warfare
+705,Sledgehammer Games,Call of Duty: Advanced Warfare
+706,Raven Software,Call of Duty: Advanced Warfare
+707,High Moon Studios,Call of Duty: Advanced Warfare
+708,Square Enix,Call of Duty: Advanced Warfare
+709,Insomniac Games,Resistance: Fall of Man
+710,Sony Computer Entertainment,Resistance: Fall of Man
+711,Stealth,Sonic the Hedgehog
+712,Sonic Retro,Sonic the Hedgehog
+713,Buena Vista Games,Kingdom Hearts II
+714,Sony Computer Entertainment Europe,Kingdom Hearts II
+715,Square Enix,Kingdom Hearts II
+716,Square Enix Product Development Division 1,Kingdom Hearts II
+717,Square Enix Business Division 3,Kingdom Hearts II
+718,Grezzo,The Legend of Zelda: Ocarina of Time
+719,Nintendo,The Legend of Zelda: Ocarina of Time
+720,1-UP Studio,Super Mario 3D World
+721,Nintendo EAD,Super Mario 3D World
+722,Nintendo,Super Mario 3D World
+723,4J Studios,Minecraft
+724,Activision,Call of Duty: Advanced Warfare
+725,Sledgehammer Games,Call of Duty: Advanced Warfare
+726,Raven Software,Call of Duty: Advanced Warfare
+727,High Moon Studios,Call of Duty: Advanced Warfare
+728,Square Enix,Call of Duty: Advanced Warfare
+729,EA Sports,FIFA 15
+730,EA Canada,FIFA 15
+731,Lionhead Studios,Fable II
+732,Microsoft Game Studios,Fable II
+733,Eidos Interactive,Batman: Arkham Asylum
+734,Playcast-media,Batman: Arkham Asylum
+735,Rocksteady Studios,Batman: Arkham Asylum
+736,Warner Bros. Interactive Entertainment,Batman: Arkham Asylum
+737,Konami Digital Entertainment,Metal Gear Solid 3: Snake Eater
+738,Ubisoft Montreal,Assassin's Creed: Revelations
+739,Ubisoft Kyiv,Assassin's Creed: Revelations
+740,Ubisoft Annecy,Assassin's Creed: Revelations
+741,Ubisoft Singapore,Assassin's Creed: Revelations
+742,Ubisoft Bucharest,Assassin's Creed: Revelations
+743,Massive Entertainment,Assassin's Creed: Revelations
+744,Ubisoft Québec,Assassin's Creed: Revelations
+745,Ubisoft Entertainment,Assassin's Creed: Revelations
+746,Bethesda Game Studios,Fallout 4
+747,Bethesda Softworks,Fallout 4
+748,EA Sports,FIFA 14
+749,EA Canada,FIFA 14
+750,Ready At Dawn,Daxter
+751,Sony Computer Entertainment,Daxter
+752,Electronic Arts,FIFA Soccer 06
+753,EA Canada,FIFA Soccer 06
+754,SCE London Studio,EyeToy Play
+755,Sony Computer Entertainment,EyeToy Play
+756,Polyphony Digital,Gran Turismo 5 Prologue
+757,Sony Computer Entertainment,Gran Turismo 5 Prologue
+758,Ubisoft Montreal,Assassin's Creed: Revelations
+759,Ubisoft Kyiv,Assassin's Creed: Revelations
+760,Ubisoft Annecy,Assassin's Creed: Revelations
+761,Ubisoft Singapore,Assassin's Creed: Revelations
+762,Ubisoft Bucharest,Assassin's Creed: Revelations
+763,Massive Entertainment,Assassin's Creed: Revelations
+764,Ubisoft Québec,Assassin's Creed: Revelations
+765,Ubisoft Entertainment,Assassin's Creed: Revelations
+766,EA Canada,FIFA 12
+767,Electronic Arts,FIFA 12
+768,Ultra Games,Teenage Mutant Ninja Turtles
+769,Palcom,Teenage Mutant Ninja Turtles
+770,US Gold Ltd,Teenage Mutant Ninja Turtles
+771,Konami,Teenage Mutant Ninja Turtles
+772,Dimps,Street Fighter IV
+773,Capcom,Street Fighter IV
+774,Hasbro Interactive,Frogger
+775,SCE Cambridge Studio,Frogger
+776,EA Orlando,Madden NFL 2003
+777,EA Sports,Madden NFL 2003
+778,St. GIGA,Super Mario World 2: Yoshi's Island
+779,Nintendo EAD,Super Mario World 2: Yoshi's Island
+780,Nintendo,Super Mario World 2: Yoshi's Island
+781,Playtronic,Super Mario World 2: Yoshi's Island
+782,Hyundai,Super Mario World 2: Yoshi's Island
+783,EA Canada,FIFA Soccer 07
+784,EA Sports,FIFA Soccer 07
+785,Blizzard Entertainment,World of Warcraft: The Burning Crusade
+786,EA Digital Illusions CE,Battlefield 1
+787,Electronic Arts,Battlefield 1
+788,Capcom,God of War II
+789,Sony Computer Entertainment,God of War II
+790,SCE Santa Monica Studio,God of War II
+791,Konami Computer Entertainment Tokyo,World Soccer Winning Eleven 9
+792,Konami,World Soccer Winning Eleven 9
+793,Obsidian Entertainment,Fallout: New Vegas
+794,Bandai Namco Entertainment,Fallout: New Vegas
+795,1C/Cenega,Fallout: New Vegas
+796,Bethesda Softworks,Fallout: New Vegas
+797,Microsoft Game Studios,Forza Motorsport 2
+798,Turn 10 Studios,Forza Motorsport 2
+799,Global Star Software,Carnival Games
+800,Cat Daddy Games,Carnival Games
+801,Ubisoft Montreal,Watch Dogs
+802,Ubisoft Entertainment,Watch Dogs
+803,Namco,Tekken Tag Tournament
+804,Ubisoft Montreal,Far Cry 4
+805,Ubisoft Shanghai,Far Cry 4
+806,Ubisoft Kyiv,Far Cry 4
+807,Red Storm Entertainment,Far Cry 4
+808,Ubisoft Toronto,Far Cry 4
+809,Ubisoft Entertainment,Far Cry 4
+810,Nintendo EAD,Star Fox 64
+811,Nintendo,Star Fox 64
+812,Gradiente,Star Fox 64
+813,iQue,Star Fox 64
+814,Digital Eclipse,Namco Museum: 50th Anniversary
+815,Namco,Namco Museum: 50th Anniversary
+816,Valve,Left 4 Dead 2
+817,Turtle Rock Studios,Left 4 Dead 2
+818,WB Games,The Witcher 3: Wild Hunt
+819,Bandai Namco Entertainment,The Witcher 3: Wild Hunt
+820,cdp.pl,The Witcher 3: Wild Hunt
+821,Spike Chunsoft,The Witcher 3: Wild Hunt
+822,CD Projekt RED,The Witcher 3: Wild Hunt
+823,D3T Limited,The Witcher 3: Wild Hunt
+824,Saber Interactive,The Witcher 3: Wild Hunt
+825,Ubisoft Montreal,Assassin's Creed: Unity
+826,Ubisoft Singapore,Assassin's Creed: Unity
+827,Ubisoft Toronto,Assassin's Creed: Unity
+828,Ubisoft Annecy,Assassin's Creed: Unity
+829,Ubisoft Kyiv,Assassin's Creed: Unity
+830,Ubisoft Chengdu,Assassin's Creed: Unity
+831,Ubisoft Shanghai,Assassin's Creed: Unity
+832,Ubisoft Québec,Assassin's Creed: Unity
+833,Ubisoft Entertainment,Assassin's Creed: Unity
+834,Warner Bros. Interactive Entertainment,Batman: Arkham Knight
+835,Rocksteady Studios,Batman: Arkham Knight
+836,Iron Galaxy Studios,Batman: Arkham Knight
+837,Nintendo,The Legend of Zelda: Skyward Sword
+838,Nintendo EAD Software Development Group No.3,The Legend of Zelda: Skyward Sword
+839,Monolith Soft,The Legend of Zelda: Skyward Sword
+840,Bethesda Game Studios,Fallout 3
+841,Bethesda Softworks,Fallout 3
+842,Nintendo,Professor Layton and the Diabolical Box
+843,LEVEL-5,Professor Layton and the Diabolical Box
+844,Matrix Software,Professor Layton and the Diabolical Box
+845,EA Sports,EA Sports Active
+846,EA Canada,EA Sports Active
+847,Neversoft Entertainment,Tony Hawk's Underground
+848,Beenox,Tony Hawk's Underground
+849,Activision,Tony Hawk's Underground
+850,Capcom,Monster Hunter 4 Ultimate
+851,Bethesda Game Studios,The Elder Scrolls V: Skyrim
+852,Bethesda Softworks,The Elder Scrolls V: Skyrim
+853,Visual Concepts,NBA 2K16
+854,2K Sports,NBA 2K16
+855,Namco,Tekken 5
+856,Sony Computer Entertainment,Tekken 5
+857,Evolution Studios,MotorStorm
+858,Sony Computer Entertainment,MotorStorm
+859,Nintendo,Nintendogs + cats
+860,Konami,World Soccer Winning Eleven 8 International
+861,Konami Computer Entertainment Tokyo,World Soccer Winning Eleven 8 International
+862,Zindagi Games,Sports Champions
+863,Sony Computer Entertainment,Sports Champions
+864,SCE San Diego Studio,Sports Champions
+865,Neversoft Entertainment,Call of Duty: Ghosts
+866,Activision,Call of Duty: Ghosts
+867,Infinity Ward,Call of Duty: Ghosts
+868,Raven Software,Call of Duty: Ghosts
+869,Treyarch,Call of Duty: Ghosts
+870,Certain Affinity,Call of Duty: Ghosts
+871,Nintendo,Flash Focus: Vision Training in Minutes a Day
+872,Bandai Namco Entertainment,Flash Focus: Vision Training in Minutes a Day
+873,Ubisoft Red Storm,Tom Clancy's The Division
+874,Massive Entertainment,Tom Clancy's The Division
+875,Nintendo,Big Brain Academy: Wii Degree
+876,Nintendo EAD Software Development Group No.4,Big Brain Academy: Wii Degree
+877,Nintendo,Mario & Luigi: Bowser's Inside Story
+878,AlphaDream,Mario & Luigi: Bowser's Inside Story
+879,Traveller's Tales,LEGO Indiana Jones: The Original Adventures
+880,LucasArts,LEGO Indiana Jones: The Original Adventures
+881,Feral Interactive,LEGO Indiana Jones: The Original Adventures
+882,Robosoft Technologies,LEGO Indiana Jones: The Original Adventures
+883,Electronic Arts,The Sims: Unleashed
+884,Maxis,The Sims: Unleashed
+885,Aspyr Media,The Sims: Unleashed
+886,Westlake Interactive,The Sims: Unleashed
+887,High Impact Games,Ratchet & Clank: Size Matters
+888,Sony Computer Entertainment,Ratchet & Clank: Size Matters
+889,Argonaut Games,Harry Potter and the Sorcerer's Stone
+890,Electronic Arts,Harry Potter and the Sorcerer's Stone
+891,Nintendo,Mario & Sonic at the London 2012 Olympic Games
+892,Sega,Mario & Sonic at the London 2012 Olympic Games
+893,Sega Sports R&D,Mario & Sonic at the London 2012 Olympic Games
+894,Eidos Interactive,Resident Evil 3: Nemesis
+895,Sourcenext,Resident Evil 3: Nemesis
+896,Virgin Interactive Entertainment,Resident Evil 3: Nemesis
+897,Nintendo,Resident Evil 3: Nemesis
+898,Capcom Planning Room 2,Resident Evil 3: Nemesis
+899,Capcom,Resident Evil 3: Nemesis
+900,Nintendo,Super Paper Mario
+901,Nintendo SPD,Super Paper Mario
+902,Intelligent Systems,Super Paper Mario
+903,Sony Computer Entertainment,Spyro: Year of the Dragon
+904,Insomniac Games,Spyro: Year of the Dragon
+905,Ubisoft Montreal,Assassin's Creed IV: Black Flag
+906,Ubisoft Québec,Assassin's Creed IV: Black Flag
+907,Ubisoft Montpellier,Assassin's Creed IV: Black Flag
+908,Ubisoft Kyiv,Assassin's Creed IV: Black Flag
+909,Ubisoft Sofia,Assassin's Creed IV: Black Flag
+910,Ubisoft Singapore,Assassin's Creed IV: Black Flag
+911,Ubisoft Annecy,Assassin's Creed IV: Black Flag
+912,Ubisoft Bucharest,Assassin's Creed IV: Black Flag
+913,Ubisoft Chengdu,Assassin's Creed IV: Black Flag
+914,Ubisoft Milan,Assassin's Creed IV: Black Flag
+915,Ubisoft Shanghai,Assassin's Creed IV: Black Flag
+916,Ubisoft Pune,Assassin's Creed IV: Black Flag
+917,Ubisoft North America,Assassin's Creed IV: Black Flag
+918,Ubisoft Entertainment,Assassin's Creed IV: Black Flag
+919,Electronic Arts,FIFA Soccer 2005
+920,EA Canada,FIFA Soccer 2005
+921,Nintendo SPD Production Group No. 1,Friend Collection
+922,Nintendo,Friend Collection
+923,Aspyr Media,Tony Hawk's Pro Skater 4
+924,Activision,Tony Hawk's Pro Skater 4
+925,Neversoft Entertainment,Tony Hawk's Pro Skater 4
+926,Electronic Arts,MySims
+927,EA Redwood Shores,MySims
+928,Rockstar Games,Midnight Club 3: DUB Edition
+929,Rockstar San Diego,Midnight Club 3: DUB Edition
+930,Take-Two Interactive,Midnight Club 3: DUB Edition
+931,Rockstar Leeds,Midnight Club 3: DUB Edition
+932,Nintendo,Banjo-Kazooie
+933,Rare,Banjo-Kazooie
+934,Gradiente,Banjo-Kazooie
+935,Zipper Interactive,SOCOM: U.S. Navy SEALs
+936,Sony Computer Entertainment,SOCOM: U.S. Navy SEALs
+937,Sony Computer Entertainment,Jak and Daxter: The Precursor Legacy
+938,Naughty Dog,Jak and Daxter: The Precursor Legacy
+939,HAL Laboratory,Pokemon Snap
+940,Pax Softnica,Pokemon Snap
+941,Nintendo of America,Pokemon Snap
+942,Nintendo of Europe,Pokemon Snap
+943,Gradiente,Pokemon Snap
+944,Nintendo,Pokemon Snap
+945,Konami,Pro Evolution Soccer 2008
+946,Capcom Production Studio 4,Resident Evil 4
+947,Capcom,Resident Evil 4
+948,Sourcenext,Resident Evil 4
+949,Activision,Guitar Hero: World Tour
+950,Neversoft Entertainment,Guitar Hero: World Tour
+951,Budcat Creations,Guitar Hero: World Tour
+952,Vicarious Visions,Guitar Hero: World Tour
+953,Aspyr Media,Guitar Hero: World Tour
+954,EA Canada,FIFA Soccer 10
+955,EA Sports,FIFA Soccer 10
+956,Pandemic Studios,Star Wars: Battlefront
+957,LucasArts,Star Wars: Battlefront
+958,Beenox,Star Wars: Battlefront
+959,Aspyr Media,Star Wars: Battlefront
+960,Electronic Arts,The Simpsons: Road Rage
+961,Radical Entertainment,The Simpsons: Road Rage
+962,Nintendo EAD,Luigi's Mansion
+963,Nintendo,Luigi's Mansion
+964,Gradiente,Luigi's Mansion
+965,EA Digital Illusions CE,Battlefield 4
+966,Electronic Arts,Battlefield 4
+967,Pandemic Studios,Star Wars: Battlefront II
+968,LucasArts,Star Wars: Battlefront II
+969,Savage Entertainment,Star Wars: Battlefront II
+970,Electronic Arts,Star Wars: Battlefront II
+971,Activision,Star Wars: Battlefront II
+972,Ubisoft Milan,Just Dance 2014
+973,Ubisoft Paris,Just Dance 2014
+974,Ubisoft Reflections,Just Dance 2014
+975,Ubisoft Bucharest,Just Dance 2014
+976,Ubisoft Pune,Just Dance 2014
+977,Ubisoft Montpellier,Just Dance 2014
+978,Ubisoft Barcelona,Just Dance 2014
+979,Ubisoft Entertainment,Just Dance 2014
+980,Cooking Mama Limited,Cooking Mama 2: Dinner With Friends
+981,Majesco Entertainment,Cooking Mama 2: Dinner With Friends
+982,Office Create,Cooking Mama 2: Dinner With Friends
+983,505 Games,Cooking Mama 2: Dinner With Friends
+984,Taito,Cooking Mama 2: Dinner With Friends
+985,THQ,WWF SmackDown!
+986,Yuke's,WWF SmackDown!
+987,Fox Interactive,Croc: Legend of the Gobbos
+988,Argonaut Games,Croc: Legend of the Gobbos
+989,Take Two Interactive,Grand Theft Auto: Liberty City Stories
+990,Rockstar North,Grand Theft Auto: Liberty City Stories
+991,Rockstar Leeds,Grand Theft Auto: Liberty City Stories
+992,Rockstar Games,Grand Theft Auto: Liberty City Stories
+993,Team Soho,The Getaway
+994,Sony Computer Entertainment of America,The Getaway
+995,Sony Computer Entertainment Europe,The Getaway
+996,Capcom,The Getaway
+997,Electronic Arts,James Bond 007: Agent Under Fire
+998,EA Redwood Shores,James Bond 007: Agent Under Fire
+999,Savage Entertainment,James Bond 007: Agent Under Fire
+1000,Aspyr Media,LEGO Star Wars: The Video Game
+1001,LucasArts,LEGO Star Wars: The Video Game
+1002,Eidos Interactive,LEGO Star Wars: The Video Game
+1003,Giant Interactive Entertainment,LEGO Star Wars: The Video Game
+1004,i5works,LEGO Star Wars: The Video Game
+1005,Traveller's Tales,LEGO Star Wars: The Video Game
+1006,Avalanche Software,Rugrats in Paris: The Movie
+1007,KnowWonder,Rugrats in Paris: The Movie
+1008,THQ,Rugrats in Paris: The Movie
+1009,Mattel Interactive,Rugrats in Paris: The Movie
+1010,EA Canada,FIFA Soccer 11
+1011,Electronic Arts,FIFA Soccer 11
+1012,Insomniac Games,Spyro 2: Ripto's Rage!
+1013,Sony Computer Entertainment,Spyro 2: Ripto's Rage!
+1014,Valve,Left 4 Dead
+1015,Certain Affinity,Left 4 Dead
+1016,Turtle Rock Studios,Left 4 Dead
+1017,Nintendo,Donkey Kong Country 3: Dixie Kong's Double Trouble!
+1018,Rare,Donkey Kong Country 3: Dixie Kong's Double Trouble!
+1019,Playtronic,Donkey Kong Country 3: Dixie Kong's Double Trouble!
+1020,Gradiente,Donkey Kong Country 3: Dixie Kong's Double Trouble!
+1021,Hyundai,Donkey Kong Country 3: Dixie Kong's Double Trouble!
+1022,Ubisoft Montreal,Assassin's Creed: Unity
+1023,Ubisoft Singapore,Assassin's Creed: Unity
+1024,Ubisoft Toronto,Assassin's Creed: Unity
+1025,Ubisoft Annecy,Assassin's Creed: Unity
+1026,Ubisoft Kyiv,Assassin's Creed: Unity
+1027,Ubisoft Chengdu,Assassin's Creed: Unity
+1028,Ubisoft Shanghai,Assassin's Creed: Unity
+1029,Ubisoft Québec,Assassin's Creed: Unity
+1030,Ubisoft Entertainment,Assassin's Creed: Unity
+1031,Irem,Kung Fu
+1032,Nintendo R&D1,Kung Fu
+1033,Nintendo,Kung Fu
+1034,Playtronic,Kung Fu
+1035,Mercenary Technology,Resident Evil 5
+1036,Capcom,Resident Evil 5
+1037,K2,Resident Evil 5
+1038,Ubisoft Montreal,Assassin's Creed: Brotherhood
+1039,Ubisoft Annecy,Assassin's Creed: Brotherhood
+1040,Ubisoft Bucharest,Assassin's Creed: Brotherhood
+1041,Ubisoft Singapore,Assassin's Creed: Brotherhood
+1042,Ubisoft Québec,Assassin's Creed: Brotherhood
+1043,Ubisoft Entertainment,Assassin's Creed: Brotherhood
+1044,EA Canada,FIFA Soccer 2004
+1045,Electronic Arts,FIFA Soccer 2004
+1046,EA Digital Illusions CE,Battlefield 4
+1047,Electronic Arts,Battlefield 4
+1048,Eidos Interactive,Batman: Arkham Asylum
+1049,Playcast-media,Batman: Arkham Asylum
+1050,Rocksteady Studios,Batman: Arkham Asylum
+1051,Warner Bros. Interactive Entertainment,Batman: Arkham Asylum
+1052,EA Digital Illusions CE,Battlefield 4
+1053,Electronic Arts,Battlefield 4
+1054,EA Digital Illusions CE,Battlefield: Bad Company 2
+1055,Electronic Arts,Battlefield: Bad Company 2
+1056,Nintendo,Mario & Sonic at the Olympic Winter Games
+1057,Sega,Mario & Sonic at the Olympic Winter Games
+1058,Sega Sports R&D,Mario & Sonic at the Olympic Winter Games
+1059,Vicarious Visions,Guitar Hero: On Tour
+1060,Activision Publishing Minneapolis Inc.,Guitar Hero: On Tour
+1061,RedOctane,Guitar Hero: On Tour
+1062,Nintendo,Clubhouse Games
+1063,The Maniac Agenda,Clubhouse Games
+1064,Capcom,Monster Hunter 4
+1065,2K Games,Borderlands
+1066,CyberFront,Borderlands
+1067,Take-Two Interactive,Borderlands
+1068,Shadows in Darkness,Borderlands
+1069,Demiurge Studios,Borderlands
+1070,Gearbox Software,Borderlands
+1071,Feral Interactive,Borderlands
+1072,Namco,Tekken 4
+1073,Namco Hometek,Tekken 4
+1074,Sony Computer Entertainment,Tekken 4
+1075,Square,Final Fantasy III
+1076,Konami,Metal Gear Solid V: The Phantom Pain
+1077,Kojima Productions,Metal Gear Solid V: The Phantom Pain
+1078,Kojima Productions LA Studio,Metal Gear Solid V: The Phantom Pain
+1079,Treyarch,Spider-Man 2
+1080,Taito,Spider-Man 2
+1081,Activision,Spider-Man 2
+1082,Nintendo,F-1 Race
+1083,Playtronic,F-1 Race
+1084,Electronic Arts,FIFA Soccer 2003
+1085,Media Molecule,LittleBigPlanet 2
+1086,Sony Computer Entertainment,LittleBigPlanet 2
+1087,Sony Computer Entertainment,Crash Bash
+1088,Eurocom Entertainment Software,Crash Bash
+1089,Ubisoft Montreal,Assassin's Creed Syndicate
+1090,Ubisoft Singapore,Assassin's Creed Syndicate
+1091,Ubisoft Annecy,Assassin's Creed Syndicate
+1092,Ubisoft Montpellier,Assassin's Creed Syndicate
+1093,Ubisoft Reflections,Assassin's Creed Syndicate
+1094,Ubisoft Chengdu,Assassin's Creed Syndicate
+1095,Ubisoft Shanghai,Assassin's Creed Syndicate
+1096,Ubisoft Sofia,Assassin's Creed Syndicate
+1097,Ubisoft Kyiv,Assassin's Creed Syndicate
+1098,Ubisoft Québec,Assassin's Creed Syndicate
+1099,Ubisoft Entertainment,Assassin's Creed Syndicate
+1100,Traveller's Tales,LEGO Batman: The Videogame
+1101,WB Games,LEGO Batman: The Videogame
+1102,DC Comics,LEGO Batman: The Videogame
+1103,Feral Interactive,LEGO Batman: The Videogame
+1104,Traveller's Tales,LEGO Batman: The Videogame
+1105,WB Games,LEGO Batman: The Videogame
+1106,DC Comics,LEGO Batman: The Videogame
+1107,Feral Interactive,LEGO Batman: The Videogame
+1108,Bungie,Destiny
+1109,Activision,Destiny
+1110,ND Games,Destiny
+1111,Acclaim Studios Salt Lake City,WWF War Zone
+1112,Acclaim Entertainment,WWF War Zone
+1113,Nintendo,The Legend of Zelda: Majora's Mask
+1114,Nintendo EAD Software Development Group No.3,The Legend of Zelda: Majora's Mask
+1115,Gradiente,The Legend of Zelda: Majora's Mask
+1116,Ubisoft Montreal,Far Cry 3
+1117,Massive Entertainment,Far Cry 3
+1118,Ubisoft Shanghai,Far Cry 3
+1119,Ubisoft Entertainment,Far Cry 3
+1120,THQ,Rugrats: Search For Reptar
+1121,n-Space,Rugrats: Search For Reptar
+1122,Nintendo,English Training: Have Fun Improving Your Skills!
+1123,Eurocom Entertainment Software,James Bond 007: Nightfire
+1124,Electronic Arts,James Bond 007: Nightfire
+1125,Insomniac Games,Ratchet & Clank
+1126,Sony Computer Entertainment,Ratchet & Clank
+1127,The Collective,Star Wars Episode III: Revenge of the Sith
+1128,LucasArts,Star Wars Episode III: Revenge of the Sith
+1129,Nintendo,The Legend of Zelda: Spirit Tracks
+1130,Nintendo EAD Software Development Group No.3,The Legend of Zelda: Spirit Tracks
+1131,Gathering of Developers,Max Payne
+1132,MacSoft Games,Max Payne
+1133,Rockstar Toronto,Max Payne
+1134,3D Realms,Max Payne
+1135,neo Software,Max Payne
+1136,War Drum Studios,Max Payne
+1137,Rockstar Games,Max Payne
+1138,Westlake Interactive,Max Payne
+1139,Feral Interactive,Max Payne
+1140,Remedy Entertainment,Max Payne
+1141,Take-Two Interactive,Max Payne
+1142,Ubisoft Montreal,Assassin's Creed IV: Black Flag
+1143,Ubisoft Québec,Assassin's Creed IV: Black Flag
+1144,Ubisoft Montpellier,Assassin's Creed IV: Black Flag
+1145,Ubisoft Kyiv,Assassin's Creed IV: Black Flag
+1146,Ubisoft Sofia,Assassin's Creed IV: Black Flag
+1147,Ubisoft Singapore,Assassin's Creed IV: Black Flag
+1148,Ubisoft Annecy,Assassin's Creed IV: Black Flag
+1149,Ubisoft Bucharest,Assassin's Creed IV: Black Flag
+1150,Ubisoft Chengdu,Assassin's Creed IV: Black Flag
+1151,Ubisoft Milan,Assassin's Creed IV: Black Flag
+1152,Ubisoft Shanghai,Assassin's Creed IV: Black Flag
+1153,Ubisoft Pune,Assassin's Creed IV: Black Flag
+1154,Ubisoft North America,Assassin's Creed IV: Black Flag
+1155,Ubisoft Entertainment,Assassin's Creed IV: Black Flag
+1156,EA Redwood Shores,The Lord of the Rings: The Return of the King
+1157,Beenox,The Lord of the Rings: The Return of the King
+1158,Hypnos Entertainment,The Lord of the Rings: The Return of the King
+1159,JAMDAT Mobile,The Lord of the Rings: The Return of the King
+1160,Aspyr Media,The Lord of the Rings: The Return of the King
+1161,Electronic Arts,The Lord of the Rings: The Return of the King
+1162,Microsoft Studios,Gears of War: Ultimate Edition
+1163,Splash Damage,Gears of War: Ultimate Edition
+1164,The Coalition,Gears of War: Ultimate Edition
+1165,Epic Games,Gears of War: Ultimate Edition
+1166,Activision,True Crime: Streets of LA
+1167,Luxoflux,True Crime: Streets of LA
+1168,Exakt Entertainment,True Crime: Streets of LA
+1169,Aspyr Media,True Crime: Streets of LA
+1170,LEVEL-5,Professor Layton and the Unwound Future
+1171,Nintendo of America,Professor Layton and the Unwound Future
+1172,Polyphony Digital,Gran Turismo (PSP)
+1173,Sony Computer Entertainment,Gran Turismo (PSP)
+1174,EA Canada,FIFA 16
+1175,EA Sports,FIFA 16
+1176,Nintendo,Wii Music
+1177,Nintendo EAD Software Development Group No.2,Wii Music
+1178,Sony Computer Entertainment,Tekken
+1179,Namco,Tekken
+1180,EA Orlando,Madden NFL 16
+1181,EA Sports,Madden NFL 16
+1182,Polyphony Digital,Gran Turismo 6
+1183,Sony Computer Entertainment,Gran Turismo 6
+1184,343 Industries,Halo: The Master Chief Collection
+1185,Certain Affinity,Halo: The Master Chief Collection
+1186,Saber Interactive,Halo: The Master Chief Collection
+1187,United Front Games,Halo: The Master Chief Collection
+1188,Ruffian Games,Halo: The Master Chief Collection
+1189,Splash Damage,Halo: The Master Chief Collection
+1190,Xbox Game Studios,Halo: The Master Chief Collection
+1191,Blur Studio,Halo: The Master Chief Collection
+1192,Black Ops Entertainment,007: Tomorrow Never Dies
+1193,MGM Interactive,007: Tomorrow Never Dies
+1194,Electronic Arts,007: Tomorrow Never Dies
+1195,Nintendo EAD Software Development Group No.4,Super Mario Maker
+1196,Nintendo,Super Mario Maker
+1197,THQ,WWF SmackDown! 2: Know Your Role
+1198,Yuke's,WWF SmackDown! 2: Know Your Role
+1199,Rare,Killer Instinct
+1200,Midway,Killer Instinct
+1201,Nintendo,Killer Instinct
+1202,Playtronic,Killer Instinct
+1203,Ready At Dawn,God of War: Chains of Olympus
+1204,SCE Santa Monica Studio,God of War: Chains of Olympus
+1205,Sony Computer Entertainment,God of War: Chains of Olympus
+1206,Capcom,God of War: Chains of Olympus
+1207,Shiny Entertainment,Enter the Matrix
+1208,Atari Europe,Enter the Matrix
+1209,Infogrames,Enter the Matrix
+1210,Square Enix,Crisis Core: Final Fantasy VII
+1211,Square Enix Product Development Division 1,Crisis Core: Final Fantasy VII
+1212,Harmonix Music Systems,Dance Central
+1213,MTV Games,Dance Central
+1214,Microsoft Game Studios,Dance Central
+1215,Team Bondi,L.A. Noire
+1216,Rockstar North,L.A. Noire
+1217,Rockstar Games,L.A. Noire
+1218,Rockstar Leeds,L.A. Noire
+1219,Take-Two Interactive,L.A. Noire
+1220,Namco,Ace Combat 04: Shattered Skies
+1221,Nintendo,Animal Crossing
+1222,Nintendo EAD,Animal Crossing
+1223,EA Sports,FIFA Soccer 08
+1224,EA Canada,FIFA Soccer 08
+1225,Disney Interactive Studios,Club Penguin: Elite Penguin Force
+1226,Neversoft Entertainment,Spider-Man
+1227,Treyarch,Spider-Man
+1228,Gray Matter Interactive,Spider-Man
+1229,Edge of Reality,Spider-Man
+1230,Activision,Spider-Man
+1231,Aspyr Media,Spider-Man
+1232,Westlake Interactive,Spider-Man
+1233,Gradiente,Spider-Man
+1234,NDCube,Mario Party 9
+1235,Nintendo,Mario Party 9
+1236,Electronic Arts,Need for Speed III: Hot Pursuit
+1237,EA Canada,Need for Speed III: Hot Pursuit
+1238,EA Seattle,Need for Speed III: Hot Pursuit
+1239,Aspyr Media,Star Wars Episode I Racer
+1240,Nintendo,Star Wars Episode I Racer
+1241,LucasArts,Star Wars Episode I Racer
+1242,Gradiente,Star Wars Episode I Racer
+1243,Sonic Team,Sonic Rush
+1244,Dimps,Sonic Rush
+1245,Sega,Sonic Rush
+1246,Obsidian Entertainment,Fallout: New Vegas
+1247,Bandai Namco Entertainment,Fallout: New Vegas
+1248,1C/Cenega,Fallout: New Vegas
+1249,Bethesda Softworks,Fallout: New Vegas
+1250,Bethesda Game Studios,The Elder Scrolls IV: Oblivion
+1251,2K Games,The Elder Scrolls IV: Oblivion
+1252,4J Studios,The Elder Scrolls IV: Oblivion
+1253,Bethesda Softworks,The Elder Scrolls IV: Oblivion
+1254,Ubisoft Entertainment,The Elder Scrolls IV: Oblivion
+1255,Nintendo EAD Software Development Group No.3,The Legend of Zelda: A Link Between Worlds
+1256,Nintendo,The Legend of Zelda: A Link Between Worlds
+1257,Monolith Soft,The Legend of Zelda: A Link Between Worlds
+1258,QLOC,Resident Evil 6
+1259,Capcom,Resident Evil 6
+1260,BioWare,Mass Effect 2
+1261,"Electronic Arts, Inc.",Mass Effect 2
+1262,Dimps,Dragon Ball Z: Budokai
+1263,Pyramid,Dragon Ball Z: Budokai
+1264,Bandai,Dragon Ball Z: Budokai
+1265,"Atari, Inc.",Dragon Ball Z: Budokai
+1266,EA Sports,Madden NFL 2002
+1267,EA Orlando,Madden NFL 2002
+1268,Nintendo EAD,Donkey Kong
+1269,Pax Softonica,Donkey Kong
+1270,Nintendo,Donkey Kong
+1271,Playtronic,Donkey Kong
+1272,Maxis,The Sims: Vacation
+1273,Electronic Arts,The Sims: Vacation
+1274,Westlake Interactive,The Sims: Vacation
+1275,Aspyr Media,The Sims: Vacation
+1276,WB Games,LEGO Batman: The Videogame
+1277,DC Comics,LEGO Batman: The Videogame
+1278,Traveller's Tales,LEGO Batman: The Videogame
+1279,WB Games,LEGO Batman: The Videogame
+1280,DC Comics,LEGO Batman: The Videogame
+1281,Traveller's Tales,LEGO Batman: The Videogame
+1282,Nintendo,Animal Crossing: Happy Home Designer
+1283,Nintendo EAD Software Development Group No.2,Animal Crossing: Happy Home Designer
+1284,The Sims Studio,The Sims 4
+1285,Maxis,The Sims 4
+1286,Electronic Arts,The Sims 4
+1287,Gearbox Software,Borderlands 2
+1288,2K Games,Borderlands 2
+1289,Iron Galaxy Studios,Borderlands 2
+1290,Aspyr Media,Borderlands 2
+1291,Sony Computer Entertainment of America,Borderlands 2
+1292,WB Games,LEGO Batman: The Videogame
+1293,DC Comics,LEGO Batman: The Videogame
+1294,TT Fusion,LEGO Batman: The Videogame
+1295,WB Games,LEGO Batman: The Videogame
+1296,DC Comics,LEGO Batman: The Videogame
+1297,TT Fusion,LEGO Batman: The Videogame
+1298,Luxoflux,Kung Fu Panda
+1299,Beenox,Kung Fu Panda
+1300,XPEC,Kung Fu Panda
+1301,Activision,Kung Fu Panda
+1302,Electronic Arts,Mass Effect 3
+1303,BioWare,Mass Effect 3
+1304,BioWare Edmonton,Mass Effect 3
+1305,Quantic Dream,Heavy Rain
+1306,Sony Computer Entertainment,Heavy Rain
+1307,Ubi Pictures,Rayman
+1308,Ubisoft Entertainment,Rayman
+1309,CD Projekt,Saints Row 2
+1310,THQ,Saints Row 2
+1311,Volition,Saints Row 2
+1312,Ubisoft Montreal,Tom Clancy's Splinter Cell
+1313,Aspyr Media,Tom Clancy's Splinter Cell
+1314,Ubisoft Entertainment,Tom Clancy's Splinter Cell
+1315,Ubisoft Shanghai,Tom Clancy's Splinter Cell
+1316,Nintendo,Mike Tyson's Punch-Out!!
+1317,Nintendo R&D3,Mike Tyson's Punch-Out!!
+1318,THQ,WWE SmackDown! Shut Your Mouth
+1319,Yuke's,WWE SmackDown! Shut Your Mouth
+1320,EA Sports,FIFA 14
+1321,EA Canada,FIFA 14
+1322,Guerrilla Games,Killzone 2
+1323,Sony Computer Entertainment,Killzone 2
+1324,Ubisoft Montreal,Far Cry 3
+1325,Massive Entertainment,Far Cry 3
+1326,Ubisoft Shanghai,Far Cry 3
+1327,Ubisoft Entertainment,Far Cry 3
+1328,Junction Point Studios,Epic Mickey
+1329,Disney Interactive Studios,Epic Mickey
+1330,2K Sports,NBA 2K13
+1331,Visual Concepts,NBA 2K13
+1332,Spike,Dragon Ball Z: Budokai Tenkaichi 3
+1333,Namco Bandai Games,Dragon Ball Z: Budokai Tenkaichi 3
+1334,"Atari, Inc.",Dragon Ball Z: Budokai Tenkaichi 3
+1335,Nintendo,Star Fox
+1336,Nintendo EAD,Star Fox
+1337,Argonaut Games,Star Fox
+1338,Playtronic,Star Fox
+1339,Maxis,The Sims: Livin Large
+1340,Aspyr Media,The Sims: Livin Large
+1341,Electronic Arts,The Sims: Livin Large
+1342,Westlake Interactive,The Sims: Livin Large
+1343,Konami,World Soccer Winning Eleven 6 International
+1344,Capcom,Devil May Cry
+1345,Capcom Production Studio 4,Devil May Cry
+1346,Electronic Arts,Star Wars: The Old Republic
+1347,LucasArts,Star Wars: The Old Republic
+1348,BioWare Austin,Star Wars: The Old Republic
+1349,BioWare Edmonton,Star Wars: The Old Republic
+1350,Monolith Productions,Middle-Earth: Shadow of Mordor
+1351,Behaviour Interactive,Middle-Earth: Shadow of Mordor
+1352,WB Games,Middle-Earth: Shadow of Mordor
+1353,Feral Interactive,Middle-Earth: Shadow of Mordor
+1354,IO Interactive,Hitman 2: Silent Assassin
+1355,Eidos Interactive,Hitman 2: Silent Assassin
+1356,Electronic Arts,Titanfall
+1357,Respawn Entertainment,Titanfall
+1358,Bluepoint Games,Titanfall
+1359,EA Digital Illusions CE,Battlefield: Bad Company 2
+1360,Electronic Arts,Battlefield: Bad Company 2
+1361,Playtronic,Wave Race 64
+1362,iQue,Wave Race 64
+1363,Nintendo,Wave Race 64
+1364,Nintendo EAD,Wave Race 64
+1365,Zipper Interactive,SOCOM II: U.S. Navy SEALs
+1366,Sony Computer Entertainment,SOCOM II: U.S. Navy SEALs
+1367,THQ,WWE SmackDown! vs. RAW 2006
+1368,Yuke's,WWE SmackDown! vs. RAW 2006
+1369,Namco,Pac-Man Collection
+1370,Mass Media Inc,Pac-Man Collection
+1371,Bandai Namco Entertainment,Pac-Man Collection
+1372,Dimps,Street Fighter IV
+1373,Capcom,Street Fighter IV
+1374,Sucker Punch Productions,inFAMOUS
+1375,Sony Computer Entertainment,inFAMOUS
+1376,Nintendo of Europe,Kirby Super Star Ultra
+1377,HAL Laboratory,Kirby Super Star Ultra
+1378,Nintendo,Kirby Super Star Ultra
+1379,Neversoft Entertainment,Call of Duty: Ghosts
+1380,Activision,Call of Duty: Ghosts
+1381,Infinity Ward,Call of Duty: Ghosts
+1382,Raven Software,Call of Duty: Ghosts
+1383,Treyarch,Call of Duty: Ghosts
+1384,Certain Affinity,Call of Duty: Ghosts
+1385,EA Sports,FIFA 15
+1386,EA Canada,FIFA 15
+1387,BioWare,Mass Effect
+1388,Microsoft Game Studios,Mass Effect
+1389,Electronic Arts,Mass Effect
+1390,Demiurge Studios,Mass Effect
+1391,Edge of Reality,Mass Effect
+1392,BioWare Edmonton,Mass Effect
+1393,Sonic Team,Sonic Mega Collection Plus
+1394,Infogrames,Sonic Mega Collection Plus
+1395,Sega,Sonic Mega Collection Plus
+1396,Konami,World Soccer Winning Eleven 7 International
+1397,Konami Computer Entertainment Tokyo,World Soccer Winning Eleven 7 International
+1398,Feral Interactive,Sega Superstars Tennis
+1399,Sumo Digital,Sega Superstars Tennis
+1400,Sega,Sega Superstars Tennis
+1401,Clap Hanz,Hot Shots Golf 3
+1402,"Sony Computer Entertainment, Inc. (SCEI)",Hot Shots Golf 3
+1403,Sony Computer Entertainment of America,Hot Shots Golf 3
+1404,Cooking Mama Limited,Cooking Mama: Cook Off
+1405,Majesco Entertainment,Cooking Mama: Cook Off
+1406,505 Games,Cooking Mama: Cook Off
+1407,Office Create,Cooking Mama: Cook Off
+1408,Taito,Cooking Mama: Cook Off
+1409,Exakt Entertainment,Call of Duty: Finest Hour
+1410,Spark Unlimited,Call of Duty: Finest Hour
+1411,Activision,Call of Duty: Finest Hour
+1412,Capcom,Call of Duty: Finest Hour
+1413,Nintendo SPD Production Group No. 1,WarioWare: Smooth Moves
+1414,Nintendo,WarioWare: Smooth Moves
+1415,Intelligent Systems,WarioWare: Smooth Moves
+1416,Eidetic,Syphon Filter
+1417,989 Studios,Syphon Filter
+1418,Sony Interactive Entertainment,Syphon Filter
+1419,Codemasters,Colin McRae Rally
+1420,Codemasters Southam,Colin McRae Rally
+1421,EA Orlando,Madden NFL 13
+1422,EA Sports,Madden NFL 13
+1423,Bethesda Game Studios,The Elder Scrolls III: Morrowind
+1424,ZeniMax Media,The Elder Scrolls III: Morrowind
+1425,Bethesda Softworks,The Elder Scrolls III: Morrowind
+1426,Ubisoft Montreal,Assassin's Creed IV: Black Flag
+1427,Ubisoft Québec,Assassin's Creed IV: Black Flag
+1428,Ubisoft Montpellier,Assassin's Creed IV: Black Flag
+1429,Ubisoft Kyiv,Assassin's Creed IV: Black Flag
+1430,Ubisoft Sofia,Assassin's Creed IV: Black Flag
+1431,Ubisoft Singapore,Assassin's Creed IV: Black Flag
+1432,Ubisoft Annecy,Assassin's Creed IV: Black Flag
+1433,Ubisoft Bucharest,Assassin's Creed IV: Black Flag
+1434,Ubisoft Chengdu,Assassin's Creed IV: Black Flag
+1435,Ubisoft Milan,Assassin's Creed IV: Black Flag
+1436,Ubisoft Shanghai,Assassin's Creed IV: Black Flag
+1437,Ubisoft Pune,Assassin's Creed IV: Black Flag
+1438,Ubisoft North America,Assassin's Creed IV: Black Flag
+1439,Ubisoft Entertainment,Assassin's Creed IV: Black Flag
+1440,Westwood Studios,Command & Conquer: Red Alert
+1441,Electronic Arts,Command & Conquer: Red Alert
+1442,Sony Computer Entertainment,Command & Conquer: Red Alert
+1443,Virgin Interactive Entertainment,Command & Conquer: Red Alert
+1444,Dice Multi Media Europe,Command & Conquer: Red Alert
+1445,Sold Out Sales & Marketing,Command & Conquer: Red Alert
+1446,Nintendo EAD,Yoshi's Story
+1447,Nintendo,Yoshi's Story
+1448,Gradiente,Yoshi's Story
+1449,iQue,Yoshi's Story
+1450,NetherRealm Studios,Mortal Kombat
+1451,WB Games,Mortal Kombat
+1452,EA Orlando,Madden NFL 10
+1453,EA Sports,Madden NFL 10
+1454,Demiurge Studios,BioShock
+1455,2K Games,BioShock
+1456,2K Australia,BioShock
+1457,2K Boston,BioShock
+1458,Robosoft Technologies,BioShock
+1459,Retro Studios,Metroid Prime
+1460,Nintendo,Metroid Prime
+1461,Ubisoft Montreal,Assassin's Creed: Brotherhood
+1462,Ubisoft Annecy,Assassin's Creed: Brotherhood
+1463,Ubisoft Bucharest,Assassin's Creed: Brotherhood
+1464,Ubisoft Singapore,Assassin's Creed: Brotherhood
+1465,Ubisoft Québec,Assassin's Creed: Brotherhood
+1466,Ubisoft Entertainment,Assassin's Creed: Brotherhood
+1467,THQ,Finding Nemo
+1468,Vicarious Visions,Finding Nemo
+1469,Majesco Entertainment,Zumba Fitness 2
+1470,Zoe Mode,Zumba Fitness 2
+1471,Danger Close,Medal of Honor
+1472,EA Digital Illusions CE,Medal of Honor
+1473,Electronic Arts,Medal of Honor
+1474,Electronic Arts,Need for Speed: Most Wanted
+1475,Criterion Games,Need for Speed: Most Wanted
+1476,THQ,WWE SmackDown! Here Comes the Pain
+1477,Yuke's,WWE SmackDown! Here Comes the Pain
+1478,Camelot Software Planning,Hot Shots Golf
+1479,"Sony Computer Entertainment, Inc. (SCEI)",Hot Shots Golf
+1480,Sony Computer Entertainment of America,Hot Shots Golf
+1481,Sony Computer Entertainment Europe,Hot Shots Golf
+1482,Activision,A Bug's Life
+1483,Take-Two Interactive,A Bug's Life
+1484,Traveller's Tales,A Bug's Life
+1485,Disney Interactive,A Bug's Life
+1486,Sony Computer Entertainment of America,A Bug's Life
+1487,Gradiente,A Bug's Life
+1488,THQ,WWF SmackDown! Just Bring It
+1489,Yuke's,WWF SmackDown! Just Bring It
+1490,Sucker Punch Productions,inFAMOUS: Second Son
+1491,Sony Computer Entertainment,inFAMOUS: Second Son
+1492,Avalanche Software,Mortal Kombat Trilogy
+1493,Midway Games,Mortal Kombat Trilogy
+1494,Point of View,Mortal Kombat Trilogy
+1495,Williams Entertainment,Mortal Kombat Trilogy
+1496,GT Interactive Software,Mortal Kombat Trilogy
+1497,SoftBank,Mortal Kombat Trilogy
+1498,Capcom,Monster Hunter Tri
+1499,EA Sports BIG,NBA Street
+1500,EA Canada,NBA Street
+1501,NuFX,NBA Street
+1502,Square Electronic Arts,NBA Street
+1503,Naughty Dog,Jak II
+1504,Sony Computer Entertainment,Jak II
+1505,Insomniac Games,Ratchet & Clank: Going Commando
+1506,Sony Computer Entertainment,Ratchet & Clank: Going Commando
+1507,Criterion Games,Need for Speed: Hot Pursuit
+1508,Neoplay,Skylanders: Spyro's Adventure
+1509,Toys for Bob,Skylanders: Spyro's Adventure
+1510,Vicarious Visions,Skylanders: Spyro's Adventure
+1511,Square Enix,Skylanders: Spyro's Adventure
+1512,Activision,Skylanders: Spyro's Adventure
+1513,EA Digital Illusions CE,Battlefield 3
+1514,Electronic Arts,Battlefield 3
+1515,NetherRealm Studios,Mortal Kombat X
+1516,WB Games,Mortal Kombat X
+1517,Electronic Arts,The Sims
+1518,Edge of Reality,The Sims
+1519,Maxis,The Sims
+1520,Guerrilla Games,Killzone 3
+1521,Sony Computer Entertainment,Killzone 3
+1522,LucasArts,Star Wars: The Force Unleashed
+1523,THQ Wireless,Star Wars: The Force Unleashed
+1524,Universomo,Star Wars: The Force Unleashed
+1525,Aspyr Media,Star Wars: The Force Unleashed
+1526,Krome Studios,Star Wars: The Force Unleashed
+1527,4J Studios,Minecraft
+1528,Nintendo,Yoshi's Island DS
+1529,Artoon,Yoshi's Island DS
+1530,Square Enix,Saints Row: The Third
+1531,CyberFront,Saints Row: The Third
+1532,THQ,Saints Row: The Third
+1533,Deep Silver,Saints Row: The Third
+1534,Volition,Saints Row: The Third
+1535,Nintendo R&D1,Mario Paint
+1536,Nintendo,Mario Paint
+1537,Intelligent Systems,Mario Paint
+1538,Playtronic,Mario Paint
+1539,Bandai Namco Entertainment,Tekken 6
+1540,Namco Bandai Games,Tekken 6
+1541,Nintendo EAD,Pokémon Stadium 2
+1542,HAL Laboratory,Pokémon Stadium 2
+1543,Gradiente,Pokémon Stadium 2
+1544,Nintendo,Pokémon Stadium 2
+1545,Sega,Sonic and the Secret Rings
+1546,Sonic Team,Sonic and the Secret Rings
+1547,NOW Production,Sonic and the Secret Rings
+1548,EA Sports,FIFA 16
+1549,EA Canada,FIFA 16
+1550,Nintendo EAD,The Legend of Zelda: A Link to the Past
+1551,Nintendo,The Legend of Zelda: A Link to the Past
+1552,Capcom Production Studio 1,The Legend of Zelda: A Link to the Past
+1553,Capcom,Onimusha: Warlords
+1554,Capcom Production Studio 2,Onimusha: Warlords
+1555,Hudson Soft,Mario Party
+1556,Nintendo,Mario Party
+1557,CAProductions,Mario Party
+1558,Gradiente,Mario Party
+1559,Team Bondi,L.A. Noire
+1560,Rockstar North,L.A. Noire
+1561,Rockstar Games,L.A. Noire
+1562,Rockstar Leeds,L.A. Noire
+1563,Take-Two Interactive,L.A. Noire
+1564,Activision,Call of Duty 3
+1565,Treyarch,Call of Duty 3
+1566,Exact Entertainment,Call of Duty 3
+1567,EA Orlando,Madden NFL 12
+1568,EA Sports,Madden NFL 12
+1569,Traveller's Tales,LEGO Star Wars II: The Original Trilogy
+1570,LucasArts,LEGO Star Wars II: The Original Trilogy
+1571,Guerrilla Games,Killzone: Shadow Fall
+1572,D3T Limited,Killzone: Shadow Fall
+1573,Sony Computer Entertainment,Killzone: Shadow Fall
+1574,EA Sports,Madden NFL 11
+1575,EA Canada,Madden NFL 11
+1576,EA Orlando,Madden NFL 11
+1577,Electronic Arts,Burnout 3: Takedown
+1578,Criterion Games,Burnout 3: Takedown
+1579,Nintendo Software Technology,Mario vs. Donkey Kong: Mini-Land Mayhem!
+1580,Nintendo,Mario vs. Donkey Kong: Mini-Land Mayhem!
+1581,LEVEL-5,Professor Layton and the Last Specter
+1582,Nintendo,Professor Layton and the Last Specter
+1583,Activision,Call Of Duty 2: Big Red One
+1584,Konami,Call Of Duty 2: Big Red One
+1585,Treyarch,Call Of Duty 2: Big Red One
+1586,Gray Matter Interactive,Call Of Duty 2: Big Red One
+1587,Big Blue Box,Fable
+1588,Microsoft Game Studios,Fable
+1589,Activision,Guitar Hero: World Tour
+1590,Neversoft Entertainment,Guitar Hero: World Tour
+1591,Budcat Creations,Guitar Hero: World Tour
+1592,Vicarious Visions,Guitar Hero: World Tour
+1593,Aspyr Media,Guitar Hero: World Tour
+1594,EA Sports,FIFA 17
+1595,EA Vancouver,FIFA 17
+1596,EA Romania,FIFA 17
+1597,Buena Vista Games,Hannah Montana
+1598,Disney Interactive Studios,Hannah Montana
+1599,DC Studios,Hannah Montana
+1600,Ubisoft Montreal,Tom Clancy's Splinter Cell
+1601,Aspyr Media,Tom Clancy's Splinter Cell
+1602,Ubisoft Entertainment,Tom Clancy's Splinter Cell
+1603,Ubisoft Shanghai,Tom Clancy's Splinter Cell
+1604,Slightly Mad Studios,Need for Speed: Shift
+1605,Electronic Arts,Need for Speed: Shift
+1606,Nintendo,Star Wars: Shadows of the Empire
+1607,LucasArts,Star Wars: Shadows of the Empire
+1608,Disney Interactive,Star Wars: Shadows of the Empire
+1609,Playtronic,Star Wars: Shadows of the Empire
+1610,EA Canada,Medal of Honor Heroes
+1611,Electronic Arts,Medal of Honor Heroes
+1612,tri-Ace,Final Fantasy XIII-2
+1613,Square Enix,Final Fantasy XIII-2
+1614,Square Enix Business Division 1,Final Fantasy XIII-2
+1615,Square Enix 1st Production Department,Final Fantasy XIII-2
+1616,Rockstar Games,Midnight Club: Street Racing
+1617,Angel Studios,Midnight Club: Street Racing
+1618,Destination Software,Midnight Club: Street Racing
+1619,Rebellion Developments,Midnight Club: Street Racing
+1620,Take-Two Interactive,Midnight Club: Street Racing
+1621,EA Black Box,Skate 3
+1622,Electronic Arts,Skate 3
+1623,Visual Concepts,ESPN NFL 2K5
+1624,Sega,ESPN NFL 2K5
+1625,Global Star Software,ESPN NFL 2K5
+1626,Ensemble Studios,Halo Wars
+1627,Microsoft Game Studios,Halo Wars
+1628,Visual Concepts,NBA 2K12
+1629,2K Sports,NBA 2K12
+1630,EA Canada,FIFA Soccer 10
+1631,EA Sports,FIFA Soccer 10
+1632,Danger Close,Medal of Honor
+1633,EA Digital Illusions CE,Medal of Honor
+1634,Electronic Arts,Medal of Honor
+1635,Electronic Arts,Harry Potter and the Chamber of Secrets
+1636,Sanzaru Games,God of War Collection
+1637,Mercenary Technology,God of War Collection
+1638,Sony Computer Entertainment,God of War Collection
+1639,Bluepoint Games,God of War Collection
+1640,SCE Santa Monica Studio,God of War Collection
+1641,Electronic Arts,NBA Live 2005
+1642,EA Canada,NBA Live 2005
+1643,Nintendo SPD,Mario Strikers Charged
+1644,Nintendo,Mario Strikers Charged
+1645,Next Level Games,Mario Strikers Charged
+1646,EA Canada,FIFA Soccer 09
+1647,EA Sports,FIFA Soccer 09
+1648,Syn Sophia,Style Savvy
+1649,Nintendo,Style Savvy
+1650,THQ,WWE SmackDown vs. RAW 2007
+1651,Yuke's,WWE SmackDown vs. RAW 2007
+1652,Feral Interactive,LEGO Star Wars: The Complete Saga
+1653,Robosoft Technologies,LEGO Star Wars: The Complete Saga
+1654,WB Games,LEGO Star Wars: The Complete Saga
+1655,LucasArts,LEGO Star Wars: The Complete Saga
+1656,TT Fusion,LEGO Star Wars: The Complete Saga
+1657,Traveller's Tales,LEGO Star Wars: The Complete Saga
+1658,Insomniac Games,Ratchet & Clank: Up Your Arsenal
+1659,Sony Computer Entertainment,Ratchet & Clank: Up Your Arsenal
+1660,EA Orlando,Madden NFL 08
+1661,EA Sports,Madden NFL 08
+1662,Capcom Production Studio 1,Monster Hunter Freedom 2
+1663,Capcom,Monster Hunter Freedom 2
+1664,Insomniac Games,Ratchet & Clank Future: Tools of Destruction
+1665,Sony Computer Entertainment,Ratchet & Clank Future: Tools of Destruction
+1666,Nintendo,Super Mario All-Stars: Limited Edition
+1667,Sonic Team,Sonic Adventure 2 Battle
+1668,Sega,Sonic Adventure 2 Battle
+1669,EA Orlando,Madden NFL 13
+1670,EA Sports,Madden NFL 13
+1671,Electronic Arts,Dragon Age: Origins
+1672,Edge of Reality,Dragon Age: Origins
+1673,BioWare Edmonton,Dragon Age: Origins
+1674,Nintendo,Pokémon Colosseum
+1675,Genius Sonority,Pokémon Colosseum
+1676,SCE Cambridge Studio,LittleBigPlanet
+1677,Media Molecule,LittleBigPlanet
+1678,Sony Computer Entertainment,LittleBigPlanet
+1679,EA Orlando,Madden NFL 09
+1680,EA Sports,Madden NFL 09
+1681,Sega,Crazy Taxi
+1682,Hitmaker,Crazy Taxi
+1683,Acclaim Entertainment,Crazy Taxi
+1684,Acclaim Studios Cheltenham,Crazy Taxi
+1685,Activision Value,Crazy Taxi
+1686,Strangelite Limited,Crazy Taxi
+1687,Sega Studios,Crazy Taxi
+1688,Headstrong Games,Art Academy
+1689,Nintendo SPD,Art Academy
+1690,Nintendo,Art Academy
+1691,2K Sports,NBA 2K14
+1692,Visual Concepts,NBA 2K14
+1693,Rare,Perfect Dark
+1694,Nintendo,Perfect Dark
+1695,Gradiente,Perfect Dark
+1696,Activision,Skylanders Giants
+1697,Neoplay,Skylanders Giants
+1698,Square Enix,Skylanders Giants
+1699,Toys for Bob,Skylanders Giants
+1700,Vicarious Visions,Skylanders Giants
+1701,n-Space,Skylanders Giants
+1702,Hudson Soft,Deca Sports
+1703,Konami,Deca Sports
+1704,Hudson Soft,Mario Party 2
+1705,CAProductions,Mario Party 2
+1706,Nintendo,Mario Party 2
+1707,Gradiente,Mario Party 2
+1708,Beenox,Marvel: Ultimate Alliance
+1709,Zoe Mode,Marvel: Ultimate Alliance
+1710,Raven Software,Marvel: Ultimate Alliance
+1711,NEC Interchannel,Marvel: Ultimate Alliance
+1712,Activision,Marvel: Ultimate Alliance
+1713,Vicarious Visions,Marvel: Ultimate Alliance
+1714,Midway,Mortal Kombat: Deadly Alliance
+1715,Midway Games,Game Party
+1716,FarSight Studios,Game Party
+1717,FromSoftware,Bloodborne
+1718,Sony Computer Entertainment,Bloodborne
+1719,Hudson Soft,Mario Party 4
+1720,Nintendo,Mario Party 4
+1721,Gradiente,Mario Party 4
+1722,Disney Interactive Studios,Pure
+1723,Black Rock Studios,Pure
+1724,Electronic Arts,Rock Band
+1725,MTV Games,Rock Band
+1726,Harmonix Music Systems,Rock Band
+1727,Pi Studios,Rock Band
+1728,MTV Games,Rock Band
+1729,Harmonix Music Systems,Rock Band
+1730,Electronic Arts,Rock Band
+1731,MTV Games,Rock Band
+1732,Harmonix Music Systems,Rock Band
+1733,Pi Studios,Rock Band
+1734,Electronic Arts,Rock Band
+1735,MTV Games,Rock Band
+1736,Harmonix Music Systems,Rock Band
+1737,Pi Studios,Rock Band
+1738,2K Sports,NBA 2K13
+1739,Visual Concepts,NBA 2K13
+1740,Square Enix,Saints Row: The Third
+1741,CyberFront,Saints Row: The Third
+1742,THQ,Saints Row: The Third
+1743,Deep Silver,Saints Row: The Third
+1744,Volition,Saints Row: The Third
+1745,Insomniac Games,Resistance 2
+1746,Sony Computer Entertainment,Resistance 2
+1747,Visual Concepts,NBA 2K15
+1748,2K Sports,NBA 2K15
+1749,Square Enix,Final Fantasy Tactics
+1750,Sony Computer Entertainment,Final Fantasy Tactics
+1751,Square,Final Fantasy Tactics
+1752,Square Product Development Division 4,Final Fantasy Tactics
+1753,Rockstar Games,Midnight Club: Los Angeles
+1754,Rockstar San Diego,Midnight Club: Los Angeles
+1755,Rockstar London,Midnight Club: Los Angeles
+1756,Take-Two Interactive,Midnight Club: Los Angeles
+1757,Sony Computer Entertainment,Twisted Metal 2
+1758,SingleTrac,Twisted Metal 2
+1759,Sony Interactive Entertainment,Twisted Metal 2
+1760,Maxis,The Sims: Bustin' Out
+1761,EA Games,The Sims: Bustin' Out
+1762,Brøderbund Software,Riven: The Sequel to Myst
+1763,Acclaim Entertainment,Riven: The Sequel to Myst
+1764,Enix,Riven: The Sequel to Myst
+1765,Cyan Worlds,Riven: The Sequel to Myst
+1766,Tec Toy,Riven: The Sequel to Myst
+1767,Feral Interactive,LEGO Harry Potter: Years 1-4
+1768,Traveller's Tales,LEGO Harry Potter: Years 1-4
+1769,WB Games,LEGO Harry Potter: Years 1-4
+1770,Infinity Ward,Call of Duty: Infinite Warfare
+1771,Activision,Call of Duty: Infinite Warfare
+1772,EA Orlando,Madden NFL 16
+1773,EA Sports,Madden NFL 16
+1774,Nintendo,Ice Hockey
+1775,Nintendo R&D4,Ice Hockey
+1776,Nintendo R&D2,Ice Hockey
+1777,Sonic Team,Sonic Adventure
+1778,Sega,Sonic Adventure
+1779,Ubisoft Montreal,Tom Clancy's Rainbow Six: Vegas 2
+1780,Ubisoft Entertainment,Tom Clancy's Rainbow Six: Vegas 2
+1781,THQ,uDraw Studio
+1782,Pipeworks Software,uDraw Studio
+1783,Electronic Arts,Need for Speed Carbon: Own the City
+1784,Team Fusion,Need for Speed Carbon: Own the City
+1785,Dimps,Dragon Ball Z: Budokai 2
+1786,Bandai,Dragon Ball Z: Budokai 2
+1787,"Atari, Inc.",Dragon Ball Z: Budokai 2
+1788,Konami Computer Entertainment Tokyo,pro evolution soccer 2011
+1789,Konami,pro evolution soccer 2011
+1790,Blue Sky,pro evolution soccer 2011
+1791,Rainbow Studios,ATV Offroad Fury
+1792,Sony Computer Entertainment,ATV Offroad Fury
+1793,EA Black Box,Need for Speed: ProStreet
+1794,Electronic Arts,Need for Speed: ProStreet
+1795,Microsoft Studios,Halo: Combat Evolved Anniversary
+1796,343 Industries,Halo: Combat Evolved Anniversary
+1797,Jaleco Ltd.,Tetris Plus
+1798,Nintendo,Pro Wrestling
+1799,"TRY Co., Ltd.",Pro Wrestling
+1800,Nintendo R&D3,Pro Wrestling
+1801,Bullfrog Productions,Theme Hospital
+1802,Electronic Arts,Theme Hospital
+1803,Konami,Frogger's Adventures: Temple of the Frog
+1804,Harmonix Music Systems,Guitar Hero
+1805,RedOctane,Guitar Hero
+1806,EA Sports,Madden NFL 11
+1807,EA Canada,Madden NFL 11
+1808,EA Orlando,Madden NFL 11
+1809,THQ,WCW/nWo Revenge
+1810,AKI Corporation,WCW/nWo Revenge
+1811,Asmik Ace Entertainment,WCW/nWo Revenge
+1812,Gradiente,WCW/nWo Revenge
+1813,Konami,Yu-Gi-Oh! The Duelists of the Roses
+1814,Techland,Dead Island
+1815,Deep Silver,Dead Island
+1816,Sierra Entertainment,Half-Life 2
+1817,Valve,Half-Life 2
+1818,NVIDIA Lightspeed Studios,Half-Life 2
+1819,Heavy Iron Studios,The Incredibles
+1820,THQ,The Incredibles
+1821,EA Orlando,Madden NFL 08
+1822,EA Sports,Madden NFL 08
+1823,Neversoft Entertainment,Tony Hawk's Underground 2
+1824,Activision,Tony Hawk's Underground 2
+1825,505 Games,Zumba Fitness
+1826,Majesco Entertainment,Zumba Fitness
+1827,Pipeworks Software,Zumba Fitness
+1828,EA Orlando,Madden NFL 10
+1829,EA Sports,Madden NFL 10
+1830,Nintendo,Kirby's Dream Land 2
+1831,HAL Laboratory,Kirby's Dream Land 2
+1832,Playtronic,Kirby's Dream Land 2
+1833,Rockstar Games,Midnight Club: Los Angeles
+1834,Rockstar San Diego,Midnight Club: Los Angeles
+1835,Rockstar London,Midnight Club: Los Angeles
+1836,Take-Two Interactive,Midnight Club: Los Angeles
+1837,Rare,Donkey Kong Land II
+1838,Nintendo,Donkey Kong Land II
+1839,Playtronic,Donkey Kong Land II
+1840,Frontier Developments,Kinect: Disneyland Adventures
+1841,Asobo Studio,Kinect: Disneyland Adventures
+1842,Microsoft Studios,Kinect: Disneyland Adventures
+1843,THQ,WWE SmackDown vs Raw 2008
+1844,Amaze Entertainment,WWE SmackDown vs Raw 2008
+1845,Yuke's,WWE SmackDown vs Raw 2008
+1846,Nintendo,The Legend of Zelda: Majora's Mask 3D
+1847,Grezzo,The Legend of Zelda: Majora's Mask 3D
+1848,Traveller's Tales,LEGO Indiana Jones: The Original Adventures
+1849,LucasArts,LEGO Indiana Jones: The Original Adventures
+1850,Feral Interactive,LEGO Indiana Jones: The Original Adventures
+1851,Robosoft Technologies,LEGO Indiana Jones: The Original Adventures
+1852,Capcom,Resident Evil - Code: Veronica X
+1853,Nextech,Resident Evil - Code: Veronica X
+1854,Capcom Production Studio 4,Resident Evil - Code: Veronica X
+1855,Tose,Resident Evil - Code: Veronica X
+1856,Visual Concepts,NBA 2K16
+1857,2K Sports,NBA 2K16
+1858,Rare,Kinect Sports: Season Two
+1859,BigPark,Kinect Sports: Season Two
+1860,Microsoft Studios,Kinect Sports: Season Two
+1861,DMA Design,Grand Theft Auto
+1862,Take-Two Interactive,Grand Theft Auto
+1863,BMG Interactive,Grand Theft Auto
+1864,Visual Science,Grand Theft Auto
+1865,ASC Games,Grand Theft Auto
+1866,Syscom Entertainment,Grand Theft Auto
+1867,Rockstar Games,Grand Theft Auto
+1868,EA Redwood Shores,James Bond 007: Everything or Nothing
+1869,Electronic Arts,James Bond 007: Everything or Nothing
+1870,Electronic Arts,Need For Speed: High Stakes
+1871,EA Canada,Need For Speed: High Stakes
+1872,Square,Chrono Trigger
+1873,Bird Studio,Chrono Trigger
+1874,NCSOFT,Guild Wars 2
+1875,ArenaNet,Guild Wars 2
+1876,Sony Computer Entertainment Europe,Cool Boarders 3
+1877,UEP Systems,Cool Boarders 3
+1878,Sony Computer Entertainment America,Cool Boarders 3
+1879,Idol Minds,Cool Boarders 3
+1880,Nintendo,Paper Mario: Sticker Star
+1881,Vanpool,Paper Mario: Sticker Star
+1882,Intelligent Systems,Paper Mario: Sticker Star
+1883,Nintendo,WarioWare Touched!
+1884,Nintendo SPD Production Group No. 1,WarioWare Touched!
+1885,iQue,WarioWare Touched!
+1886,Intelligent Systems,WarioWare Touched!
+1887,WB Games,Batman: Arkham Origins
+1888,WB Games Montréal,Batman: Arkham Origins
+1889,Human Head Studios,Batman: Arkham Origins
+1890,Splash Damage,Batman: Arkham Origins
+1891,Warner Bros. Interactive Entertainment,Batman: Arkham Origins
+1892,Eidos Interactive,Tomb Raider II
+1893,Core Design,Tomb Raider II
+1894,Feral Interactive,LEGO Star Wars: The Complete Saga
+1895,Robosoft Technologies,LEGO Star Wars: The Complete Saga
+1896,WB Games,LEGO Star Wars: The Complete Saga
+1897,LucasArts,LEGO Star Wars: The Complete Saga
+1898,TT Fusion,LEGO Star Wars: The Complete Saga
+1899,Traveller's Tales,LEGO Star Wars: The Complete Saga
+1900,EA Black Box,Need for Speed Underground 2
+1901,Electronic Arts,Need for Speed Underground 2
+1902,Konami,Pro Evolution Soccer 2010
+1903,Konami Computer Entertainment Tokyo,Pro Evolution Soccer 2010
+1904,EA Sports,FIFA Soccer 09
+1905,HB Studios,FIFA Soccer 09
+1906,WB Games,LEGO Harry Potter: Years 1-4
+1907,TT Fusion,LEGO Harry Potter: Years 1-4
+1908,TransGaming Technologies,The Sims 3
+1909,Edge of Reality,The Sims 3
+1910,The Sims Studio,The Sims 3
+1911,Electronic Arts,The Sims 3
+1912,HAL Laboratory,Pokemon Ranger: Shadows of Almia
+1913,Creatures Inc.,Pokemon Ranger: Shadows of Almia
+1914,Nintendo,Pokemon Ranger: Shadows of Almia
+1915,Techland,Dead Island
+1916,Deep Silver,Dead Island
+1917,HAL Laboratory,Kirby: Nightmare in Dream Land
+1918,Nintendo,Kirby: Nightmare in Dream Land
+1919,Nintendo R&D1,Wario Land 4
+1920,Nintendo,Wario Land 4
+1921,iQue,Wario Land 4
+1922,Gradiente,Wario Land 4
+1923,Sega,Sonic's Ultimate Genesis Collection
+1924,Backbone Entertainment,Sonic's Ultimate Genesis Collection
+1925,Ubisoft Montreal,Far Cry: Primal
+1926,Ubisoft Entertainment,Far Cry: Primal
+1927,EA Digital Illusions CE,Battlefield 1
+1928,Electronic Arts,Battlefield 1
+1929,Capcom,Onimusha 2: Samurai's Destiny
+1930,Capcom Production Studio 2,Onimusha 2: Samurai's Destiny
+1931,UEP Systems,Cool Boarders 2
+1932,Sony Computer Entertainment of America,Cool Boarders 2
+1933,Sony Computer Entertainment Europe,Cool Boarders 2
+1934,Nintendo,Paper Mario: The Thousand-Year Door
+1935,Intelligent Systems,Paper Mario: The Thousand-Year Door
+1936,EA Orlando,Madden NFL 12
+1937,EA Sports,Madden NFL 12
+1938,SCE Santa Monica Studio,God of War: Ascension
+1939,Sony Computer Entertainment,God of War: Ascension
+1940,Neversoft Entertainment,Guitar Hero III: Legends of Rock
+1941,Budcat Creations,Guitar Hero III: Legends of Rock
+1942,Vicarious Visions,Guitar Hero III: Legends of Rock
+1943,Activision,Guitar Hero III: Legends of Rock
+1944,THQ,Sonic Advance
+1945,Dimps,Sonic Advance
+1946,Sega,Sonic Advance
+1947,Infogrames,Sonic Advance
+1948,Sonic Team,Sonic Advance
+1949,Gradiente,Sonic Advance
+1950,Sega,Super Monkey Ball: Banana Blitz
+1951,New Entertainment R&D Dept.,Super Monkey Ball: Banana Blitz
+1952,Land Ho!,Just Dance Kids
+1953,Ubisoft Entertainment,Just Dance Kids
+1954,Activision,Call of Duty 3
+1955,Treyarch,Call of Duty 3
+1956,Exact Entertainment,Call of Duty 3
+1957,Nintendo,New Super Luigi U
+1958,Nintendo EAD Software Development Group No.4,New Super Luigi U
+1959,Ubisoft Montreal,Assassin's Creed IV: Black Flag
+1960,Ubisoft Québec,Assassin's Creed IV: Black Flag
+1961,Ubisoft Montpellier,Assassin's Creed IV: Black Flag
+1962,Ubisoft Kyiv,Assassin's Creed IV: Black Flag
+1963,Ubisoft Sofia,Assassin's Creed IV: Black Flag
+1964,Ubisoft Singapore,Assassin's Creed IV: Black Flag
+1965,Ubisoft Annecy,Assassin's Creed IV: Black Flag
+1966,Ubisoft Bucharest,Assassin's Creed IV: Black Flag
+1967,Ubisoft Chengdu,Assassin's Creed IV: Black Flag
+1968,Ubisoft Milan,Assassin's Creed IV: Black Flag
+1969,Ubisoft Shanghai,Assassin's Creed IV: Black Flag
+1970,Ubisoft Pune,Assassin's Creed IV: Black Flag
+1971,Ubisoft North America,Assassin's Creed IV: Black Flag
+1972,Ubisoft Entertainment,Assassin's Creed IV: Black Flag
+1973,Universal Interactive Studios,Spyro: Season of Ice
+1974,Konami,Spyro: Season of Ice
+1975,Digital Eclipse,Spyro: Season of Ice
+1976,Square Enix,Dissidia: Final Fantasy
+1977,Square Enix Product Development Division 1,Dissidia: Final Fantasy
+1978,EA Sports,Madden NFL 25
+1979,EA Orlando,Madden NFL 25
+1980,Ultra Software Corporation,Teenage Mutant Ninja Turtles II: The Arcade Game
+1981,Konami,Teenage Mutant Ninja Turtles II: The Arcade Game
+1982,Konami,Dance Dance Revolution X2
+1983,Konami Digital Entertainment,Dance Dance Revolution X2
+1984,Gearbox Software,Borderlands 2
+1985,2K Games,Borderlands 2
+1986,Iron Galaxy Studios,Borderlands 2
+1987,Aspyr Media,Borderlands 2
+1988,Sony Computer Entertainment of America,Borderlands 2
+1989,Ubisoft Montreal,Prince of Persia: The Sands of Time
+1990,Ubisoft Entertainment,Prince of Persia: The Sands of Time
+1991,Capcom Production Studio 1,Monster Hunter Tri
+1992,Capcom,Monster Hunter Tri
+1993,WB Games,LEGO Marvel Super Heroes
+1994,Traveller's Tales,LEGO Marvel Super Heroes
+1995,Feral Interactive,LEGO Marvel Super Heroes
+1996,Capcom Production Studio 4,Resident Evil 4
+1997,Capcom,Resident Evil 4
+1998,Ubisoft Montreal,Tom Clancy's Rainbow Six: Siege
+1999,Ubisoft Entertainment,Tom Clancy's Rainbow Six: Siege
+2000,LucasArts,Star Wars: The Force Unleashed
+2001,THQ Wireless,Star Wars: The Force Unleashed
+2002,Universomo,Star Wars: The Force Unleashed
+2003,Aspyr Media,Star Wars: The Force Unleashed
+2004,Krome Studios,Star Wars: The Force Unleashed
+2005,Sourcenext,Devil May Cry 3: Dante's Awakening Special Edition
+2006,Capcom,Devil May Cry 3: Dante's Awakening Special Edition
+2007,Capcom Production Studio 1,Devil May Cry 3: Dante's Awakening Special Edition
+2008,Harmonix Music Systems,Guitar Hero II
+2009,Activision,Guitar Hero II
+2010,RedOctane,Guitar Hero II
+2011,Turn 10 Studios,Forza Motorsport 5
+2012,Microsoft Studios,Forza Motorsport 5
+2013,MTV Games,Rock Band 2
+2014,Harmonix Music Systems,Rock Band 2
+2015,Pi Studios,Rock Band 2
+2016,Criterion Games,Need for Speed: Hot Pursuit
+2017,TT Fusion,LEGO Indiana Jones: The Original Adventures
+2018,LucasArts,LEGO Indiana Jones: The Original Adventures
+2019,2K Games,BioShock 2
+2020,Take-Two Interactive,BioShock 2
+2021,D3 Publisher,BioShock 2
+2022,Arkane Studios,BioShock 2
+2023,Feral Interactive,BioShock 2
+2024,Darkside Game Studios,BioShock 2
+2025,2K Marin,BioShock 2
+2026,2K China,BioShock 2
+2027,2K Australia,BioShock 2
+2028,Digital Extremes,BioShock 2
+2029,Buena Vista Games,High School Musical: Makin' the Cut!
+2030,BioWare,Star Wars: Knights of the Old Republic
+2031,LucasArts,Star Wars: Knights of the Old Republic
+2032,Activision,Star Wars: Knights of the Old Republic
+2033,Aspyr Media,Star Wars: Knights of the Old Republic
+2034,EA Orlando,Madden NFL 15
+2035,EA Sports,Madden NFL 15
+2036,Konami,Pro Evolution Soccer 2012
+2037,THQ,Saints Row
+2038,Volition,Saints Row
+2039,Rainbow Studios,ATV Offroad Fury 2
+2040,THQ,ATV Offroad Fury 2
+2041,Sony Computer Entertainment,ATV Offroad Fury 2
+2042,EA Canada,FIFA 15
+2043,EA Sports,FIFA 15
+2044,Vanpool,Mario & Luigi: Superstar Saga
+2045,AlphaDream,Mario & Luigi: Superstar Saga
+2046,Nintendo,Mario & Luigi: Superstar Saga
+2047,iQue,Mario & Luigi: Superstar Saga
+2048,Factor 5,Star Wars: Rogue Squadron
+2049,LucasArts,Star Wars: Rogue Squadron
+2050,Nintendo,Star Wars: Rogue Squadron
+2051,Disney Interactive Studios,Star Wars: Rogue Squadron
+2052,Gradiente,Star Wars: Rogue Squadron
+2053,Ubisoft Red Storm,Tom Clancy's The Division
+2054,Massive Entertainment,Tom Clancy's The Division
+2055,Square Enix Business Division 1,Final Fantasy XIII
+2056,Square Enix,Final Fantasy XIII
+2057,Square Enix Product Development Division 1,Final Fantasy XIII
+2058,Maxis,The Sims: House Party
+2059,Electronic Arts,The Sims: House Party
+2060,Westlake Interactive,The Sims: House Party
+2061,Aspyr Media,The Sims: House Party
+2062,5th Cell,Scribblenauts
+2063,WB Games,Scribblenauts
+2064,Konami,Scribblenauts
+2065,Dimps,Sonic Unleashed
+2066,Sega,Sonic Unleashed
+2067,Sonic Team,Sonic Unleashed
+2068,Eidetic,Syphon Filter 2
+2069,989 Studios,Syphon Filter 2
+2070,HAL Laboratory,Pokemon Ranger
+2071,Nintendo,Pokemon Ranger
+2072,Creatures Inc.,Pokemon Ranger
+2073,The Pokémon Company,Pokemon Ranger
+2074,Activision,Skylanders SWAP Force
+2075,Vicarious Visions,Skylanders SWAP Force
+2076,Beenox,Skylanders SWAP Force
+2077,n-Space,Skylanders SWAP Force
+2078,Blizzard Entertainment,Overwatch
+2079,Square Enix,Overwatch
+2080,Square Enix,Hitman: Absolution
+2081,IO Interactive,Hitman: Absolution
+2082,Feral Interactive,Hitman: Absolution
+2083,Tradewest Inc,R.C. Pro-Am
+2084,Rare,R.C. Pro-Am
+2085,Nintendo,R.C. Pro-Am
+2086,Playtronic,R.C. Pro-Am
+2087,Nintendo,Super Mario RPG: Legend of the Seven Stars
+2088,Playtronic,Super Mario RPG: Legend of the Seven Stars
+2089,Hyundai,Super Mario RPG: Legend of the Seven Stars
+2090,Square,Super Mario RPG: Legend of the Seven Stars
+2091,Square Enix,Super Mario RPG: Legend of the Seven Stars
+2092,Amaze Entertainment,Call of Duty: Roads to Victory
+2093,Activision,Call of Duty: Roads to Victory
+2094,Konami,Dance Dance Revolution Extreme
+2095,Konami Computer Entertainment Tokyo,Dance Dance Revolution Extreme
+2096,Bemani,Dance Dance Revolution Extreme
+2097,Nintendo,Final Fantasy Tactics Advance
+2098,Square Enix,Final Fantasy Tactics Advance
+2099,Square,Final Fantasy Tactics Advance
+2100,Square Product Development Division 4,Final Fantasy Tactics Advance
+2101,Bizarre Creations,Project Gotham Racing
+2102,Microsoft Game Studios,Project Gotham Racing
+2103,Visual Concepts,NBA 2K12
+2104,2K Sports,NBA 2K12
+2105,Activision,Tony Hawk's Pro Skater
+2106,Edge of Reality,Tony Hawk's Pro Skater
+2107,Neversoft Entertainment,Tony Hawk's Pro Skater
+2108,Gradiente,Tony Hawk's Pro Skater
+2109,Electronic Arts,Need for Speed: Hot Pursuit 2
+2110,EA Seattle,Need for Speed: Hot Pursuit 2
+2111,Black Box Games,Need for Speed: Hot Pursuit 2
+2112,Konami Computer Entertainment Tokyo,PES 2009: Pro Evolution Soccer
+2113,Konami,PES 2009: Pro Evolution Soccer
+2114,Koei,Dynasty Warriors 4
+2115,Omega Force,Dynasty Warriors 4
+2116,2K Sports,NBA 2K14
+2117,Visual Concepts,NBA 2K14
+2118,Square Electronic Arts,Parasite Eve
+2119,Square,Parasite Eve
+2120,Square USA,Parasite Eve
+2121,THQ,Tetris DS
+2122,THQ,Scooby-Doo! Night of 100 Frights
+2123,Heavy Iron Studios,Scooby-Doo! Night of 100 Frights
+2124,Visceral Games,Battlefield: Hardline
+2125,Electronic Arts,Battlefield: Hardline
+2126,EA Digital Illusions CE,Battlefield: Hardline
+2127,NetherRealm Studios,Mortal Kombat
+2128,WB Games,Mortal Kombat
+2129,2K Games,Borderlands
+2130,CyberFront,Borderlands
+2131,Take-Two Interactive,Borderlands
+2132,Shadows in Darkness,Borderlands
+2133,Demiurge Studios,Borderlands
+2134,Gearbox Software,Borderlands
+2135,Feral Interactive,Borderlands
+2136,Capcom Production Studio 1,Devil May Cry 3: Dante's Awakening
+2137,Capcom,Devil May Cry 3: Dante's Awakening
+2138,2K Sports,NBA 2K11
+2139,Visual Concepts,NBA 2K11
+2140,Traveller's Tales,Finding Nemo
+2141,THQ,Finding Nemo
+2142,WB Games,Dying Light
+2143,Techland,Dying Light
+2144,Digital Scapes Studios,Dying Light
+2145,LEVEL-5,Yokai Watch
+2146,Nintendo,Yokai Watch
+2147,Capcom,Dead Rising
+2148,Capcom Production Studio 1,Dead Rising
+2149,QLOC,Dead Rising
+2150,Activision Blizzard,World of Warcraft: Cataclysm
+2151,Blizzard Entertainment,World of Warcraft: Cataclysm
+2152,Square Enix,Final Fantasy III
+2153,Matrix Software,Final Fantasy III
+2154,DotEmu,Final Fantasy III
+2155,Square Enix Business Division 3,Final Fantasy III
+2156,Hudson Soft,Mario Party 5
+2157,Nintendo,Mario Party 5
+2158,Electronic Arts,Rock Band
+2159,MTV Games,Rock Band
+2160,Harmonix Music Systems,Rock Band
+2161,Pi Studios,Rock Band
+2162,Nintendo,Mario & Luigi: Dream Team
+2163,AlphaDream,Mario & Luigi: Dream Team
+2164,Good-Feel,Mario & Luigi: Dream Team
+2165,Valve,Portal 2
+2166,Electronic Arts,Portal 2
+2167,Nintendo SPD Production Group No. 4,Mario Sports Mix
+2168,Nintendo,Mario Sports Mix
+2169,Square Enix,Mario Sports Mix
+2170,Team Fusion,Need for Speed: Most Wanted 5-1-0
+2171,Electronic Arts,Need for Speed: Most Wanted 5-1-0
+2172,Big Grub,Spec Ops: Airborne Commando
+2173,Take-Two Interactive,Spec Ops: Airborne Commando
+2174,Gotham Games,Spec Ops: Airborne Commando
+2175,Sony Computer Entertainment,Spec Ops: Airborne Commando
+2176,Full Fat Productions,The Sims 2: Pets
+2177,Maxis,The Sims 2: Pets
+2178,Electronic Arts,The Sims 2: Pets
+2179,Konami Digital Entertainment,Dance Dance Revolution: Hottest Party
+2180,Konami Computer Entertainment Tokyo,Dance Dance Revolution: Hottest Party
+2181,Konami,Dance Dance Revolution: Hottest Party
+2182,Evolution Studios,DriveClub
+2183,Sony Computer Entertainment,DriveClub
+2184,THQ,UFC 2009 Undisputed
+2185,Kojima Productions,Metal Gear Solid: Peace Walker
+2186,Konami,Metal Gear Solid: Peace Walker
+2187,Good-Feel,Kirby's Epic Yarn
+2188,Nintendo,Kirby's Epic Yarn
+2189,Helixe,The Incredibles
+2190,THQ,The Incredibles
+2191,Namco,R4: Ridge Racer Type 4
+2192,Square Enix,Kingdom Hearts: Birth by Sleep
+2193,Square Enix Product Development Division 5,Kingdom Hearts: Birth by Sleep
+2194,Disney Interactive Studios,Kingdom Hearts: Birth by Sleep
+2195,Ubisoft Montreal,Tom Clancy's Splinter Cell: Conviction
+2196,Ubisoft Entertainment,Tom Clancy's Splinter Cell: Conviction
+2197,Project Soul,SoulCalibur II
+2198,Namco,SoulCalibur II
+2199,Electronic Arts,Need for Speed: ProStreet
+2200,EA Black Box,Need for Speed: ProStreet
+2201,Sonic Team,Sonic Mega Collection
+2202,Infogrames,Sonic Mega Collection
+2203,Sega Corporation,Sonic Mega Collection
+2204,EA Orlando,Madden NFL 15
+2205,EA Sports,Madden NFL 15
+2206,EA Black Box,Need For Speed: Undercover
+2207,Electronic Arts,Need For Speed: Undercover
+2208,Disney Interactive Studios,Toy Story 3: The Video Game
+2209,n-Space,Toy Story 3: The Video Game
+2210,Zipper Interactive,SOCOM: U.S. Navy SEALs: Combined Assault
+2211,Sony Computer Entertainment,SOCOM: U.S. Navy SEALs: Combined Assault
+2212,Ubisoft Montpellier,Peter Jackson's King Kong: The Official Game of the Movie
+2213,Ubisoft Entertainment,Peter Jackson's King Kong: The Official Game of the Movie
+2214,Electronic Arts,Need for Speed: ProStreet
+2215,EA Black Box,Need for Speed: ProStreet
+2216,Nintendo,Donkey Kong Country
+2217,Rare,Donkey Kong Country
+2218,Harmonix Music Systems,Dance Central 2
+2219,Microsoft Studios,Dance Central 2
+2220,Bizarre Creations,PGR4 - Project Gotham Racing 4
+2221,Microsoft Game Studios,PGR4 - Project Gotham Racing 4
+2222,Electronic Arts,NBA Live 2004
+2223,EA Sports,NBA Live 2004
+2224,Activision,Call of Duty 2
+2225,Infinity Ward,Call of Duty 2
+2226,Ubisoft Paris,Rayman Raving Rabbids: TV Party
+2227,Chunsoft,Pokémon Mystery Dungeon: Blue Rescue Team
+2228,Nintendo,Pokémon Mystery Dungeon: Blue Rescue Team
+2229,FromSoftware,Dark Souls
+2230,Bandai Namco Entertainment,Dark Souls
+2231,Ubisoft Reflections,Just Dance 3
+2232,Ubisoft Montreal,Just Dance 3
+2233,Ubisoft Entertainment,Just Dance 3
+2234,EA Digital Illusions CE,Battlefield 4
+2235,Electronic Arts,Battlefield 4
+2236,Nintendo,Fire Emblem: Awakening
+2237,Nintendo SPD Production Group No. 2,Fire Emblem: Awakening
+2238,Intelligent Systems,Fire Emblem: Awakening
+2239,EA Black Box,Need for Speed: The Run
+2240,Electronic Arts,Need for Speed: The Run
+2241,Ubisoft Paris,Just Dance 2015
+2242,Ubisoft Milan,Just Dance 2015
+2243,Ubisoft Reflections,Just Dance 2015
+2244,Ubisoft Pune,Just Dance 2015
+2245,Ubisoft Entertainment,Just Dance 2015
+2246,Electronic Arts,Dragon Age: Inquisition
+2247,BioWare,Dragon Age: Inquisition
+2248,BioWare Edmonton,Dragon Age: Inquisition
+2249,EA Redwood Shores,Dead Space
+2250,Electronic Arts,Dead Space
+2251,WB Games,Mortal Kombat vs. DC Universe
+2252,Midway Games,Mortal Kombat vs. DC Universe
+2253,Midway,TouchMaster
+2254,Nintendo,Tennis
+2255,Playtronic,Tennis
+2256,Eurocom Entertainment Software,Harry Potter and the Chamber of Secrets
+2257,Electronic Arts,Harry Potter and the Chamber of Secrets
+2258,"h.a.n.d., Inc.",Kingdom Hearts 358/2 Days
+2259,Disney Interactive Studios,Kingdom Hearts 358/2 Days
+2260,Square Enix,Kingdom Hearts 358/2 Days
+2261,EA Black Box,Skate 3
+2262,Electronic Arts,Skate 3
+2263,St. GIGA,SimCity
+2264,Nintendo,SimCity
+2265,Nintendo EAD,SimCity
+2266,Playtronic,SimCity
+2267,Argonaut Games,Harry Potter and the Chamber of Secrets
+2268,Electronic Arts,Harry Potter and the Chamber of Secrets
+2269,Criterion Games,Need for Speed Rivals
+2270,Ghost Games,Need for Speed Rivals
+2271,Electronic Arts,Need for Speed Rivals
+2272,Equinoxe,Spyro: Enter the Dragonfly
+2273,Check Six Games,Spyro: Enter the Dragonfly
+2274,Universal Interactive Studios,Spyro: Enter the Dragonfly
+2275,Capcom,Devil May Cry 2
+2276,Capcom Production Studio 1,Devil May Cry 2
+2277,Clap Hanz,Hot Shots Golf: Open Tee
+2278,"Sony Computer Entertainment, Inc. (SCEI)",Hot Shots Golf: Open Tee
+2279,Sony Computer Entertainment of America,Hot Shots Golf: Open Tee
+2280,Sony Computer Entertainment Europe,Hot Shots Golf: Open Tee
+2281,4J Studios,Minecraft
+2282,Nintendo,Soccer
+2283,Intelligent Systems,Soccer
+2284,Microsoft Studios,Forza Horizon
+2285,Playground Games,Forza Horizon
+2286,Turn 10 Studios,Forza Horizon
+2287,Ubisoft Montreal,Tom Clancy's Rainbow Six: Vegas
+2288,Ubisoft Québec,Tom Clancy's Rainbow Six: Vegas
+2289,Ubisoft Entertainment,Tom Clancy's Rainbow Six: Vegas
+2290,Vicarious Visions,Crash Nitro Kart
+2291,Universal Interactive Studios,Crash Nitro Kart
+2292,Konami,Crash Nitro Kart
+2293,Vivendi Universal Games,Crash Nitro Kart
+2294,QLOC,Resident Evil 6
+2295,Capcom,Resident Evil 6
+2296,Rockstar North,Grand Theft Auto: San Andreas
+2297,Take-Two Interactive,Grand Theft Auto: San Andreas
+2298,Rockstar Games,Grand Theft Auto: San Andreas
+2299,TransGaming Inc.,Grand Theft Auto: San Andreas
+2300,EA Sports BIG,NBA Street Vol. 2
+2301,EA Canada,NBA Street Vol. 2
+2302,EA Canada,Def Jam Vendetta
+2303,EA Sports BIG,Def Jam Vendetta
+2304,AKI Corporation,Def Jam Vendetta
+2305,Nintendo,Kirby Squeak Squad
+2306,HAL Laboratory,Kirby Squeak Squad
+2307,Flagship,Kirby Squeak Squad
+2308,"Natsume Co., Ltd.",Kirby Squeak Squad
+2309,Electronic Arts,Burnout Paradise
+2310,Criterion Games,Burnout Paradise
+2311,Jellyvision,Who wants to be a millionaire
+2312,Disney Interactive,Who wants to be a millionaire
+2313,Hothouse Creations,Who wants to be a millionaire
+2314,Eidos Interactive,Who wants to be a millionaire
+2315,Nintendo R&D1,Alleyway
+2316,Playtronic,Alleyway
+2317,Nintendo,Alleyway
+2318,Intelligent Systems,Alleyway
+2319,ART,Scooby Doo and the Cyber Chase
+2320,THQ,Scooby Doo and the Cyber Chase
+2321,TransGaming Technologies,The Sims 3
+2322,Edge of Reality,The Sims 3
+2323,The Sims Studio,The Sims 3
+2324,Electronic Arts,The Sims 3
+2325,EA Canada,FIFA Soccer 09
+2326,EA Sports,FIFA Soccer 09
+2327,Dimps,Dragon Ball Z: Budokai 3
+2328,Bandai,Dragon Ball Z: Budokai 3
+2329,"Atari, Inc.",Dragon Ball Z: Budokai 3
+2330,Treyarch,Call of Duty: World at War
+2331,Arkane Studios,Call of Duty: World at War
+2332,Exakt Entertainment,Call of Duty: World at War
+2333,Activision,Call of Duty: World at War
+2334,Sony Computer Entertainment,Jet Moto 2
+2335,Sony Interactive Studios America,Jet Moto 2
+2336,SingleTrac,Jet Moto 2
+2337,Red Storm Entertainment,Tom Clancy's Ghost Recon
+2338,Ubisoft Entertainment,Tom Clancy's Ghost Recon
+2339,Virtual Programming,BioShock Infinite
+2340,Aspyr Media,BioShock Infinite
+2341,2K Games,BioShock Infinite
+2342,Irrational Games,BioShock Infinite
+2343,2K Australia,BioShock Infinite
+2344,Human Head Studios,BioShock Infinite
+2345,Raven Software,X-Men Legends
+2346,Activision,X-Men Legends
+2347,Sega,Virtua Fighter 2
+2348,Sega AM2,Virtua Fighter 2
+2349,WB Games,Mortal Kombat vs. DC Universe
+2350,Midway Games,Mortal Kombat vs. DC Universe
+2351,Bungie,Destiny: The Taken King
+2352,Activision,Destiny: The Taken King
+2353,Bungie,Destiny
+2354,Activision,Destiny
+2355,ND Games,Destiny
+2356,Volition,Red Faction
+2357,THQ,Red Faction
+2358,THQ Nordic,Red Faction
+2359,Deep Silver,Red Faction
+2360,Graphsim Entertainment,Red Faction
+2361,Maxis,The Sims: Makin' Magic
+2362,Electronic Arts,The Sims: Makin' Magic
+2363,Aspyr Media,The Sims: Makin' Magic
+2364,Westlake Interactive,The Sims: Makin' Magic
+2365,Nintendo,Mario Party: Island Tour
+2366,NDCube,Mario Party: Island Tour
+2367,THQ,MX Unleashed
+2368,Rainbow Studios,MX Unleashed
+2369,NanaOn-Sha,PaRappa The Rapper
+2370,Sony Computer Entertainment,PaRappa The Rapper
+2371,Activision,Guitar Hero: World Tour
+2372,Neversoft Entertainment,Guitar Hero: World Tour
+2373,Budcat Creations,Guitar Hero: World Tour
+2374,Vicarious Visions,Guitar Hero: World Tour
+2375,Aspyr Media,Guitar Hero: World Tour
+2376,Slightly Mad Studios,Need for Speed: Shift
+2377,Electronic Arts,Need for Speed: Shift
+2378,Nintendo,Mario Party 3
+2379,Hudson Soft,Mario Party 3
+2380,Gradiente,Mario Party 3
+2381,Blizzard Entertainment,Diablo III
+2382,Square Enix,Diablo III
+2383,Sumo Digital,LittleBigPlanet 3
+2384,D3T Limited,LittleBigPlanet 3
+2385,Sony Computer Entertainment,LittleBigPlanet 3
+2386,LucasArts,Star Wars Rogue Leader: Rogue Squadron II
+2387,Factor 5,Star Wars Rogue Leader: Rogue Squadron II
+2388,Activision,Star Wars Rogue Leader: Rogue Squadron II
+2389,NOW Production,Mario Super Sluggers
+2390,Nintendo,Mario Super Sluggers
+2391,Namco Bandai Games,Mario Super Sluggers
+2392,Nintendo,Donkey Kong Country Returns
+2393,Electronic Arts,Monopoly
+2394,EA Bright Light,Monopoly
+2395,EA Orlando,Madden NFL 09
+2396,EA Sports,Madden NFL 09
+2397,WB Games,Batman: Arkham Origins
+2398,WB Games Montréal,Batman: Arkham Origins
+2399,Human Head Studios,Batman: Arkham Origins
+2400,Splash Damage,Batman: Arkham Origins
+2401,Warner Bros. Interactive Entertainment,Batman: Arkham Origins
+2402,WB Games,Game Party 2
+2403,Konami Computer Entertainment Japan,Yu-Gi-Oh! Forbidden Memories
+2404,Konami,Yu-Gi-Oh! Forbidden Memories
+2405,Midway Games,Mortal Kombat: Deception
+2406,Clap Hanz,Hot Shots Golf 2
+2407,Sony Computer Entertainment Europe,Hot Shots Golf 2
+2408,Sony Computer Entertainment of America,Hot Shots Golf 2
+2409,"Sony Computer Entertainment, Inc. (SCEI)",Hot Shots Golf 2
+2410,Sony Interactive Entertainment,Hot Shots Golf 2
+2411,Visual Concepts,NBA 2K17
+2412,2K Sports,NBA 2K17
+2413,Disney Interactive Studios,Toy Story Mania!
+2414,Papaya Studio,Toy Story Mania!
+2415,High Voltage Software,Toy Story Mania!
+2416,Buena Vista Games,High School Musical: Sing It!
+2417,Artificial Mind & Movement,High School Musical: Sing It!
+2418,Nintendo,Star Fox Adventures
+2419,Rare,Star Fox Adventures
+2420,EA Sports,Madden NFL 25
+2421,EA Orlando,Madden NFL 25
+2422,Omega Force,Dynasty Warriors 3
+2423,Koei,Dynasty Warriors 3
+2424,Insomniac Games,Ratchet & Clank Future: A Crack in Time
+2425,Sony Computer Entertainment,Ratchet & Clank Future: A Crack in Time
+2426,Budcat Creations,Madden NFL 06
+2427,EA Orlando,Madden NFL 06
+2428,EA Sports,Madden NFL 06
+2429,Luxoflux,Shrek 2
+2430,Beenox,Shrek 2
+2431,Activision,Shrek 2
+2432,SCE Japan Studio,The Legend of Dragoon
+2433,Sony Computer Entertainment,The Legend of Dragoon
+2434,SCE London Studio,SingStar
+2435,Sony Computer Entertainment Europe,SingStar
+2436,LucasArts,Star Wars: The Force Unleashed
+2437,Krome Studios,Star Wars: The Force Unleashed
+2438,Electronic Arts,NBA Live 2002
+2439,EA Sports,NBA Live 2002
+2440,Avalanche Studios,Just Cause 3
+2441,Square Enix,Just Cause 3
+2442,Human Head Studios,Just Cause 3
+2443,Square,Chrono Cross
+2444,Square Product Development Division 3,Chrono Cross
+2445,Sony Interactive Entertainment,Jak 3
+2446,Naughty Dog,Jak 3
+2447,Jupiter Corporation,Kingdom Hearts: Chain of Memories
+2448,Nintendo,Kingdom Hearts: Chain of Memories
+2449,Disney Interactive,Kingdom Hearts: Chain of Memories
+2450,Square Enix,Kingdom Hearts: Chain of Memories
+2451,Square Enix Product Development Division 1,Kingdom Hearts: Chain of Memories
+2452,Rockstar Games,Max Payne 3
+2453,Rockstar Vancouver,Max Payne 3
+2454,Rockstar New England,Max Payne 3
+2455,Rockstar London,Max Payne 3
+2456,Rockstar Toronto,Max Payne 3
+2457,Take-Two Interactive,Max Payne 3
+2458,WB Games,LEGO Marvel Super Heroes
+2459,Traveller's Tales,LEGO Marvel Super Heroes
+2460,Feral Interactive,LEGO Marvel Super Heroes
+2461,EA Sports,NCAA Football 06
+2462,EA Orlando,NCAA Football 06
+2463,Nintendo,"Hey You, Pikachu!"
+2464,Ambrella,"Hey You, Pikachu!"
+2465,Ubisoft Paris,Rayman Raving Rabbids 2
+2466,Ubisoft Entertainment,Rayman Raving Rabbids 2
+2467,Sega,2 Games in 1: Sonic Advance & ChuChu Rocket!
+2468,Sonic Team,2 Games in 1: Sonic Advance & ChuChu Rocket!
+2469,THQ,2 Games in 1: Sonic Advance & ChuChu Rocket!
+2470,SingleTrac,Jet Moto
+2471,Sony Computer Entertainment,Jet Moto
+2472,Nintendo,Kirby: Triple Deluxe
+2473,HAL Laboratory,Kirby: Triple Deluxe
+2474,Square Enix,Secret of Mana
+2475,Square,Secret of Mana
+2476,The Creative Assembly,Sonic Classic Collection
+2477,Arsys Software,Air Combat
+2478,Namco,Air Combat
+2479,Blizzard Entertainment,Diablo III
+2480,Square Enix,Diablo III
+2481,Sucker Punch Productions,inFAMOUS 2
+2482,Sony Computer Entertainment,inFAMOUS 2
+2483,Blizzard Entertainment,World of Warcraft: Mists of Pandaria
+2484,Activision Blizzard,World of Warcraft: Mists of Pandaria
+2485,Sonic Team,Sonic & Knuckles
+2486,Tec Toy,Sonic & Knuckles
+2487,Sega Corporation,Sonic & Knuckles
+2488,"Sega Enterprises, Ltd.",Sonic & Knuckles
+2489,Maxis,The Sims: Hot Date
+2490,Electronic Arts,The Sims: Hot Date
+2491,Westlake Interactive,The Sims: Hot Date
+2492,Aspyr Media,The Sims: Hot Date
+2493,FromSoftware,Demon's Souls
+2494,SCE Japan Studio,Demon's Souls
+2495,Atlus,Demon's Souls
+2496,Namco Bandai Games,Demon's Souls
+2497,EA UK,The Orange Box
+2498,Valve,The Orange Box
+2499,Electronic Arts,The Orange Box
+2500,Konami,DDRMAX2: Dance Dance Revolution
+2501,Konami Computer Entertainment Tokyo,DDRMAX2: Dance Dance Revolution
+2502,Sega,Crazy Taxi
+2503,Hitmaker,Crazy Taxi
+2504,Acclaim Entertainment,Crazy Taxi
+2505,Acclaim Studios Cheltenham,Crazy Taxi
+2506,Activision Value,Crazy Taxi
+2507,Strangelite Limited,Crazy Taxi
+2508,Sega Studios,Crazy Taxi
+2509,Sega AM2,Virtua Fighter 4
+2510,Sega,Virtua Fighter 4
+2511,Hangar 13,Mafia III
+2512,2K Games,Mafia III
+2513,Aspyr Media,Mafia III
+2514,Take-Two Interactive,Mafia III
+2515,Sucker Punch Productions,Sly 2: Band of Thieves
+2516,Sony Computer Entertainment,Sly 2: Band of Thieves
+2517,Activision,Guitar Hero: World Tour
+2518,Neversoft Entertainment,Guitar Hero: World Tour
+2519,Budcat Creations,Guitar Hero: World Tour
+2520,Vicarious Visions,Guitar Hero: World Tour
+2521,Aspyr Media,Guitar Hero: World Tour
+2522,THQ,Sonic Advance 2
+2523,Infogrames,Sonic Advance 2
+2524,Sega,Sonic Advance 2
+2525,Dimps,Sonic Advance 2
+2526,Sonic Team,Sonic Advance 2
+2527,EA Orlando,Madden NFL 07
+2528,EA Canada,Madden NFL 07
+2529,EA Sports,Madden NFL 07
+2530,2K Sports,NBA 2K11
+2531,Visual Concepts,NBA 2K11
+2532,Turn 10 Studios,Forza Motorsport 6
+2533,Microsoft Studios,Forza Motorsport 6
+2534,Tango Gameworks,The Evil Within
+2535,The Workshop Entertainment,The Evil Within
+2536,Bethesda Softworks,The Evil Within
+2537,Retro Studios,Metroid Prime 3: Corruption
+2538,Nintendo,Metroid Prime 3: Corruption
+2539,Nintendo,The Legend of Zelda: The Wind Waker
+2540,LEVEL-5,Professor Layton and the Mask of Miracle
+2541,Nintendo,Professor Layton and the Mask of Miracle
+2542,Rockstar San Diego,Midnight Club II
+2543,Rockstar Games,Midnight Club II
+2544,Take-Two Interactive,Midnight Club II
+2545,THQ,SpongeBob SquarePants: SuperSponge
+2546,Climax Group,SpongeBob SquarePants: SuperSponge
+2547,SCE London Studio,The Getaway: Black Monday
+2548,Sony Computer Entertainment Europe,The Getaway: Black Monday
+2549,Sony Computer Entertainment of America,The Getaway: Black Monday
+2550,Sega,The Getaway: Black Monday
+2551,Genuine Games,50 Cent: Bulletproof
+2552,Interscope,50 Cent: Bulletproof
+2553,High Voltage Software,50 Cent: Bulletproof
+2554,Sierra Entertainment,50 Cent: Bulletproof
+2555,Vivendi Games,50 Cent: Bulletproof
+2556,Square,Final Fantasy II
+2557,Nintendo,Kirby 64: The Crystal Shards
+2558,HAL Laboratory,Kirby 64: The Crystal Shards
+2559,Gradiente,Kirby 64: The Crystal Shards
+2560,Team NINJA,Dead or Alive 3
+2561,Microsoft Game Studios,Dead or Alive 3
+2562,Tecmo,Dead or Alive 3
+2563,Koei Tecmo Games,Dead or Alive 3
+2564,Square Enix,Dragon Quest Monsters: Joker
+2565,Tose,Dragon Quest Monsters: Joker
+2566,Square Enix Product Development Division 9,Dragon Quest Monsters: Joker
+2567,Armor Project,Dragon Quest Monsters: Joker
+2568,Bird Studio,Dragon Quest Monsters: Joker
+2569,Traveller's Tales,LEGO Star Wars III: The Clone Wars
+2570,Feral Interactive,LEGO Star Wars III: The Clone Wars
+2571,LucasArts,LEGO Star Wars III: The Clone Wars
+2572,Buena Vista Games,High School Musical: Sing It!
+2573,Artificial Mind & Movement,High School Musical: Sing It!
