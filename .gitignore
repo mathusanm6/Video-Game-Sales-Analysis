@@ -1,2 +1,4 @@
+.DS_Store
+
 # Ignore pyenv
 vgsales_env/
